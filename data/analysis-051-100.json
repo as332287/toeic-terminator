@@ -1,0 +1,3270 @@
+{
+  "51": {
+    "translation": "電視在美國已存在半個世紀，但它仍是一個會引起強烈且相互矛盾意見的爭議性話題。",
+    "skeleton": [
+      "Television has been around ... for half a century｜現在完成式",
+      "and it is still a controversial topic｜並列主句",
+      "which arouses strong and contradictory opinions｜關係子句"
+    ],
+    "grammar": [
+      "which 引導關係子句，先行詞是單數 topic，所以動詞用 arouses。",
+      "arouse 是及物動詞，可直接接 opinions；arise 是不及物動詞，不能接受詞。",
+      "has been around 表示「已存在一段時間」。"
+    ],
+    "vocab": [
+      {
+        "term": "controversial",
+        "pos": "adj.",
+        "meaning": "具爭議的",
+        "usage": "controversial topic＝爭議話題"
+      },
+      {
+        "term": "contradictory",
+        "pos": "adj.",
+        "meaning": "互相矛盾的",
+        "usage": "contradictory opinions＝矛盾的意見"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "rises",
+        "meaning": "上升（三單）",
+        "usage": "prices rise＝價格上升"
+      },
+      {
+        "label": "B",
+        "term": "arouses",
+        "meaning": "引起、激起",
+        "usage": "arouse interest/opinions＝引起興趣／意見"
+      },
+      {
+        "label": "C",
+        "term": "arises",
+        "meaning": "發生、出現",
+        "usage": "a problem arises＝問題出現"
+      },
+      {
+        "label": "D",
+        "term": "rose",
+        "meaning": "rise 的過去式",
+        "usage": "prices rose＝價格上漲"
+      }
+    ],
+    "collocations": [
+      "arouse interest＝引起興趣",
+      "controversial topic＝爭議話題",
+      "contradictory opinions＝矛盾意見"
+    ],
+    "example": {
+      "en": "The proposal aroused strong opposition.",
+      "zh": "這項提案引起強烈反對。"
+    },
+    "sourceNote": "原題 Untied States 為拼字錯誤，標準應為 United States。"
+  },
+  "52": {
+    "translation": "您可以信賴我們會完整執行跟單信用狀中的指示。",
+    "skeleton": [
+      "You may rely on us｜主句",
+      "to carry out the instruction｜不定詞",
+      "in the Documentary Credit｜位置／文件",
+      "in full｜完整地"
+    ],
+    "grammar": [
+      "rely on + 人＝信賴某人。",
+      "rely on us to + V＝相信我們會做……。",
+      "carry out instructions＝執行指示。",
+      "in full＝完整地、全部地。"
+    ],
+    "vocab": [
+      {
+        "term": "rely on",
+        "pos": "phr.",
+        "meaning": "信賴、依靠",
+        "usage": "rely on someone＝依靠某人"
+      },
+      {
+        "term": "instruction",
+        "pos": "n.",
+        "meaning": "指示",
+        "usage": "follow/carry out instructions＝遵從／執行指示"
+      },
+      {
+        "term": "Documentary Credit",
+        "pos": "n.",
+        "meaning": "跟單信用狀",
+        "usage": "documentary credit＝跟單信用狀"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "carry through",
+        "meaning": "把……完成到底",
+        "usage": "carry a plan through＝完成計畫"
+      },
+      {
+        "label": "B",
+        "term": "carry on",
+        "meaning": "繼續",
+        "usage": "carry on working＝繼續工作"
+      },
+      {
+        "label": "C",
+        "term": "carry out",
+        "meaning": "執行",
+        "usage": "carry out instructions＝執行指示"
+      },
+      {
+        "label": "D",
+        "term": "carry away",
+        "meaning": "帶走",
+        "usage": "be carried away＝被帶走／過度興奮"
+      }
+    ],
+    "collocations": [
+      "rely on＝信賴",
+      "carry out instructions＝執行指示",
+      "in full＝完整地"
+    ],
+    "example": {
+      "en": "You can rely on us to carry out your instructions.",
+      "zh": "您可以信賴我們會執行您的指示。"
+    }
+  },
+  "53": {
+    "translation": "貨幣可以被視為一種商品，並在外匯市場中交易。",
+    "skeleton": [
+      "Money can be considered as a commodity｜被動語態",
+      "and it is traded｜並列被動",
+      "in the foreign exchange market｜地點"
+    ],
+    "grammar": [
+      "can be considered 是情態動詞被動語態。",
+      "consider A as B＝把 A 視為 B；現代英文也常直接說 consider A B。",
+      "it is traded 是一般現在式被動。"
+    ],
+    "vocab": [
+      {
+        "term": "commodity",
+        "pos": "n.",
+        "meaning": "商品、大宗物資",
+        "usage": "commodity market＝商品市場"
+      },
+      {
+        "term": "foreign exchange market",
+        "pos": "n.",
+        "meaning": "外匯市場",
+        "usage": "trade in the foreign exchange market＝在外匯市場交易"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "facility",
+        "meaning": "設施",
+        "usage": "production facility＝生產設施"
+      },
+      {
+        "label": "B",
+        "term": "commodity",
+        "meaning": "商品、大宗物資",
+        "usage": "commodity market＝商品市場"
+      },
+      {
+        "label": "C",
+        "term": "loan",
+        "meaning": "貸款",
+        "usage": "take out a loan＝申請貸款"
+      },
+      {
+        "label": "D",
+        "term": "credit",
+        "meaning": "信用；貸方",
+        "usage": "credit card＝信用卡"
+      }
+    ],
+    "collocations": [
+      "be considered as＝被視為",
+      "commodity＝商品",
+      "foreign exchange market＝外匯市場"
+    ],
+    "example": {
+      "en": "Currencies are traded in the foreign exchange market.",
+      "zh": "貨幣在外匯市場中交易。"
+    }
+  },
+  "54": {
+    "translation": "Shirley 女士積極進取，並希望承擔更多責任。",
+    "skeleton": [
+      "Ms. Shirley is aggressive｜主句一",
+      "and wants to take on more responsibilities｜主句二"
+    ],
+    "grammar": [
+      "want to + V＝想要做……。",
+      "take on responsibilities＝承擔責任，是常見商務搭配。",
+      "aggressive 在職場語境可表示積極進取，也可能有「強勢」語感。"
+    ],
+    "vocab": [
+      {
+        "term": "aggressive",
+        "pos": "adj.",
+        "meaning": "積極進取的；強勢的",
+        "usage": "aggressive strategy＝積極策略"
+      },
+      {
+        "term": "responsibility",
+        "pos": "n.",
+        "meaning": "責任",
+        "usage": "take on responsibility＝承擔責任"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "take in",
+        "meaning": "吸收、理解",
+        "usage": "take in information＝吸收資訊"
+      },
+      {
+        "label": "B",
+        "term": "take on",
+        "meaning": "承擔、接受",
+        "usage": "take on responsibility＝承擔責任"
+      },
+      {
+        "label": "C",
+        "term": "get to",
+        "meaning": "到達；開始",
+        "usage": "get to work＝開始工作"
+      },
+      {
+        "label": "D",
+        "term": "get on",
+        "meaning": "上車；相處",
+        "usage": "get on well＝相處融洽"
+      }
+    ],
+    "collocations": [
+      "take on responsibility＝承擔責任",
+      "want to + V＝想要做"
+    ],
+    "example": {
+      "en": "She is ready to take on more responsibility.",
+      "zh": "她已準備好承擔更多責任。"
+    }
+  },
+  "55": {
+    "translation": "建築公司已提交興建該建築群的投標書。",
+    "skeleton": [
+      "The bids on putting up the complex｜主詞",
+      "have been submitted｜現在完成式被動",
+      "by the construction companies｜施事者"
+    ],
+    "grammar": [
+      "on 是介系詞，因此後面接 V-ing。",
+      "put up a building＝興建建築。",
+      "have been submitted 是現在完成式被動。",
+      "bid on + 專案＝針對某專案投標。"
+    ],
+    "vocab": [
+      {
+        "term": "bid",
+        "pos": "n.",
+        "meaning": "投標、標案",
+        "usage": "submit a bid＝提交投標"
+      },
+      {
+        "term": "complex",
+        "pos": "n.",
+        "meaning": "建築群、綜合設施",
+        "usage": "office complex＝辦公建築群"
+      },
+      {
+        "term": "construction company",
+        "pos": "n.",
+        "meaning": "建築公司",
+        "usage": "construction company＝建築公司"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "putting off",
+        "meaning": "延後",
+        "usage": "put off a meeting＝延後會議"
+      },
+      {
+        "label": "B",
+        "term": "putting up",
+        "meaning": "興建；張貼",
+        "usage": "put up a building＝興建建築"
+      },
+      {
+        "label": "C",
+        "term": "putting on",
+        "meaning": "穿上；舉辦",
+        "usage": "put on a show＝舉辦表演"
+      },
+      {
+        "label": "D",
+        "term": "putting through",
+        "meaning": "接通電話",
+        "usage": "put a call through＝接通電話"
+      }
+    ],
+    "collocations": [
+      "put up a building＝興建建築",
+      "submit a bid＝提交投標",
+      "bid on＝對……投標"
+    ],
+    "example": {
+      "en": "Several companies submitted bids on building the new complex.",
+      "zh": "數家公司提交了興建新建築群的投標。"
+    }
+  },
+  "56": {
+    "translation": "廣告商使用各種策略來吸引你的注意力並讓你花錢。",
+    "skeleton": [
+      "Advertisers｜主詞",
+      "use all kinds of strategies｜動詞＋受詞",
+      "to get your attention and your dollars｜目的"
+    ],
+    "grammar": [
+      "all kinds of + 複數名詞＝各種……。",
+      "strategies 是複數名詞，語意最符合。",
+      "to get... 是目的不定詞。",
+      "get one’s attention＝吸引某人的注意。"
+    ],
+    "vocab": [
+      {
+        "term": "advertiser",
+        "pos": "n.",
+        "meaning": "廣告商",
+        "usage": "advertisers use strategies＝廣告商使用策略"
+      },
+      {
+        "term": "strategy",
+        "pos": "n.",
+        "meaning": "策略",
+        "usage": "marketing strategy＝行銷策略"
+      },
+      {
+        "term": "attention",
+        "pos": "n.",
+        "meaning": "注意力",
+        "usage": "get/attract attention＝吸引注意"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "formula",
+        "meaning": "公式；配方",
+        "usage": "formula for success＝成功公式"
+      },
+      {
+        "label": "B",
+        "term": "process",
+        "meaning": "流程",
+        "usage": "production process＝生產流程"
+      },
+      {
+        "label": "C",
+        "term": "strategies",
+        "meaning": "策略",
+        "usage": "marketing strategies＝行銷策略"
+      },
+      {
+        "label": "D",
+        "term": "arrangement",
+        "meaning": "安排",
+        "usage": "make arrangements＝做安排"
+      }
+    ],
+    "collocations": [
+      "all kinds of＝各種",
+      "marketing strategies＝行銷策略",
+      "get one’s attention＝吸引注意"
+    ],
+    "example": {
+      "en": "Advertisers use different strategies to attract customers.",
+      "zh": "廣告商使用不同策略吸引顧客。"
+    }
+  },
+  "57": {
+    "translation": "代表們期待談判結束後回家與家人見面。",
+    "skeleton": [
+      "The representatives｜主詞",
+      "are looking forward to｜固定搭配",
+      "going home and seeing their families｜兩個動名詞",
+      "after this negotiation｜時間"
+    ],
+    "grammar": [
+      "look forward to + N／V-ing＝期待……。",
+      "這裡的 to 是介系詞，所以後面用 going、seeing。",
+      "going home 與 seeing their families 為平行結構。"
+    ],
+    "vocab": [
+      {
+        "term": "representative",
+        "pos": "n.",
+        "meaning": "代表",
+        "usage": "sales representative＝業務代表"
+      },
+      {
+        "term": "negotiation",
+        "pos": "n.",
+        "meaning": "談判",
+        "usage": "after the negotiation＝談判之後"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "looking up to",
+        "meaning": "尊敬",
+        "usage": "look up to someone＝尊敬某人"
+      },
+      {
+        "label": "B",
+        "term": "looking for",
+        "meaning": "尋找",
+        "usage": "look for a job＝找工作"
+      },
+      {
+        "label": "C",
+        "term": "looking out",
+        "meaning": "留意",
+        "usage": "look out for＝留意"
+      },
+      {
+        "label": "D",
+        "term": "looking forward to",
+        "meaning": "期待",
+        "usage": "look forward to + V-ing＝期待做"
+      }
+    ],
+    "collocations": [
+      "look forward to + V-ing＝期待做",
+      "go home＝回家",
+      "after the negotiation＝談判後"
+    ],
+    "example": {
+      "en": "We look forward to seeing you again.",
+      "zh": "我們期待再次見到您。"
+    }
+  },
+  "58": {
+    "translation": "我們公司正在考慮將業務擴展到海外市場。",
+    "skeleton": [
+      "Our company｜主詞",
+      "is thinking of expanding｜正在考慮擴展",
+      "its operations into foreign markets｜受詞＋方向"
+    ],
+    "grammar": [
+      "think of + V-ing＝考慮做……。",
+      "expand operations＝擴展業務。",
+      "into + 市場／地區表示「進入、擴展到」。"
+    ],
+    "vocab": [
+      {
+        "term": "operation",
+        "pos": "n.",
+        "meaning": "營運、業務",
+        "usage": "expand operations＝擴展業務"
+      },
+      {
+        "term": "foreign market",
+        "pos": "n.",
+        "meaning": "海外市場",
+        "usage": "enter foreign markets＝進入海外市場"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "raising",
+        "meaning": "提高",
+        "usage": "raise prices＝提高價格"
+      },
+      {
+        "label": "B",
+        "term": "inflating",
+        "meaning": "使膨脹；哄抬",
+        "usage": "inflate prices＝哄抬價格"
+      },
+      {
+        "label": "C",
+        "term": "enhancing",
+        "meaning": "提升、改善",
+        "usage": "enhance quality＝提升品質"
+      },
+      {
+        "label": "D",
+        "term": "expanding",
+        "meaning": "擴展",
+        "usage": "expand operations＝擴展業務"
+      }
+    ],
+    "collocations": [
+      "think of + V-ing＝考慮做",
+      "expand operations＝擴展業務",
+      "foreign markets＝海外市場"
+    ],
+    "example": {
+      "en": "The company plans to expand into foreign markets.",
+      "zh": "公司計畫拓展海外市場。"
+    }
+  },
+  "59": {
+    "translation": "在某些國家，商務人士的風格非常直接；而在其他國家，風格則含蓄得多。",
+    "skeleton": [
+      "In some countries｜第一組",
+      "business people have a very direct style｜主句",
+      "while in others｜對比",
+      "they are much more subtle in style｜第二組"
+    ],
+    "grammar": [
+      "some ... others ...＝有些……，另一些……。",
+      "others 在這裡代替 other countries。",
+      "while 用來對比兩種情況。",
+      "much 可加強比較級 more subtle。"
+    ],
+    "vocab": [
+      {
+        "term": "direct",
+        "pos": "adj.",
+        "meaning": "直接的",
+        "usage": "direct communication style＝直接溝通風格"
+      },
+      {
+        "term": "subtle",
+        "pos": "adj.",
+        "meaning": "含蓄的、不明顯的",
+        "usage": "subtle difference＝細微差異"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "others",
+        "meaning": "其他人／物",
+        "usage": "some ... others ...＝有些……其他……"
+      },
+      {
+        "label": "B",
+        "term": "the others",
+        "meaning": "其餘全部",
+        "usage": "the others＝剩下那些"
+      },
+      {
+        "label": "C",
+        "term": "another",
+        "meaning": "另一個",
+        "usage": "another country＝另一個國家"
+      },
+      {
+        "label": "D",
+        "term": "one another",
+        "meaning": "彼此",
+        "usage": "help one another＝互相幫助"
+      }
+    ],
+    "collocations": [
+      "some ... others ...＝有些……另一些……",
+      "while＝而、然而",
+      "subtle style＝含蓄風格"
+    ],
+    "example": {
+      "en": "Some employees work remotely, while others work in the office.",
+      "zh": "有些員工遠端工作，其他員工則在辦公室工作。"
+    }
+  },
+  "60": {
+    "translation": "理解並留意文化因素，是在任何國際企業中取得成功最重要的面向之一。",
+    "skeleton": [
+      "Understanding and heeding cultural variables｜動名詞片語主詞",
+      "is one of the most significant aspects｜主句",
+      "of achieving success in any international business enterprise｜介系詞片語"
+    ],
+    "grammar": [
+      "Understanding 與 heeding 為兩個並列動名詞。",
+      "空格需要名詞複數，四個選項只有 variables 符合。",
+      "one of the + 最高級 + 複數名詞＝最……的其中之一。",
+      "原題 achieving successful 不自然；successful 是形容詞，應改為 achieving success 或 being successful。"
+    ],
+    "vocab": [
+      {
+        "term": "heed",
+        "pos": "v.",
+        "meaning": "留意、注意",
+        "usage": "heed a warning/advice＝留意警告／建議"
+      },
+      {
+        "term": "cultural variable",
+        "pos": "n.",
+        "meaning": "文化因素／變數",
+        "usage": "cultural variables＝文化因素"
+      },
+      {
+        "term": "enterprise",
+        "pos": "n.",
+        "meaning": "企業",
+        "usage": "business enterprise＝商業企業"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "varies",
+        "meaning": "變化（三單）",
+        "usage": "price varies＝價格不同"
+      },
+      {
+        "label": "B",
+        "term": "differs",
+        "meaning": "不同（三單）",
+        "usage": "differ from＝與……不同"
+      },
+      {
+        "label": "C",
+        "term": "variables",
+        "meaning": "變數、因素",
+        "usage": "cultural variables＝文化因素"
+      },
+      {
+        "label": "D",
+        "term": "different",
+        "meaning": "不同的",
+        "usage": "different from＝與……不同"
+      }
+    ],
+    "collocations": [
+      "cultural variables＝文化因素",
+      "one of the most + adj. + 複數名詞",
+      "achieve success＝取得成功"
+    ],
+    "example": {
+      "en": "Understanding cultural differences is important in international business.",
+      "zh": "理解文化差異在國際商務中很重要。"
+    },
+    "sourceNote": "原題 achieving successful 應改為 achieving success 或 being successful。"
+  },
+  "61": {
+    "translation": "如果王先生沒有時間接電話，他的秘書會代為接聽並記下留言。",
+    "skeleton": [
+      "Mr. Wang’s secretary｜主詞",
+      "will take the messages｜主句",
+      "if he has no time to answer the phones｜條件"
+    ],
+    "grammar": [
+      "take a message / take messages＝代為留言。",
+      "will + 原形動詞 take。",
+      "if 引導條件子句。",
+      "原題 has not time 較舊式；現代英文較常說 has no time 或 does not have time。"
+    ],
+    "vocab": [
+      {
+        "term": "secretary",
+        "pos": "n.",
+        "meaning": "秘書",
+        "usage": "personal secretary＝私人秘書"
+      },
+      {
+        "term": "message",
+        "pos": "n.",
+        "meaning": "留言、訊息",
+        "usage": "take/leave a message＝代為留言／留下訊息"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "make",
+        "meaning": "做、製作",
+        "usage": "make a decision＝做決定"
+      },
+      {
+        "label": "B",
+        "term": "do",
+        "meaning": "做、執行",
+        "usage": "do business＝做生意"
+      },
+      {
+        "label": "C",
+        "term": "take",
+        "meaning": "拿；接受",
+        "usage": "take a message＝代為留言"
+      },
+      {
+        "label": "D",
+        "term": "leave",
+        "meaning": "留下",
+        "usage": "leave a message＝留言"
+      }
+    ],
+    "collocations": [
+      "take a message＝代為留言",
+      "answer the phone＝接電話",
+      "if + 現在式，主句 will + V"
+    ],
+    "example": {
+      "en": "Can I take a message for him?",
+      "zh": "我可以替他留言嗎？"
+    },
+    "sourceNote": "原題 has not time 較舊式；現代英文較自然是 has no time。"
+  },
+  "62": {
+    "translation": "不像貸款必須支付利息，如果公司獲利下降或虧損，股東股利不一定必須支付。",
+    "skeleton": [
+      "Unlike a loan｜比較基準",
+      "where interest has to be paid｜關係子句",
+      "dividends to shareholders don’t have to be paid｜主句",
+      "if profits fall or the company makes a loss｜條件"
+    ],
+    "grammar": [
+      "Unlike + N＝不像……。",
+      "have to be paid 是「必須被支付」的被動形式。",
+      "原題 don’t have to paid 缺少 be，標準應為 don’t have to be paid。",
+      "if profits fall＝如果獲利下降。"
+    ],
+    "vocab": [
+      {
+        "term": "loan",
+        "pos": "n.",
+        "meaning": "貸款",
+        "usage": "take out a loan＝申請貸款"
+      },
+      {
+        "term": "dividend",
+        "pos": "n.",
+        "meaning": "股利",
+        "usage": "pay dividends＝支付股利"
+      },
+      {
+        "term": "shareholder",
+        "pos": "n.",
+        "meaning": "股東",
+        "usage": "dividends to shareholders＝股東股利"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "Like",
+        "meaning": "像……",
+        "usage": "Like A, B...＝像A一樣"
+      },
+      {
+        "label": "B",
+        "term": "Unlike",
+        "meaning": "不像……",
+        "usage": "Unlike + N＝不像……"
+      },
+      {
+        "label": "C",
+        "term": "Dislike",
+        "meaning": "不喜歡",
+        "usage": "dislike doing＝不喜歡做"
+      },
+      {
+        "label": "D",
+        "term": "Likely",
+        "meaning": "可能的",
+        "usage": "be likely to＝可能會"
+      }
+    ],
+    "collocations": [
+      "Unlike + N＝不像……",
+      "pay interest＝支付利息",
+      "pay dividends＝支付股利",
+      "make a loss＝虧損"
+    ],
+    "example": {
+      "en": "Unlike a loan, dividends do not always have to be paid.",
+      "zh": "不像貸款，股利不一定總是必須支付。"
+    },
+    "sourceNote": "原題 don’t have to paid 缺少 be；正確文法是 don’t have to be paid。"
+  },
+  "63": {
+    "translation": "城市的基礎建設，例如道路、電話網路、水、瓦斯與電力供應，對地方經濟發展有重要影響。",
+    "skeleton": [
+      "The infrastructure of a city｜主詞",
+      "such as roads, telephone networks...｜舉例",
+      "has an important impact on｜動詞片語",
+      "local economic development｜受詞"
+    ],
+    "grammar": [
+      "such as＝例如。",
+      "infrastructure 是集合／不可數概念，這裡後面用 has。",
+      "have an impact on＝對……有影響。",
+      "原題 economical development 用字不自然；「經濟發展」應為 economic development。"
+    ],
+    "vocab": [
+      {
+        "term": "infrastructure",
+        "pos": "n.",
+        "meaning": "基礎建設",
+        "usage": "urban infrastructure＝城市基礎建設"
+      },
+      {
+        "term": "supply",
+        "pos": "n.",
+        "meaning": "供應",
+        "usage": "electricity supply＝電力供應"
+      },
+      {
+        "term": "development",
+        "pos": "n.",
+        "meaning": "發展",
+        "usage": "economic development＝經濟發展"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "infrastructure",
+        "meaning": "基礎建設",
+        "usage": "city infrastructure＝城市基礎建設"
+      },
+      {
+        "label": "B",
+        "term": "ambition",
+        "meaning": "抱負",
+        "usage": "career ambition＝職涯抱負"
+      },
+      {
+        "label": "C",
+        "term": "policy",
+        "meaning": "政策",
+        "usage": "company policy＝公司政策"
+      },
+      {
+        "label": "D",
+        "term": "construction",
+        "meaning": "建設、施工",
+        "usage": "construction project＝建設專案"
+      }
+    ],
+    "collocations": [
+      "infrastructure＝基礎建設",
+      "such as＝例如",
+      "have an impact on＝對……有影響",
+      "economic development＝經濟發展"
+    ],
+    "example": {
+      "en": "Good infrastructure supports local economic development.",
+      "zh": "良好的基礎建設有助於地方經濟發展。"
+    },
+    "sourceNote": "原題 local economical development 應為 local economic development。"
+  },
+  "64": {
+    "translation": "上升中的利率會增加成本，因為客戶必須向他們借款的銀行支付更多金錢。",
+    "skeleton": [
+      "Rising interest rates｜主詞",
+      "will add to the costs｜主句",
+      "because the clients have to pay more money｜原因",
+      "to the bank from which they borrow the money｜關係子句"
+    ],
+    "grammar": [
+      "Rising 是現在分詞形容詞，修飾 interest rates。",
+      "will add to＝將增加……。",
+      "because 引導原因子句。",
+      "from which 是介系詞 + 關係代名詞，指 the bank。"
+    ],
+    "vocab": [
+      {
+        "term": "interest rate",
+        "pos": "n.",
+        "meaning": "利率",
+        "usage": "rising interest rates＝上升中的利率"
+      },
+      {
+        "term": "cost",
+        "pos": "n.",
+        "meaning": "成本",
+        "usage": "add to costs＝增加成本"
+      },
+      {
+        "term": "borrow",
+        "pos": "v.",
+        "meaning": "借入",
+        "usage": "borrow money from a bank＝向銀行借錢"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "Rising",
+        "meaning": "上升中的",
+        "usage": "rising interest rates＝上升中的利率"
+      },
+      {
+        "label": "B",
+        "term": "Rises",
+        "meaning": "上升（三單）",
+        "usage": "interest rises＝利息上升"
+      },
+      {
+        "label": "C",
+        "term": "Raising",
+        "meaning": "提高（及物）",
+        "usage": "raising prices＝提高價格"
+      },
+      {
+        "label": "D",
+        "term": "Rise",
+        "meaning": "上升",
+        "usage": "a rise in rates＝利率上升"
+      }
+    ],
+    "collocations": [
+      "rising interest rates＝上升中的利率",
+      "add to costs＝增加成本",
+      "borrow money from＝向……借錢"
+    ],
+    "example": {
+      "en": "Rising interest rates increase borrowing costs.",
+      "zh": "利率上升會增加借貸成本。"
+    }
+  },
+  "65": {
+    "translation": "因為此議題屬於機密，我們只會向有必要知道的人透露資訊。",
+    "skeleton": [
+      "Because this issue is confidential｜原因",
+      "we will only divulge information｜主句",
+      "on a need-to-know basis｜方式"
+    ],
+    "grammar": [
+      "Because + 子句＝因為……。",
+      "confidential 作主詞補語。",
+      "divulge information＝透露資訊。",
+      "on a need-to-know basis 是固定保密用語。"
+    ],
+    "vocab": [
+      {
+        "term": "divulge",
+        "pos": "v.",
+        "meaning": "透露、洩露",
+        "usage": "divulge information＝透露資訊"
+      },
+      {
+        "term": "need-to-know basis",
+        "pos": "phr.",
+        "meaning": "必要知悉原則",
+        "usage": "on a need-to-know basis＝按必要知悉原則"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "abstract",
+        "meaning": "抽象的",
+        "usage": "abstract idea＝抽象概念"
+      },
+      {
+        "label": "B",
+        "term": "confidential",
+        "meaning": "機密的",
+        "usage": "confidential information＝機密資訊"
+      },
+      {
+        "label": "C",
+        "term": "obedient",
+        "meaning": "服從的",
+        "usage": "obedient to＝服從"
+      },
+      {
+        "label": "D",
+        "term": "permanent",
+        "meaning": "永久的",
+        "usage": "permanent position＝正職"
+      }
+    ],
+    "collocations": [
+      "confidential information＝機密資訊",
+      "divulge information＝透露資訊",
+      "need-to-know basis＝必要知悉原則"
+    ],
+    "example": {
+      "en": "This material is confidential and should not be shared.",
+      "zh": "這份資料是機密，不應分享。"
+    }
+  },
+  "66": {
+    "translation": "請注意，服用這類藥物可能造成嗜睡。",
+    "skeleton": [
+      "Please be aware that｜請注意",
+      "taking this kind of medication｜動名詞主詞",
+      "may result in drowsiness｜可能導致嗜睡"
+    ],
+    "grammar": [
+      "be aware that + 子句＝注意／知道……。",
+      "taking this kind of medication 是動名詞片語作主詞。",
+      "take medication＝服藥。",
+      "may result in + N＝可能導致……。"
+    ],
+    "vocab": [
+      {
+        "term": "medication",
+        "pos": "n.",
+        "meaning": "藥物",
+        "usage": "take medication＝服藥"
+      },
+      {
+        "term": "drowsiness",
+        "pos": "n.",
+        "meaning": "嗜睡",
+        "usage": "cause drowsiness＝造成嗜睡"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "adopting",
+        "meaning": "採用",
+        "usage": "adopt a policy＝採用政策"
+      },
+      {
+        "label": "B",
+        "term": "applying",
+        "meaning": "應用；申請",
+        "usage": "apply for＝申請"
+      },
+      {
+        "label": "C",
+        "term": "employing",
+        "meaning": "雇用；使用",
+        "usage": "employ workers＝雇用員工"
+      },
+      {
+        "label": "D",
+        "term": "taking",
+        "meaning": "服用、拿取",
+        "usage": "take medication＝服藥"
+      }
+    ],
+    "collocations": [
+      "be aware that＝請注意",
+      "take medication＝服藥",
+      "result in＝導致",
+      "drowsiness＝嗜睡"
+    ],
+    "example": {
+      "en": "Taking this medication may cause drowsiness.",
+      "zh": "服用此藥可能造成嗜睡。"
+    }
+  },
+  "67": {
+    "translation": "民調人員的預測完全失準，因為他們沒有把未登記選民納入考量。",
+    "skeleton": [
+      "The pollsters were totally off the mark｜主句",
+      "because they didn’t take into account｜原因",
+      "unregistered voters｜受詞"
+    ],
+    "grammar": [
+      "be off the mark＝不準確、猜錯。",
+      "didn’t + 原形動詞。",
+      "take A into account＝把 A 納入考量。",
+      "take account 通常還需要 of：take account of。"
+    ],
+    "vocab": [
+      {
+        "term": "pollster",
+        "pos": "n.",
+        "meaning": "民調人員",
+        "usage": "pollsters surveyed voters＝民調人員調查選民"
+      },
+      {
+        "term": "unregistered voter",
+        "pos": "n.",
+        "meaning": "未登記選民",
+        "usage": "unregistered voters＝未登記選民"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "take into account",
+        "meaning": "納入考量",
+        "usage": "take costs into account＝把成本納入考量"
+      },
+      {
+        "label": "B",
+        "term": "take account",
+        "meaning": "考量（通常接 of）",
+        "usage": "take account of＝考量"
+      },
+      {
+        "label": "C",
+        "term": "account of",
+        "meaning": "片語殘缺",
+        "usage": "應搭配 take account of"
+      },
+      {
+        "label": "D",
+        "term": "accounts for",
+        "meaning": "占；解釋",
+        "usage": "account for 30%＝占30%"
+      }
+    ],
+    "collocations": [
+      "off the mark＝不準確",
+      "take A into account＝把A納入考量",
+      "unregistered voters＝未登記選民"
+    ],
+    "example": {
+      "en": "We must take all costs into account.",
+      "zh": "我們必須把所有成本納入考量。"
+    }
+  },
+  "68": {
+    "translation": "這家行銷公司正在尋找一名熱情且有企圖心的經濟學家，接手管理柏林辦公室。",
+    "skeleton": [
+      "The marketing firm is looking for｜主句",
+      "an enthusiastic and ambitious economist｜受詞",
+      "to take over management of｜職務目的",
+      "the Berlin office｜管理對象"
+    ],
+    "grammar": [
+      "look for＝尋找。",
+      "enthusiastic and ambitious 為兩個形容詞共同修飾 economist。",
+      "to take over... 表示工作目的／職務內容。",
+      "take over management of＝接手管理。"
+    ],
+    "vocab": [
+      {
+        "term": "marketing firm",
+        "pos": "n.",
+        "meaning": "行銷公司",
+        "usage": "marketing firm＝行銷公司"
+      },
+      {
+        "term": "enthusiastic",
+        "pos": "adj.",
+        "meaning": "熱情的",
+        "usage": "enthusiastic employee＝熱情員工"
+      },
+      {
+        "term": "ambitious",
+        "pos": "adj.",
+        "meaning": "有企圖心的",
+        "usage": "ambitious professional＝有企圖心的人"
+      },
+      {
+        "term": "economist",
+        "pos": "n.",
+        "meaning": "經濟學家",
+        "usage": "chief economist＝首席經濟學家"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "franchise",
+        "meaning": "加盟店；特許經營",
+        "usage": "open a franchise＝開加盟店"
+      },
+      {
+        "label": "B",
+        "term": "office",
+        "meaning": "辦公室、分公司",
+        "usage": "Berlin office＝柏林辦公室"
+      },
+      {
+        "label": "C",
+        "term": "position",
+        "meaning": "職位；位置",
+        "usage": "apply for a position＝應徵職位"
+      },
+      {
+        "label": "D",
+        "term": "slot",
+        "meaning": "時段、空位",
+        "usage": "time slot＝時段"
+      }
+    ],
+    "collocations": [
+      "look for＝尋找",
+      "take over management＝接手管理",
+      "Berlin office＝柏林辦公室"
+    ],
+    "example": {
+      "en": "She will take over management of the London office.",
+      "zh": "她將接手管理倫敦辦公室。"
+    }
+  },
+  "69": {
+    "translation": "Panthom 攝影師協會是一個傑出的組織，擁有許多非常有成就的會員。",
+    "skeleton": [
+      "The Panthom Photographers Association｜主詞",
+      "is an outstanding organization｜主句",
+      "with very accomplished members｜附帶特徵"
+    ],
+    "grammar": [
+      "with + 名詞片語可表示「具有、擁有」。",
+      "very + 形容詞 accomplished。",
+      "accomplished 形容人＝有成就的、技藝成熟的。"
+    ],
+    "vocab": [
+      {
+        "term": "association",
+        "pos": "n.",
+        "meaning": "協會",
+        "usage": "professional association＝專業協會"
+      },
+      {
+        "term": "outstanding",
+        "pos": "adj.",
+        "meaning": "傑出的",
+        "usage": "outstanding organization＝傑出組織"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "anonymous",
+        "meaning": "匿名的",
+        "usage": "anonymous survey＝匿名問卷"
+      },
+      {
+        "label": "B",
+        "term": "fundamental",
+        "meaning": "基本的、根本的",
+        "usage": "fundamental principle＝基本原則"
+      },
+      {
+        "label": "C",
+        "term": "accomplished",
+        "meaning": "有成就的、熟練的",
+        "usage": "accomplished professional＝傑出專業人士"
+      },
+      {
+        "label": "D",
+        "term": "significant",
+        "meaning": "重要的、顯著的",
+        "usage": "significant change＝重大變化"
+      }
+    ],
+    "collocations": [
+      "accomplished professional＝傑出專業人士",
+      "outstanding organization＝傑出組織"
+    ],
+    "example": {
+      "en": "She is an accomplished photographer.",
+      "zh": "她是一位很有成就的攝影師。"
+    }
+  },
+  "70": {
+    "translation": "從今年開始，所有課程費用可能變更，恕不另行通知。",
+    "skeleton": [
+      "Starting this year｜時間",
+      "the fee for all courses｜主詞",
+      "is subject to change｜可能變更",
+      "without notice｜不另行通知"
+    ],
+    "grammar": [
+      "Starting this year＝從今年開始。",
+      "be subject to + N＝受……影響／可能……。",
+      "subject to change＝可能變更。",
+      "without notice＝不另行通知。"
+    ],
+    "vocab": [
+      {
+        "term": "fee",
+        "pos": "n.",
+        "meaning": "費用",
+        "usage": "course fee＝課程費"
+      },
+      {
+        "term": "subject to change",
+        "pos": "phr.",
+        "meaning": "可能變更",
+        "usage": "prices are subject to change＝價格可能變動"
+      },
+      {
+        "term": "notice",
+        "pos": "n.",
+        "meaning": "通知",
+        "usage": "without notice＝未經通知"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "notice",
+        "meaning": "通知",
+        "usage": "without notice＝未經通知"
+      },
+      {
+        "label": "B",
+        "term": "elucidation",
+        "meaning": "說明、闡釋",
+        "usage": "further elucidation＝進一步說明"
+      },
+      {
+        "label": "C",
+        "term": "remark",
+        "meaning": "評論",
+        "usage": "make a remark＝發表評論"
+      },
+      {
+        "label": "D",
+        "term": "enthusiasm",
+        "meaning": "熱情",
+        "usage": "show enthusiasm＝展現熱情"
+      }
+    ],
+    "collocations": [
+      "subject to change without notice＝如有變更恕不另行通知",
+      "course fee＝課程費"
+    ],
+    "example": {
+      "en": "Prices are subject to change without notice.",
+      "zh": "價格如有變更恕不另行通知。"
+    }
+  },
+  "71": {
+    "translation": "財務主管正在尋找一名有條理且敬業的秘書，每週工作三天。",
+    "skeleton": [
+      "The comptroller is looking for｜主句",
+      "an organized and dedicated secretary｜受詞",
+      "to work three days per week｜工作安排"
+    ],
+    "grammar": [
+      "organized and dedicated 為平行形容詞，共同修飾 secretary。",
+      "to work... 補充職務內容。",
+      "per week＝每週。"
+    ],
+    "vocab": [
+      {
+        "term": "comptroller",
+        "pos": "n.",
+        "meaning": "財務主管、主計長",
+        "usage": "company comptroller＝公司財務主管"
+      },
+      {
+        "term": "organized",
+        "pos": "adj.",
+        "meaning": "有條理的",
+        "usage": "organized employee＝有條理的員工"
+      },
+      {
+        "term": "secretary",
+        "pos": "n.",
+        "meaning": "秘書",
+        "usage": "executive secretary＝行政秘書"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "integrated",
+        "meaning": "整合的",
+        "usage": "integrated system＝整合系統"
+      },
+      {
+        "label": "B",
+        "term": "frustrated",
+        "meaning": "挫折的、沮喪的",
+        "usage": "feel frustrated＝感到挫折"
+      },
+      {
+        "label": "C",
+        "term": "dedicated",
+        "meaning": "敬業的、投入的",
+        "usage": "dedicated employee＝敬業員工"
+      },
+      {
+        "label": "D",
+        "term": "situated",
+        "meaning": "位於",
+        "usage": "be situated in＝位於"
+      }
+    ],
+    "collocations": [
+      "dedicated employee＝敬業員工",
+      "look for＝尋找",
+      "three days per week＝每週三天"
+    ],
+    "example": {
+      "en": "We are looking for a dedicated secretary.",
+      "zh": "我們正在尋找一名敬業的秘書。"
+    }
+  },
+  "72": {
+    "translation": "公司內的空間會依照需求分配。",
+    "skeleton": [
+      "Space in our company｜主詞",
+      "is allocated｜被動",
+      "according to need｜依需求"
+    ],
+    "grammar": [
+      "is allocated 是一般現在式被動＝被分配。",
+      "allocate A according to B＝依 B 分配 A。",
+      "according to + N＝依照……。"
+    ],
+    "vocab": [
+      {
+        "term": "space",
+        "pos": "n.",
+        "meaning": "空間",
+        "usage": "office space＝辦公空間"
+      },
+      {
+        "term": "allocate",
+        "pos": "v.",
+        "meaning": "分配",
+        "usage": "allocate resources＝分配資源"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "abbreviated",
+        "meaning": "縮寫的",
+        "usage": "abbreviated form＝縮寫形式"
+      },
+      {
+        "label": "B",
+        "term": "allocated",
+        "meaning": "被分配的",
+        "usage": "allocate resources＝分配資源"
+      },
+      {
+        "label": "C",
+        "term": "accompany",
+        "meaning": "陪同",
+        "usage": "accompany a client＝陪同客戶"
+      },
+      {
+        "label": "D",
+        "term": "associated",
+        "meaning": "相關的",
+        "usage": "be associated with＝與……相關"
+      }
+    ],
+    "collocations": [
+      "allocate space＝分配空間",
+      "according to need＝依需求"
+    ],
+    "example": {
+      "en": "Office space is allocated according to need.",
+      "zh": "辦公空間依需求分配。"
+    }
+  },
+  "73": {
+    "translation": "我試著找出飛往歐洲最便宜的方式。",
+    "skeleton": [
+      "I tried to find｜主句",
+      "the least expensive way｜受詞",
+      "to fly to Europe｜修飾 way"
+    ],
+    "grammar": [
+      "the least + 形容詞＝最不……的。",
+      "the least expensive＝最不昂貴的，也就是最便宜的。",
+      "way to + V＝做某事的方法。",
+      "try to + V＝試著做。"
+    ],
+    "vocab": [
+      {
+        "term": "expensive",
+        "pos": "adj.",
+        "meaning": "昂貴的",
+        "usage": "less/the least expensive＝較不昂貴／最便宜"
+      },
+      {
+        "term": "way",
+        "pos": "n.",
+        "meaning": "方法、方式",
+        "usage": "way to + V＝做……的方法"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "less",
+        "meaning": "較少／較不……",
+        "usage": "less expensive＝較便宜"
+      },
+      {
+        "label": "B",
+        "term": "little",
+        "meaning": "少量的；幾乎沒有",
+        "usage": "little time＝很少時間"
+      },
+      {
+        "label": "C",
+        "term": "few",
+        "meaning": "少數的；幾乎沒有",
+        "usage": "few people＝很少人"
+      },
+      {
+        "label": "D",
+        "term": "least",
+        "meaning": "最少、最不……",
+        "usage": "the least expensive＝最便宜"
+      }
+    ],
+    "collocations": [
+      "the least expensive＝最便宜",
+      "way to + V＝做……的方法",
+      "try to + V＝試著做"
+    ],
+    "example": {
+      "en": "This is the least expensive option.",
+      "zh": "這是最便宜的選項。"
+    }
+  },
+  "74": {
+    "translation": "Develyn’s Boutique 所有配件均以可再生資源製成，而且不含人造塗層。",
+    "skeleton": [
+      "All accessories [sold in Develyn’s Boutique]｜主詞＋過去分詞修飾",
+      "are crafted from renewable resources｜被動",
+      "and contain no artificial coatings｜並列動詞"
+    ],
+    "grammar": [
+      "sold in... 是過去分詞片語，修飾 accessories。",
+      "be crafted from＝由……製成。",
+      "contain no + 名詞＝不含任何……。",
+      "artificial＝人造的，符合環保語境。"
+    ],
+    "vocab": [
+      {
+        "term": "accessory",
+        "pos": "n.",
+        "meaning": "配件",
+        "usage": "fashion accessories＝時尚配件"
+      },
+      {
+        "term": "renewable resource",
+        "pos": "n.",
+        "meaning": "可再生資源",
+        "usage": "renewable resources＝可再生資源"
+      },
+      {
+        "term": "coating",
+        "pos": "n.",
+        "meaning": "塗層",
+        "usage": "protective coating＝保護塗層"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "weathered",
+        "meaning": "風化的",
+        "usage": "weathered surface＝風化表面"
+      },
+      {
+        "label": "B",
+        "term": "reflective",
+        "meaning": "反光的",
+        "usage": "reflective coating＝反光塗層"
+      },
+      {
+        "label": "C",
+        "term": "artificial",
+        "meaning": "人造的",
+        "usage": "artificial materials＝人造材料"
+      },
+      {
+        "label": "D",
+        "term": "organic",
+        "meaning": "有機的",
+        "usage": "organic products＝有機產品"
+      }
+    ],
+    "collocations": [
+      "be crafted from＝由……製成",
+      "renewable resources＝可再生資源",
+      "artificial coatings＝人造塗層"
+    ],
+    "example": {
+      "en": "The product contains no artificial materials.",
+      "zh": "此產品不含人造材料。"
+    },
+    "sourceNote": "PDF 文字層把題號 74 擷取成「4.」；系統依實際順序校正為第 74 題。"
+  },
+  "75": {
+    "translation": "他是一名老師，而他的兄弟也是另一名老師。",
+    "skeleton": [
+      "He is a teacher｜主句一",
+      "and his brother is another｜主句二"
+    ],
+    "grammar": [
+      "another 可作代名詞，表示「另一個同類的人／物」。",
+      "這裡 another 可理解為 another teacher，teacher 被省略。",
+      "實際英文更自然會說 His brother is also a teacher。"
+    ],
+    "vocab": [
+      {
+        "term": "another",
+        "pos": "pron./det.",
+        "meaning": "另一個",
+        "usage": "another person＝另一個人"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "other",
+        "meaning": "其他的",
+        "usage": "other people＝其他人"
+      },
+      {
+        "label": "B",
+        "term": "the other",
+        "meaning": "兩者中的另一個",
+        "usage": "one ... the other ..."
+      },
+      {
+        "label": "C",
+        "term": "another",
+        "meaning": "另一個",
+        "usage": "another + 單數名詞"
+      },
+      {
+        "label": "D",
+        "term": "others",
+        "meaning": "其他人／物",
+        "usage": "some ... others ..."
+      }
+    ],
+    "collocations": [
+      "another + 單數名詞＝另一個",
+      "another one＝另一個"
+    ],
+    "example": {
+      "en": "One employee is a designer, and another is an engineer.",
+      "zh": "一名員工是設計師，另一名是工程師。"
+    },
+    "sourceNote": "教材句子較簡略；自然英文可說 His brother is also a teacher。"
+  },
+  "76": {
+    "translation": "他盡最大努力維持收支平衡。",
+    "skeleton": [
+      "He｜主詞",
+      "tries his best｜盡最大努力",
+      "to make ends meet｜目的"
+    ],
+    "grammar": [
+      "try one’s best to + V＝盡某人最大努力做……。",
+      "make ends meet 是固定慣用語，不能加 the。",
+      "to 後接原形動詞 make。"
+    ],
+    "vocab": [
+      {
+        "term": "make ends meet",
+        "pos": "idiom",
+        "meaning": "維持收支平衡、勉強維生",
+        "usage": "struggle to make ends meet＝努力維持生計"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "make ends meet",
+        "meaning": "收支平衡、維持生計",
+        "usage": "固定慣用語"
+      },
+      {
+        "label": "B",
+        "term": "make the ends meet",
+        "meaning": "錯誤搭配",
+        "usage": "正確為 make ends meet"
+      },
+      {
+        "label": "C",
+        "term": "put ends meet",
+        "meaning": "錯誤搭配",
+        "usage": "—"
+      },
+      {
+        "label": "D",
+        "term": "put the ends meet",
+        "meaning": "錯誤搭配",
+        "usage": "—"
+      }
+    ],
+    "collocations": [
+      "try one’s best to + V＝盡力做",
+      "make ends meet＝維持生計"
+    ],
+    "example": {
+      "en": "Many families struggle to make ends meet.",
+      "zh": "許多家庭努力維持生計。"
+    }
+  },
+  "77": {
+    "translation": "這條街上的房子彼此距離相當近，不過每戶周圍的圍籬有助於保障隱私。",
+    "skeleton": [
+      "The houses on the street are fairly close to one another｜主句一",
+      "however｜轉折",
+      "the fences that surround each property｜主詞",
+      "help to ensure privacy｜主句二"
+    ],
+    "grammar": [
+      "one another＝彼此。",
+      "close to one another＝彼此距離很近。",
+      "that surround each property 是關係子句，修飾 fences。",
+      "help to + V＝有助於……。"
+    ],
+    "vocab": [
+      {
+        "term": "fence",
+        "pos": "n.",
+        "meaning": "圍籬",
+        "usage": "a fence around a property＝房產周圍的圍籬"
+      },
+      {
+        "term": "property",
+        "pos": "n.",
+        "meaning": "房產、財產",
+        "usage": "private property＝私人財產"
+      },
+      {
+        "term": "privacy",
+        "pos": "n.",
+        "meaning": "隱私",
+        "usage": "ensure privacy＝確保隱私"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "one another",
+        "meaning": "彼此",
+        "usage": "help one another＝互相幫助"
+      },
+      {
+        "label": "B",
+        "term": "another",
+        "meaning": "另一個",
+        "usage": "another house＝另一棟房子"
+      },
+      {
+        "label": "C",
+        "term": "the other",
+        "meaning": "兩者中的另一個",
+        "usage": "one ... the other ..."
+      },
+      {
+        "label": "D",
+        "term": "other",
+        "meaning": "其他的",
+        "usage": "other houses＝其他房子"
+      }
+    ],
+    "collocations": [
+      "one another＝彼此",
+      "ensure privacy＝確保隱私",
+      "close to one another＝彼此很近"
+    ],
+    "example": {
+      "en": "The buildings are close to one another.",
+      "zh": "這些建築彼此距離很近。"
+    }
+  },
+  "78": {
+    "translation": "兩兄弟中的一人因生病而限制了職涯發展，但另一人則獲全額獎學金進入茱莉亞學院。",
+    "skeleton": [
+      "One of the two brothers became ill｜第一個人",
+      "which limited his career｜關係子句",
+      "but the other went on to Julliard｜另一個人",      "on a full scholarship｜以全額獎學金"
+    ],
+    "grammar": [
+      "兩者中「一個……另一個……」用 one ... the other ...。",
+      "which limited his career 補充前面生病造成的影響。",
+      "go on to + 地點／下一階段＝繼續前往／進入。",
+      "on a full scholarship＝拿全額獎學金。"
+    ],
+    "vocab": [
+      {
+        "term": "career",
+        "pos": "n.",
+        "meaning": "職涯",
+        "usage": "career development＝職涯發展"
+      },
+      {
+        "term": "scholarship",
+        "pos": "n.",
+        "meaning": "獎學金",
+        "usage": "full scholarship＝全額獎學金"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "other",
+        "meaning": "其他的",
+        "usage": "other people＝其他人"
+      },
+      {
+        "label": "B",
+        "term": "the other",
+        "meaning": "兩者中的另一個",
+        "usage": "one ... the other ..."
+      },
+      {
+        "label": "C",
+        "term": "the others",
+        "meaning": "其餘全部",
+        "usage": "the others＝其他那些"
+      },
+      {
+        "label": "D",
+        "term": "some",
+        "meaning": "一些",
+        "usage": "some people＝一些人"
+      }
+    ],
+    "collocations": [
+      "one ... the other ...＝一個……另一個",
+      "full scholarship＝全額獎學金",
+      "go on to＝繼續進入"
+    ],
+    "example": {
+      "en": "One stayed home, while the other went abroad.",
+      "zh": "一個留在家裡，另一個去了國外。"
+    }
+  },
+  "79": {
+    "translation": "無論搜救隊多麼努力挽救生命，面對像海嘯這種難以克服的情況時，有時仍無能為力。",
+    "skeleton": [
+      "However hard｜無論多努力",
+      "the search and rescue team tries to save lives｜讓步子句",
+      "they sometimes can’t do that｜主句",
+      "when facing an insurmountable situation｜時間／情境"
+    ],
+    "grammar": [
+      "However + 形容詞／副詞＝無論多麼……。",
+      "However hard＝無論多努力。",
+      "to save lives 是目的不定詞。",
+      "when facing... 是 when they are facing... 的省略。",
+      "原題 can’t sometimes 語序不自然，較自然是 sometimes can’t。"
+    ],
+    "vocab": [
+      {
+        "term": "search and rescue team",
+        "pos": "n.",
+        "meaning": "搜救隊",
+        "usage": "search and rescue operation＝搜救行動"
+      },
+      {
+        "term": "insurmountable",
+        "pos": "adj.",
+        "meaning": "難以克服的",
+        "usage": "insurmountable problem＝難以克服的問題"
+      },
+      {
+        "term": "tsunami",
+        "pos": "n.",
+        "meaning": "海嘯",
+        "usage": "tsunami warning＝海嘯警報"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "Whenever",
+        "meaning": "每當；無論何時",
+        "usage": "whenever possible＝只要可能"
+      },
+      {
+        "label": "B",
+        "term": "However",
+        "meaning": "無論多麼；然而",
+        "usage": "However hard＝無論多努力"
+      },
+      {
+        "label": "C",
+        "term": "Whatever",
+        "meaning": "無論什麼",
+        "usage": "whatever happens＝無論發生什麼"
+      },
+      {
+        "label": "D",
+        "term": "Wherever",
+        "meaning": "無論哪裡",
+        "usage": "wherever you go＝無論去哪"
+      }
+    ],
+    "collocations": [
+      "However hard＝無論多努力",
+      "search and rescue team＝搜救隊",
+      "insurmountable situation＝難以克服的情況"
+    ],
+    "example": {
+      "en": "However hard we try, some problems take time to solve.",
+      "zh": "無論我們多努力，有些問題仍需要時間解決。"
+    },
+    "sourceNote": "原題 can’t sometimes 語序不自然，較自然是 sometimes can’t。"
+  },
+  "80": {
+    "translation": "Mental Health Forum，過去稱為 National Mental Health Association，是該國主要的非營利組織。",
+    "skeleton": [
+      "The Mental Health Forum｜主詞",
+      "formerly known as the National Mental Health Association｜過去分詞片語",
+      "is the country’s leading nonprofit organization｜主句"
+    ],
+    "grammar": [
+      "formerly known as＝以前稱為……。",
+      "known as 是過去分詞片語，修飾 The Mental Health Forum。",
+      "leading 在這裡表示「主要的、領先的」。"
+    ],
+    "vocab": [
+      {
+        "term": "formerly",
+        "pos": "adv.",
+        "meaning": "以前、原本",
+        "usage": "formerly known as＝以前稱為"
+      },
+      {
+        "term": "nonprofit organization",
+        "pos": "n.",
+        "meaning": "非營利組織",
+        "usage": "leading nonprofit organization＝主要非營利組織"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "before",
+        "meaning": "在……之前",
+        "usage": "before lunch＝午餐前"
+      },
+      {
+        "label": "B",
+        "term": "past",
+        "meaning": "過去的",
+        "usage": "past experience＝過去經驗"
+      },
+      {
+        "label": "C",
+        "term": "prior",
+        "meaning": "先前的",
+        "usage": "prior to＝在……之前"
+      },
+      {
+        "label": "D",
+        "term": "formerly",
+        "meaning": "以前、原本",
+        "usage": "formerly known as＝以前稱為"
+      }
+    ],
+    "collocations": [
+      "formerly known as＝以前稱為",
+      "nonprofit organization＝非營利組織",
+      "leading organization＝主要組織"
+    ],
+    "example": {
+      "en": "The company was formerly known as ABC Corp.",
+      "zh": "這家公司以前稱為 ABC Corp.。"
+    }
+  },
+  "81": {
+    "translation": "Huntington 先生特別感謝 Carleton’s Foundry Program 的協助，該計畫提供了他的專案所需資金。",
+    "skeleton": [
+      "Mr. Huntington is particularly grateful for the assistance｜主句",
+      "of Carleton’s Foundry Program｜來源",
+      "which provided the funding necessary for his project｜關係子句"
+    ],
+    "grammar": [
+      "be grateful for + N＝感謝……。",
+      "particularly 是副詞，修飾 grateful。",
+      "which 引導關係子句，補充說明 Program。",
+      "necessary for + N＝……所需的。"
+    ],
+    "vocab": [
+      {
+        "term": "assistance",
+        "pos": "n.",
+        "meaning": "協助",
+        "usage": "provide assistance＝提供協助"
+      },
+      {
+        "term": "funding",
+        "pos": "n.",
+        "meaning": "資金",
+        "usage": "provide funding＝提供資金"
+      },
+      {
+        "term": "necessary",
+        "pos": "adj.",
+        "meaning": "必要的、所需的",
+        "usage": "necessary for＝……所需"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "rational",
+        "meaning": "理性的",
+        "usage": "rational decision＝理性決策"
+      },
+      {
+        "label": "B",
+        "term": "grateful",
+        "meaning": "感激的",
+        "usage": "be grateful for＝感謝……"
+      },
+      {
+        "label": "C",
+        "term": "suitable",
+        "meaning": "合適的",
+        "usage": "suitable for＝適合"
+      },
+      {
+        "label": "D",
+        "term": "credible",
+        "meaning": "可信的",
+        "usage": "credible source＝可信來源"
+      }
+    ],
+    "collocations": [
+      "be grateful for＝感謝",
+      "provide funding＝提供資金",
+      "necessary for＝……所需"
+    ],
+    "example": {
+      "en": "We are grateful for your assistance.",
+      "zh": "我們非常感謝您的協助。"
+    }
+  },
+  "82": {
+    "translation": "新的環保包裝設計成可分解，且不會在土壤中留下任何有毒物質。",
+    "skeleton": [
+      "The new eco-friendly packaging｜主詞",
+      "is designed to decompose｜用途",
+      "without leaving any toxic substances｜不留下有毒物",
+      "in the soil｜地點"
+    ],
+    "grammar": [
+      "be designed to + V＝被設計用來……。",
+      "without + V-ing＝在不……的情況下。",
+      "any + 複數名詞／不可數名詞。",
+      "toxic substances＝有毒物質。"
+    ],
+    "vocab": [
+      {
+        "term": "eco-friendly packaging",
+        "pos": "n.",
+        "meaning": "環保包裝",
+        "usage": "eco-friendly packaging＝環保包裝"
+      },
+      {
+        "term": "decompose",
+        "pos": "v.",
+        "meaning": "分解",
+        "usage": "decompose naturally＝自然分解"
+      },
+      {
+        "term": "substance",
+        "pos": "n.",
+        "meaning": "物質",
+        "usage": "toxic substances＝有毒物質"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "volatile",
+        "meaning": "易揮發的；不穩定的",
+        "usage": "volatile market＝波動市場"
+      },
+      {
+        "label": "B",
+        "term": "sustainable",
+        "meaning": "永續的",
+        "usage": "sustainable development＝永續發展"
+      },
+      {
+        "label": "C",
+        "term": "inert",
+        "meaning": "惰性的",
+        "usage": "inert material＝惰性材料"
+      },
+      {
+        "label": "D",
+        "term": "toxic",
+        "meaning": "有毒的",
+        "usage": "toxic substances＝有毒物質"
+      }
+    ],
+    "collocations": [
+      "eco-friendly packaging＝環保包裝",
+      "be designed to + V＝旨在",
+      "without + V-ing＝不做……",
+      "toxic substances＝有毒物質"
+    ],
+    "example": {
+      "en": "The material decomposes without leaving toxic substances.",
+      "zh": "這種材料分解後不會留下有毒物質。"
+    }
+  },
+  "83": {
+    "translation": "如果您對維生素或其他膳食補充品的使用有任何問題，請儘管諮詢醫師。",
+    "skeleton": [
+      "Should you have any questions｜正式條件倒裝",
+      "about the use of vitamins or other dietary supplements｜問題主題",
+      "do not hesitate to consult your doctor｜主句"
+    ],
+    "grammar": [
+      "Should you have...＝If you have... 的正式倒裝。",
+      "do not hesitate to + V＝請儘管……。",
+      "consult + 人＝諮詢某人，不需要介系詞。"
+    ],
+    "vocab": [
+      {
+        "term": "vitamin",
+        "pos": "n.",
+        "meaning": "維生素",
+        "usage": "take vitamins＝補充維生素"
+      },
+      {
+        "term": "dietary supplement",
+        "pos": "n.",
+        "meaning": "膳食補充品",
+        "usage": "dietary supplements＝膳食補充品"
+      },
+      {
+        "term": "consult",
+        "pos": "v.",
+        "meaning": "諮詢",
+        "usage": "consult a doctor＝諮詢醫師"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "alter",
+        "meaning": "修改、改變",
+        "usage": "alter a contract＝修改合約"
+      },
+      {
+        "label": "B",
+        "term": "provoke",
+        "meaning": "引起、激怒",
+        "usage": "provoke a reaction＝引起反應"
+      },
+      {
+        "label": "C",
+        "term": "consult",
+        "meaning": "諮詢",
+        "usage": "consult a doctor＝諮詢醫師"
+      },
+      {
+        "label": "D",
+        "term": "settle",
+        "meaning": "解決；結算",
+        "usage": "settle a dispute＝解決爭議"
+      }
+    ],
+    "collocations": [
+      "Should you have...＝如果您有……",
+      "do not hesitate to + V＝請儘管……",
+      "consult a doctor＝諮詢醫師"
+    ],
+    "example": {
+      "en": "Please consult your doctor before taking this medicine.",
+      "zh": "服用此藥前請諮詢醫師。"
+    }
+  },
+  "84": {
+    "translation": "那兩首歌聽起來一樣；換句話說，每一首都像另一首。",
+    "skeleton": [
+      "Those two songs sound the same｜標準主句",
+      "in other words｜換句話說",
+      "each one is like the other｜兩者比較"
+    ],
+    "grammar": [
+      "兩者中的另一個用 the other。",
+      "each one 指兩首歌中的每一首。",
+      "in other words＝換句話說。",
+      "原題 songs sounds 主謂不一致；應為 songs sound。",
+      "sounds like the same 也不自然，通常說 sound the same。"
+    ],
+    "vocab": [
+      {
+        "term": "in other words",
+        "pos": "phr.",
+        "meaning": "換句話說",
+        "usage": "In other words, ...＝換句話說……"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "the other",
+        "meaning": "兩者中的另一個",
+        "usage": "one ... the other ..."
+      },
+      {
+        "label": "B",
+        "term": "others",
+        "meaning": "其他人／物",
+        "usage": "some ... others ..."
+      },
+      {
+        "label": "C",
+        "term": "the others",
+        "meaning": "其餘全部",
+        "usage": "the others＝剩下那些"
+      },
+      {
+        "label": "D",
+        "term": "the another",
+        "meaning": "錯誤形式",
+        "usage": "應用 another 或 the other"
+      }
+    ],
+    "collocations": [
+      "the other＝兩者中的另一個",
+      "in other words＝換句話說",
+      "sound the same＝聽起來一樣"
+    ],
+    "example": {
+      "en": "One design looks like the other.",
+      "zh": "一個設計看起來像另一個。"
+    },
+    "sourceNote": "原題 Those two songs sounds like the same 有兩處不自然；標準寫法是 Those two songs sound the same。"
+  },
+  "85": {
+    "translation": "管理團隊因能適應波動的市場狀況而受到表揚。",
+    "skeleton": [
+      "The management team｜主詞",
+      "was commended for｜因……受表揚",
+      "their ability to adapt to｜能力",
+      "fluctuating market conditions｜波動市場狀況"
+    ],
+    "grammar": [
+      "be commended for + N／V-ing＝因……而受到表揚。",
+      "ability to + V＝做某事的能力。",
+      "adapt to + N＝適應……。",
+      "fluctuating 是現在分詞形容詞＝波動的。"
+    ],
+    "vocab": [
+      {
+        "term": "commend",
+        "pos": "v.",
+        "meaning": "表揚、稱讚",
+        "usage": "be commended for＝因……受表揚"
+      },
+      {
+        "term": "adapt to",
+        "pos": "phr.",
+        "meaning": "適應",
+        "usage": "adapt to change＝適應改變"
+      },
+      {
+        "term": "market conditions",
+        "pos": "n.",
+        "meaning": "市場狀況",
+        "usage": "changing market conditions＝變動市場"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "fluctuating",
+        "meaning": "波動的",
+        "usage": "fluctuating prices＝波動價格"
+      },
+      {
+        "label": "B",
+        "term": "stagnant",
+        "meaning": "停滯的",
+        "usage": "stagnant economy＝停滯經濟"
+      },
+      {
+        "label": "C",
+        "term": "regulated",
+        "meaning": "受規範的",
+        "usage": "regulated industry＝受管制產業"
+      },
+      {
+        "label": "D",
+        "term": "consistent",
+        "meaning": "一致的、穩定的",
+        "usage": "consistent quality＝穩定品質"
+      }
+    ],
+    "collocations": [
+      "be commended for＝因……受到表揚",
+      "ability to + V＝做……的能力",
+      "adapt to＝適應",
+      "fluctuating market conditions＝波動市場"
+    ],
+    "example": {
+      "en": "The company quickly adapted to changing market conditions.",
+      "zh": "公司很快適應了不斷變化的市場狀況。"
+    }
+  },
+  "86": {
+    "translation": "我們部門幾乎每個人都被選中，在去年的會議上代表公司。",
+    "skeleton": [
+      "Practically everyone from our division｜主詞",
+      "was chosen｜被動",
+      "to represent our company｜目的",
+      "at last year’s conference｜地點／時間"
+    ],
+    "grammar": [
+      "practically everyone＝幾乎每個人。",
+      "everyone 是單數概念，所以用 was。",
+      "was chosen 是一般過去式被動。",
+      "to represent... 表示被選中的目的。"
+    ],
+    "vocab": [
+      {
+        "term": "division",
+        "pos": "n.",
+        "meaning": "部門",
+        "usage": "sales division＝業務部門"
+      },
+      {
+        "term": "represent",
+        "pos": "v.",
+        "meaning": "代表",
+        "usage": "represent a company＝代表公司"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "each one",
+        "meaning": "每一個",
+        "usage": "each one of them＝其中每一個"
+      },
+      {
+        "label": "B",
+        "term": "anybody",
+        "meaning": "任何人",
+        "usage": "anybody can＝任何人都能"
+      },
+      {
+        "label": "C",
+        "term": "everyone",
+        "meaning": "每個人",
+        "usage": "practically everyone＝幾乎每個人"
+      },
+      {
+        "label": "D",
+        "term": "somebody",
+        "meaning": "某人",
+        "usage": "somebody called＝有人打電話"
+      }
+    ],
+    "collocations": [
+      "practically everyone＝幾乎每個人",
+      "be chosen to + V＝被選中去做",
+      "represent a company＝代表公司"
+    ],
+    "example": {
+      "en": "Practically everyone attended the conference.",
+      "zh": "幾乎每個人都參加了會議。"
+    }
+  },
+  "87": {
+    "translation": "雖然他們兩人原本都要負責做業務會議紀錄，但 John 忘了出席。",
+    "skeleton": [
+      "Although both of them were trying｜讓步子句",
+      "to take the minutes of the sales meeting｜做會議紀錄",
+      "John forgot to attend it｜主句"
+    ],
+    "grammar": [
+      "although 引導讓步副詞子句＝雖然……。",
+      "try to + V＝試圖／努力做。",
+      "take the minutes＝做會議紀錄，是固定搭配。",
+      "forget to + V＝忘記去做某事。"
+    ],
+    "vocab": [
+      {
+        "term": "minutes",
+        "pos": "n.",
+        "meaning": "會議紀錄",
+        "usage": "take the minutes＝做會議紀錄"
+      },
+      {
+        "term": "attend",
+        "pos": "v.",
+        "meaning": "出席、參加",
+        "usage": "attend a meeting＝參加會議"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "minutes",
+        "meaning": "會議紀錄",
+        "usage": "take the minutes＝做會議紀錄"
+      },
+      {
+        "label": "B",
+        "term": "circular",
+        "meaning": "公司通告、傳閱文件",
+        "usage": "company circular＝公司通告"
+      },
+      {
+        "label": "C",
+        "term": "notes",
+        "meaning": "筆記",
+        "usage": "take notes＝做筆記"
+      },
+      {
+        "label": "D",
+        "term": "memoirs",
+        "meaning": "回憶錄",
+        "usage": "write memoirs＝寫回憶錄"
+      }
+    ],
+    "collocations": [
+      "take the minutes＝做會議紀錄",
+      "sales meeting＝業務會議",
+      "forget to + V＝忘記去做"
+    ],
+    "example": {
+      "en": "Sarah took the minutes during the meeting.",
+      "zh": "Sarah 在會議期間負責做會議紀錄。"
+    }
+  },
+  "88": {
+    "translation": "Joe 試著騰出行程前往韓國出差，但他被韓國會議纏住而非常忙碌。",
+    "skeleton": [
+      "Joe tried to free up his schedule｜主句一",
+      "to go to Korea for a business trip｜目的",
+      "but he was tied up with the Korean meeting｜轉折"
+    ],
+    "grammar": [
+      "free up + 時間／行程＝騰出。",
+      "try to + V＝試著做。",
+      "to go... 是目的不定詞。",
+      "be tied up with + N＝忙於……、抽不開身。"
+    ],
+    "vocab": [
+      {
+        "term": "schedule",
+        "pos": "n.",
+        "meaning": "行程、時間表",
+        "usage": "free up one’s schedule＝騰出時間"
+      },
+      {
+        "term": "business trip",
+        "pos": "n.",
+        "meaning": "出差",
+        "usage": "go on a business trip＝出差"
+      },
+      {
+        "term": "tied up",
+        "pos": "phr.",
+        "meaning": "忙得不可開交",
+        "usage": "be tied up with work＝忙於工作"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "put",
+        "meaning": "放置",
+        "usage": "put something away＝收好"
+      },
+      {
+        "label": "B",
+        "term": "show",
+        "meaning": "展示",
+        "usage": "show results＝展示結果"
+      },
+      {
+        "label": "C",
+        "term": "free",
+        "meaning": "騰出；使自由",
+        "usage": "free up a schedule＝騰出時間"
+      },
+      {
+        "label": "D",
+        "term": "make",
+        "meaning": "做",
+        "usage": "make time＝騰出時間"
+      }
+    ],
+    "collocations": [
+      "free up one’s schedule＝騰出時間",
+      "business trip＝出差",
+      "be tied up with＝忙於……"
+    ],
+    "example": {
+      "en": "I need to free up my schedule for the meeting.",
+      "zh": "我需要為這場會議騰出時間。"
+    }
+  },
+  "89": {
+    "translation": "Morgan 是一位能幹的機械工程師，而且非常能掌握自己的工作。",
+    "skeleton": [
+      "Morgan is a competent mechanical engineer｜主句",
+      "who is really on top of his job｜關係子句"
+    ],
+    "grammar": [
+      "who 引導關係子句，修飾 engineer。",
+      "on top of + 事情＝掌握、處理得很好。",
+      "competent＝勝任的、能幹的。"
+    ],
+    "vocab": [
+      {
+        "term": "competent",
+        "pos": "adj.",
+        "meaning": "能幹的、勝任的",
+        "usage": "competent engineer＝能幹工程師"
+      },
+      {
+        "term": "mechanical engineer",
+        "pos": "n.",
+        "meaning": "機械工程師",
+        "usage": "mechanical engineering＝機械工程"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "basis",
+        "meaning": "基礎",
+        "usage": "on a regular basis＝定期"
+      },
+      {
+        "label": "B",
+        "term": "top",
+        "meaning": "頂端",
+        "usage": "on top of＝掌握、處理好"
+      },
+      {
+        "label": "C",
+        "term": "grip",
+        "meaning": "掌握",
+        "usage": "get a grip on＝掌握"
+      },
+      {
+        "label": "D",
+        "term": "grasp",
+        "meaning": "理解、掌握",
+        "usage": "have a good grasp of＝熟悉"
+      }
+    ],
+    "collocations": [
+      "on top of one’s job＝工作掌握得很好",
+      "competent engineer＝能幹工程師"
+    ],
+    "example": {
+      "en": "She is always on top of her work.",
+      "zh": "她總是能很好地掌握自己的工作。"
+    }
+  },
+  "90": {
+    "translation": "經濟部長在電視節目中表示，經濟蕭條的結束已經近在眼前。",
+    "skeleton": [
+      "The Secretary of the Economy said｜主句",
+      "that the end of the depression｜受詞子句主詞",
+      "was already in sight｜補語"
+    ],
+    "grammar": [
+      "say that + 子句＝表示／說……。",
+      "in sight＝看得見、在望、即將到來。",
+      "the end is in sight＝終點已近，是常見片語。",
+      "depression 在經濟語境＝經濟蕭條。"
+    ],
+    "vocab": [
+      {
+        "term": "depression",
+        "pos": "n.",
+        "meaning": "經濟蕭條；憂鬱",
+        "usage": "economic depression＝經濟蕭條"
+      },
+      {
+        "term": "in sight",
+        "pos": "phr.",
+        "meaning": "在望、即將到來",
+        "usage": "the end is in sight＝終點在望"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "short",
+        "meaning": "短的",
+        "usage": "in short＝簡而言之"
+      },
+      {
+        "label": "B",
+        "term": "sight",
+        "meaning": "視線、景象",
+        "usage": "in sight＝在望"
+      },
+      {
+        "label": "C",
+        "term": "time",
+        "meaning": "時間",
+        "usage": "in time＝及時"
+      },
+      {
+        "label": "D",
+        "term": "case",
+        "meaning": "情況、案例",
+        "usage": "in case＝以防"
+      }
+    ],
+    "collocations": [
+      "in sight＝在望、即將到來",
+      "the end is in sight＝終點已近",
+      "economic depression＝經濟蕭條"
+    ],
+    "example": {
+      "en": "After months of work, the end is finally in sight.",
+      "zh": "經過數月努力，終點終於近在眼前。"
+    }
+  },
+  "91": {
+    "translation": "Kerry 的抱怨開始讓 John 覺得煩，所以他叫她別再這樣了。",
+    "skeleton": [
+      "Kerry's whining started to annoy John｜主句一",
+      "so he told her｜結果",
+      "to cut it out｜叫她停止"
+    ],
+    "grammar": [
+      "start to + V＝開始做……。",
+      "annoy + 人＝使某人厭煩。",
+      "tell + 人 + to + V＝告訴／叫某人做……。",
+      "cut it out 是口語固定片語，表示「停止、別再做了」。"
+    ],
+    "vocab": [
+      {
+        "term": "whining",
+        "pos": "n./V-ing",
+        "meaning": "抱怨、發牢騷",
+        "usage": "stop whining＝別再抱怨"
+      },
+      {
+        "term": "annoy",
+        "pos": "v.",
+        "meaning": "使惱怒、使厭煩",
+        "usage": "annoy someone＝惹某人煩"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "make it out",
+        "meaning": "辨認出；理解",
+        "usage": "I can’t make it out.＝我看不清／弄不懂"
+      },
+      {
+        "label": "B",
+        "term": "put it out",
+        "meaning": "熄滅；撲滅",
+        "usage": "put out a fire＝滅火"
+      },
+      {
+        "label": "C",
+        "term": "take it out",
+        "meaning": "拿出；帶出",
+        "usage": "take it out of the box＝從盒子拿出"
+      },
+      {
+        "label": "D",
+        "term": "cut it out",
+        "meaning": "停止、別再做了",
+        "usage": "Cut it out!＝別鬧了！"
+      }
+    ],
+    "collocations": [
+      "start to + V＝開始做",
+      "annoy someone＝使某人厭煩",
+      "tell A to + V＝叫A做",
+      "cut it out＝停止"
+    ],
+    "example": {
+      "en": "Please cut it out. You're distracting everyone.",
+      "zh": "請別再這樣了，你正在讓大家分心。"
+    }
+  },
+  "92": {
+    "translation": "Bernice 決定修一門電腦課，以提升她使用辦公室軟體套件的熟練程度。",
+    "skeleton": [
+      "Bernice decided to take a computer course｜主句",
+      "to improve her proficiency｜目的",
+      "in using office software packages｜熟練的領域"
+    ],
+    "grammar": [
+      "decide to + V＝決定做……。",
+      "to improve... 是目的不定詞。",
+      "proficiency in + N／V-ing＝在……方面的熟練程度。"
+    ],
+    "vocab": [
+      {
+        "term": "proficiency",
+        "pos": "n.",
+        "meaning": "熟練、精通",
+        "usage": "proficiency in English＝英語熟練度"
+      },
+      {
+        "term": "software package",
+        "pos": "n.",
+        "meaning": "軟體套件",
+        "usage": "office software packages＝辦公軟體套件"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "division",
+        "meaning": "部門；分割",
+        "usage": "sales division＝業務部門"
+      },
+      {
+        "label": "B",
+        "term": "proficiency",
+        "meaning": "熟練、精通",
+        "usage": "proficiency in＝精通……"
+      },
+      {
+        "label": "C",
+        "term": "discipline",
+        "meaning": "紀律；學科",
+        "usage": "academic discipline＝學科"
+      },
+      {
+        "label": "D",
+        "term": "symptom",
+        "meaning": "症狀",
+        "usage": "common symptoms＝常見症狀"
+      }
+    ],
+    "collocations": [
+      "decide to + V＝決定做",
+      "improve proficiency＝提升熟練度",
+      "proficiency in + V-ing＝在……方面熟練"
+    ],
+    "example": {
+      "en": "The course will improve your proficiency in using spreadsheets.",
+      "zh": "這門課會提升你使用試算表的熟練度。"
+    }
+  },
+  "93": {
+    "translation": "經過七年的談判，兩國之間關於邊界的爭端終於獲得解決。",
+    "skeleton": [
+      "After seven years of negotiations｜時間",
+      "the dispute between the two countries about the border｜主詞",
+      "is finally resolved｜被動"
+    ],
+    "grammar": [
+      "dispute＝爭端、爭議，最符合邊界談判語境。",
+      "between A and B＝在 A 與 B 之間。",
+      "be resolved＝被解決。"
+    ],
+    "vocab": [
+      {
+        "term": "negotiation",
+        "pos": "n.",
+        "meaning": "談判",
+        "usage": "years of negotiations＝多年的談判"
+      },
+      {
+        "term": "border",
+        "pos": "n.",
+        "meaning": "邊界、國界",
+        "usage": "border dispute＝邊界爭端"
+      },
+      {
+        "term": "resolve",
+        "pos": "v.",
+        "meaning": "解決",
+        "usage": "resolve a dispute＝解決爭端"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "dispute",
+        "meaning": "爭端、爭議",
+        "usage": "resolve a dispute＝解決爭端"
+      },
+      {
+        "label": "B",
+        "term": "repute",
+        "meaning": "名聲（較少單獨使用）",
+        "usage": "of good repute＝名聲良好"
+      },
+      {
+        "label": "C",
+        "term": "impute",
+        "meaning": "歸咎、歸因（動詞）",
+        "usage": "impute A to B＝把A歸因於B"
+      },
+      {
+        "label": "D",
+        "term": "astute",
+        "meaning": "精明的（形容詞）",
+        "usage": "astute businessman＝精明商人"
+      }
+    ],
+    "collocations": [
+      "border dispute＝邊界爭端",
+      "resolve a dispute＝解決爭端",
+      "years of negotiations＝多年的談判"
+    ],
+    "example": {
+      "en": "The two sides finally resolved the dispute.",
+      "zh": "雙方終於解決了爭端。"
+    }
+  },
+  "94": {
+    "translation": "公開演說時，重讀／強調正確的字詞很重要。",
+    "skeleton": [
+      "When speaking in public｜時間／情境",
+      "it is important｜形式主詞句型",
+      "to stress the right words｜真正主詞"
+    ],
+    "grammar": [
+      "When speaking... 是 When you are speaking... 的省略。",
+      "It is + 形容詞 + to + V＝做……是……的。",
+      "stress 在此作動詞，表示「強調、重讀」。"
+    ],
+    "vocab": [
+      {
+        "term": "speak in public",
+        "pos": "phr.",
+        "meaning": "公開演說",
+        "usage": "public speaking＝公開演說"
+      },
+      {
+        "term": "stress",
+        "pos": "v.",
+        "meaning": "強調、重讀",
+        "usage": "stress a word/point＝強調某字／重點"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "empathize",
+        "meaning": "同理",
+        "usage": "empathize with＝同理……"
+      },
+      {
+        "label": "B",
+        "term": "stress",
+        "meaning": "強調、重讀",
+        "usage": "stress the right words＝重讀正確字詞"
+      },
+      {
+        "label": "C",
+        "term": "denounce",
+        "meaning": "公開譴責",
+        "usage": "denounce a policy＝譴責政策"
+      },
+      {
+        "label": "D",
+        "term": "tone",
+        "meaning": "語氣；音調（名詞）",
+        "usage": "tone of voice＝語氣"
+      }
+    ],
+    "collocations": [
+      "speak in public＝公開演說",
+      "It is important to + V＝做……很重要",
+      "stress a word＝重讀一個字"
+    ],
+    "example": {
+      "en": "Good speakers know which words to stress.",
+      "zh": "好的演講者知道哪些字詞需要重讀。"
+    }
+  },
+  "95": {
+    "translation": "除了報警之外，我不確定對你被偷的腳踏車還能做些什麼。",
+    "skeleton": [
+      "Besides calling the police｜除了報警之外",
+      "I'm not sure｜主句",
+      "what we can do about your stolen bike｜間接問句"
+    ],
+    "grammar": [
+      "Besides + N／V-ing＝除了……之外（還有／除此之外）。",
+      "what we can do 是間接問句，語序為主詞 + 動詞，不倒裝。",
+      "stolen 是過去分詞形容詞，修飾 bike。"
+    ],
+    "vocab": [
+      {
+        "term": "besides",
+        "pos": "prep./adv.",
+        "meaning": "除了……之外；此外",
+        "usage": "besides doing＝除了做……之外"
+      },
+      {
+        "term": "stolen",
+        "pos": "adj./p.p.",
+        "meaning": "被偷的",
+        "usage": "stolen property＝贓物／被竊財物"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "Besides",
+        "meaning": "除了……之外；此外",
+        "usage": "Besides calling...＝除了打電話……"
+      },
+      {
+        "label": "B",
+        "term": "Aside",
+        "meaning": "在旁邊；擱置",
+        "usage": "aside from＝除了……之外（需 from）"
+      },
+      {
+        "label": "C",
+        "term": "Inside",
+        "meaning": "在……裡面",
+        "usage": "inside the building＝建築裡"
+      },
+      {
+        "label": "D",
+        "term": "Provides",
+        "meaning": "提供（三單）",
+        "usage": "provide A with B＝提供A B"
+      }
+    ],
+    "collocations": [
+      "Besides + V-ing＝除了做……之外",
+      "be not sure what...＝不確定……",
+      "stolen bike＝被偷的腳踏車"
+    ],
+    "example": {
+      "en": "Besides contacting the police, there is little we can do.",
+      "zh": "除了聯絡警方之外，我們能做的很有限。"
+    }
+  },
+  "96": {
+    "translation": "警方表示，他們不確定兇手犯下這起罪行的動機。",
+    "skeleton": [
+      "Police said｜主句",
+      "they were not sure of｜受詞子句",
+      "the killer's motive for the crime｜不確定的內容"
+    ],
+    "grammar": [
+      "be sure of + N＝確定……。",
+      "motive for + 行為／crime＝做某事的動機。",
+      "killer's 是所有格。"
+    ],
+    "vocab": [
+      {
+        "term": "killer",
+        "pos": "n.",
+        "meaning": "兇手",
+        "usage": "the killer’s motive＝兇手的動機"
+      },
+      {
+        "term": "crime",
+        "pos": "n.",
+        "meaning": "犯罪、罪行",
+        "usage": "commit a crime＝犯罪"
+      },
+      {
+        "term": "motive",
+        "pos": "n.",
+        "meaning": "動機",
+        "usage": "motive for the crime＝犯罪動機"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "motion",
+        "meaning": "動作；動議",
+        "usage": "make a motion＝提出動議"
+      },
+      {
+        "label": "B",
+        "term": "motor",
+        "meaning": "馬達；汽車的",
+        "usage": "electric motor＝電動馬達"
+      },
+      {
+        "label": "C",
+        "term": "motive",
+        "meaning": "動機",
+        "usage": "motive for＝……的動機"
+      },
+      {
+        "label": "D",
+        "term": "motto",
+        "meaning": "座右銘、格言",
+        "usage": "company motto＝公司格言"
+      }
+    ],
+    "collocations": [
+      "be sure of＝確定",
+      "motive for a crime＝犯罪動機",
+      "commit a crime＝犯罪"
+    ],
+    "example": {
+      "en": "Investigators are trying to determine the motive for the crime.",
+      "zh": "調查人員正試圖查明犯罪動機。"
+    }
+  },
+  "97": {
+    "translation": "有時提起訴訟，是讓某人為其不當行為負起責任的唯一方法。",
+    "skeleton": [
+      "Sometimes filing a lawsuit｜動名詞片語主詞",
+      "is the only way｜主句",
+      "to make someone take responsibility｜使役結構",
+      "for their misconduct｜責任對象"
+    ],
+    "grammar": [
+      "filing a lawsuit 是動名詞片語作主詞。",
+      "make + 人 + 原形動詞＝使某人做……。",
+      "take responsibility for＝對……負責。",
+      "misconduct＝不當行為。"
+    ],
+    "vocab": [
+      {
+        "term": "file a lawsuit",
+        "pos": "phr.",
+        "meaning": "提起訴訟",
+        "usage": "file a lawsuit against＝對……提告"
+      },
+      {
+        "term": "responsibility",
+        "pos": "n.",
+        "meaning": "責任",
+        "usage": "take responsibility for＝對……負責"
+      },
+      {
+        "term": "misconduct",
+        "pos": "n.",
+        "meaning": "不當行為",
+        "usage": "employee misconduct＝員工不當行為"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "be",
+        "meaning": "是、成為",
+        "usage": "make someone be... 通常不如其他結構自然"
+      },
+      {
+        "label": "B",
+        "term": "take",
+        "meaning": "承擔、取得",
+        "usage": "take responsibility＝承擔責任"
+      },
+      {
+        "label": "C",
+        "term": "make",
+        "meaning": "製作、使",
+        "usage": "make a decision＝做決定"
+      },
+      {
+        "label": "D",
+        "term": "have",
+        "meaning": "有",
+        "usage": "have responsibility＝有責任"
+      }
+    ],
+    "collocations": [
+      "file a lawsuit＝提起訴訟",
+      "make + 人 + 原形動詞＝使某人做",
+      "take responsibility for＝對……負責"
+    ],
+    "example": {
+      "en": "Managers must take responsibility for their decisions.",
+      "zh": "主管必須為自己的決策負責。"
+    }
+  },
+  "98": {
+    "translation": "我完全不知道那題的答案。你可以給我一點提示嗎？",
+    "skeleton": [
+      "I don't have any idea about the answer｜主句一",
+      "Can you give me a clue?｜請求"
+    ],
+    "grammar": [
+      "have no idea / don't have any idea＝不知道。",
+      "give + 人 + 物＝給某人某物。",
+      "clue＝線索、提示，符合不知道答案的語境。"
+    ],
+    "vocab": [
+      {
+        "term": "have no idea",
+        "pos": "phr.",
+        "meaning": "完全不知道",
+        "usage": "I have no idea.＝我不知道"
+      },
+      {
+        "term": "clue",
+        "pos": "n.",
+        "meaning": "線索、提示",
+        "usage": "give me a clue＝給我提示"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "clue",
+        "meaning": "線索、提示",
+        "usage": "give a clue＝提供線索"
+      },
+      {
+        "label": "B",
+        "term": "tip",
+        "meaning": "建議、小撇步；小費",
+        "usage": "useful tip＝實用建議"
+      },
+      {
+        "label": "C",
+        "term": "doubt",
+        "meaning": "懷疑",
+        "usage": "have doubts about＝對……有疑慮"
+      },
+      {
+        "label": "D",
+        "term": "point",
+        "meaning": "重點、點",
+        "usage": "main point＝重點"
+      }
+    ],
+    "collocations": [
+      "have no idea＝不知道",
+      "give someone a clue＝給某人提示"
+    ],
+    "example": {
+      "en": "Can you give me a clue about the answer?",
+      "zh": "你可以給我一點答案的提示嗎？"
+    }
+  },
+  "99": {
+    "translation": "Bob 多年來一直從事壓力極大的工作，直到有一天他精神崩潰。",
+    "skeleton": [
+      "Bob had been working an extremely stressful job for years｜過去完成進行式",
+      "until one day｜直到某天",
+      "he had a nervous breakdown｜主句結果"
+    ],
+    "grammar": [
+      "had been + V-ing 是過去完成進行式，表示在過去某時間前持續進行。",
+      "a nervous breakdown＝精神崩潰，是固定搭配。",
+      "stressful 修飾 job，表示「造成壓力的」。"
+    ],
+    "vocab": [
+      {
+        "term": "stressful",
+        "pos": "adj.",
+        "meaning": "壓力大的",
+        "usage": "stressful job＝壓力大的工作"
+      },
+      {
+        "term": "nervous breakdown",
+        "pos": "n.",
+        "meaning": "精神崩潰",
+        "usage": "have a nervous breakdown＝精神崩潰"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "letdown",
+        "meaning": "令人失望的事",
+        "usage": "a big letdown＝大失所望"
+      },
+      {
+        "label": "B",
+        "term": "rundown",
+        "meaning": "概要；破舊的（常作 run-down）",
+        "usage": "give a rundown＝做簡要說明"
+      },
+      {
+        "label": "C",
+        "term": "slow down",
+        "meaning": "減速",
+        "usage": "slow down production＝減緩生產"
+      },
+      {
+        "label": "D",
+        "term": "breakdown",
+        "meaning": "故障；崩潰",
+        "usage": "nervous breakdown＝精神崩潰"
+      }
+    ],
+    "collocations": [
+      "nervous breakdown＝精神崩潰",
+      "stressful job＝壓力大的工作",
+      "had been + V-ing＝過去完成進行式"
+    ],
+    "example": {
+      "en": "Years of stress eventually led to a nervous breakdown.",
+      "zh": "多年的壓力最終導致精神崩潰。"
+    }
+  },
+  "100": {
+    "translation": "我們的電腦程式設計師名列業界技術最熟練者之中。",
+    "skeleton": [
+      "Our computer programmers｜主詞",
+      "are among the most skilled｜主句",
+      "in the industry｜範圍"
+    ],
+    "grammar": [
+      "among + 複數名詞／群體＝在……之中。",
+      "among the most + 形容詞＝名列最……者之中。",
+      "skilled＝熟練的、有技術的。"
+    ],
+    "vocab": [
+      {
+        "term": "programmer",
+        "pos": "n.",
+        "meaning": "程式設計師",
+        "usage": "computer programmer＝電腦程式設計師"
+      },
+      {
+        "term": "skilled",
+        "pos": "adj.",
+        "meaning": "熟練的、有技能的",
+        "usage": "skilled worker＝熟練工人"
+      },
+      {
+        "term": "industry",
+        "pos": "n.",
+        "meaning": "產業、業界",
+        "usage": "in the industry＝在業界"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "a long",
+        "meaning": "一段很長的……",
+        "usage": "a long time＝很長時間"
+      },
+      {
+        "label": "B",
+        "term": "around",
+        "meaning": "在周圍；大約",
+        "usage": "around the world＝世界各地"
+      },
+      {
+        "label": "C",
+        "term": "among",
+        "meaning": "在……之中",
+        "usage": "among the best＝名列最佳之中"
+      },
+      {
+        "label": "D",
+        "term": "along",
+        "meaning": "沿著；一起",
+        "usage": "along the road＝沿著道路"
+      }
+    ],
+    "collocations": [
+      "among the most skilled＝名列最熟練者之中",
+      "in the industry＝在業界",
+      "skilled worker＝熟練人員"
+    ],
+    "example": {
+      "en": "She is among the most experienced managers in the company.",
+      "zh": "她是公司最有經驗的主管之一。"
+    }
+  }
+}
