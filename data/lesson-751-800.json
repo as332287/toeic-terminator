@@ -1,0 +1,3255 @@
+{
+  "751": {
+    "translation": "Oakley Properties 專門翻修老舊建築，在保留獨特外觀的同時，使其現代化且更便利。",
+    "skeleton": [
+      "Oakley Properties s pecializes in the renovation of old buildings,｜主要結構",
+      "making them modern and convenient｜子句／修飾或轉折",
+      "while retaining their unique appearance.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "specialize in + N/V-ing＝專門從事……。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。"
+    ],
+    "vocab": [
+      {
+        "term": "s pecializes",
+        "pos": "依句意",
+        "meaning": "專精於",
+        "usage": "specialize in renovation＝專門翻修"
+      },
+      {
+        "term": "specialize in renovation",
+        "pos": "片語",
+        "meaning": "專門翻修",
+        "usage": "specialize in renovation＝專門翻修"
+      },
+      {
+        "term": "retain appearance",
+        "pos": "片語",
+        "meaning": "保留外觀",
+        "usage": "retain appearance＝保留外觀"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "creates",
+        "meaning": "創造",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "r esearches",
+        "meaning": "研究",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "s pecializes",
+        "meaning": "專精於",
+        "usage": "specialize in renovation＝專門翻修"
+      },
+      {
+        "label": "D",
+        "term": "astonish",
+        "meaning": "使驚訝",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "specialize in renovation＝專門翻修",
+      "retain appearance＝保留外觀"
+    ],
+    "example": {
+      "en": "Oakley Properties s pecializes in the renovation of old buildings, making them modern and convenient while retaining their unique appearance.",
+      "zh": "Oakley Properties 專門翻修老舊建築，在保留獨特外觀的同時，使其現代化且更便利。"
+    }
+  },
+  "752": {
+    "translation": "關於新款智慧型手機的顧客回饋已轉交給 Burnham 女士審閱。",
+    "skeleton": [
+      "The customer feedback about the new smartphone model was passed｜主句",
+      "on to Ms. Burnham for review.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "pass on A to B＝把 A 轉交給 B。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "passed on",
+        "pos": "依句意",
+        "meaning": "轉交",
+        "usage": "pass on feedback＝轉交回饋"
+      },
+      {
+        "term": "pass on feedback",
+        "pos": "片語",
+        "meaning": "轉交回饋",
+        "usage": "pass on feedback＝轉交回饋"
+      },
+      {
+        "term": "for review",
+        "pos": "片語",
+        "meaning": "供審閱",
+        "usage": "for review＝供審閱"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "figured out",
+        "meaning": "弄懂",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "passed on",
+        "meaning": "轉交",
+        "usage": "pass on feedback＝轉交回饋"
+      },
+      {
+        "label": "C",
+        "term": "called off",
+        "meaning": "取消",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "depended on",
+        "meaning": "依賴",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "pass on feedback＝轉交回饋",
+      "for review＝供審閱"
+    ],
+    "example": {
+      "en": "The customer feedback about the new smartphone model was passed on to Ms. Burnham for review.",
+      "zh": "關於新款智慧型手機的顧客回饋已轉交給 Burnham 女士審閱。"
+    }
+  },
+  "753": {
+    "translation": "講者無法充分回答該問題，因為它不屬於他的專業領域。",
+    "skeleton": [
+      "The speaker could not adequately answer the question as it did not fall within his area｜主句",
+      "of expertise.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "fall within＝落在……範圍內。"
+    ],
+    "vocab": [
+      {
+        "term": "fall",
+        "pos": "依句意",
+        "meaning": "落在；屬於",
+        "usage": "fall within one’s expertise＝屬於專業範圍"
+      },
+      {
+        "term": "fall within one’s expertise",
+        "pos": "片語",
+        "meaning": "屬於專業範圍",
+        "usage": "fall within one’s expertise＝屬於專業範圍"
+      },
+      {
+        "term": "area of expertise",
+        "pos": "片語",
+        "meaning": "專業領域",
+        "usage": "area of expertise＝專業領域"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "find",
+        "meaning": "找到",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "ask",
+        "meaning": "詢問",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "join",
+        "meaning": "加入",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "fall",
+        "meaning": "落在；屬於",
+        "usage": "fall within one’s expertise＝屬於專業範圍"
+      }
+    ],
+    "collocations": [
+      "fall within one’s expertise＝屬於專業範圍",
+      "area of expertise＝專業領域"
+    ],
+    "example": {
+      "en": "The speaker could not adequately answer the question as it did not fall within his area of expertise.",
+      "zh": "講者無法充分回答該問題，因為它不屬於他的專業領域。"
+    }
+  },
+  "754": {
+    "translation": "由於設計公司只對 Radix Sportswear 標誌做了些微修改，因此很難把它與原版區分開來。",
+    "skeleton": [
+      "Since the graphic design company only made slight modifications to Radix Sportwear's logo,｜主要結構",
+      "it is difficult to differentiate it from the original version.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "differentiate A from B＝區分 A 與 B。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "differentiate",
+        "pos": "依句意",
+        "meaning": "區分",
+        "usage": "differentiate from＝與……區分"
+      },
+      {
+        "term": "differentiate from",
+        "pos": "片語",
+        "meaning": "與……區分",
+        "usage": "differentiate from＝與……區分"
+      },
+      {
+        "term": "slight modifications",
+        "pos": "片語",
+        "meaning": "些微修改",
+        "usage": "slight modifications＝些微修改"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "reproduce",
+        "meaning": "複製",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "market",
+        "meaning": "行銷",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "differentiate",
+        "meaning": "區分",
+        "usage": "differentiate from＝與……區分"
+      },
+      {
+        "label": "D",
+        "term": "expand",
+        "meaning": "擴展",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "differentiate from＝與……區分",
+      "slight modifications＝些微修改"
+    ],
+    "example": {
+      "en": "Since the graphic design company only made slight modifications to Radix Sportwear's logo, it is difficult to differentiate it from the original version.",
+      "zh": "由於設計公司只對 Radix Sportswear 標誌做了些微修改，因此很難把它與原版區分開來。"
+    }
+  },
+  "755": {
+    "translation": "由於這名應徵者連最基本的問題都難以回答，很明顯她缺乏科技知識。",
+    "skeleton": [
+      "Because the candidate struggled to answer even the most basic questions,｜主要結構",
+      "it was apparent｜子句／修飾或轉折",
+      "that she lacked technological knowledge.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "It was apparent that + 子句＝很明顯……。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "注意比較級／最高級與 than 等比較結構的搭配。"
+    ],
+    "vocab": [
+      {
+        "term": "apparent",
+        "pos": "依句意",
+        "meaning": "明顯的",
+        "usage": "it is apparent that＝很明顯"
+      },
+      {
+        "term": "it is apparent that",
+        "pos": "片語",
+        "meaning": "很明顯",
+        "usage": "it is apparent that＝很明顯"
+      },
+      {
+        "term": "lack knowledge",
+        "pos": "片語",
+        "meaning": "缺乏知識",
+        "usage": "lack knowledge＝缺乏知識"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "apparent",
+        "meaning": "明顯的",
+        "usage": "it is apparent that＝很明顯"
+      },
+      {
+        "label": "B",
+        "term": "magnificent",
+        "meaning": "壯麗的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "substantial",
+        "meaning": "大量的；實質的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "notable",
+        "meaning": "值得注意的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "it is apparent that＝很明顯",
+      "lack knowledge＝缺乏知識"
+    ],
+    "example": {
+      "en": "Because the candidate struggled to answer even the most basic questions, it was apparent that she lacked technological knowledge.",
+      "zh": "由於這名應徵者連最基本的問題都難以回答，很明顯她缺乏科技知識。"
+    }
+  },
+  "756": {
+    "translation": "新進人員說明會一開始，講師清楚解釋了他們整週會學到的內容。",
+    "skeleton": [
+      "At the start of the orientation,｜主要結構",
+      "the instructor gave new staff a clear explanation of what they would learn throughout the week.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "give someone an explanation of＝向某人解釋……。"
+    ],
+    "vocab": [
+      {
+        "term": "explanation",
+        "pos": "依句意",
+        "meaning": "解釋",
+        "usage": "clear explanation＝清楚說明"
+      },
+      {
+        "term": "clear explanation",
+        "pos": "片語",
+        "meaning": "清楚說明",
+        "usage": "clear explanation＝清楚說明"
+      },
+      {
+        "term": "orientation",
+        "pos": "片語",
+        "meaning": "新進說明會",
+        "usage": "orientation＝新進說明會"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "direction",
+        "meaning": "方向",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "suggestion",
+        "meaning": "建議",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "explanation",
+        "meaning": "解釋",
+        "usage": "clear explanation＝清楚說明"
+      },
+      {
+        "label": "D",
+        "term": "recommendation",
+        "meaning": "推薦",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "clear explanation＝清楚說明",
+      "orientation＝新進說明會"
+    ],
+    "example": {
+      "en": "At the start of the orientation, the instructor gave new staff a clear explanation of what they would learn throughout the week.",
+      "zh": "新進人員說明會一開始，講師清楚解釋了他們整週會學到的內容。"
+    }
+  },
+  "757": {
+    "translation": "依圖書館政策，檔案室僅限教授與研究生進入。",
+    "skeleton": [
+      "It is library policy｜主要結構",
+      "that admission to the archive room is restricted to professors and graduate students.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "be restricted to＝僅限於……。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "restricted",
+        "pos": "依句意",
+        "meaning": "受限制的",
+        "usage": "restricted to＝僅限"
+      },
+      {
+        "term": "restricted to",
+        "pos": "片語",
+        "meaning": "僅限",
+        "usage": "restricted to＝僅限"
+      },
+      {
+        "term": "archive room",
+        "pos": "片語",
+        "meaning": "檔案室",
+        "usage": "archive room＝檔案室"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "enlisted",
+        "meaning": "被列入",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "restricted",
+        "meaning": "受限制的",
+        "usage": "restricted to＝僅限"
+      },
+      {
+        "label": "C",
+        "term": "contradicted",
+        "meaning": "被反駁的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "prevented",
+        "meaning": "被阻止的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "restricted to＝僅限",
+      "archive room＝檔案室"
+    ],
+    "example": {
+      "en": "It is library policy that admission to the archive room is restricted to professors and graduate students.",
+      "zh": "依圖書館政策，檔案室僅限教授與研究生進入。"
+    }
+  },
+  "758": {
+    "translation": "Bedfordshire Enterprises 新倉庫六月開工後，Roger Granger 將負責其建設。",
+    "skeleton": [
+      "Roger Granger will drop in the construction of Bedfordshire Enterprises' new warehouse facility｜主要結構",
+      "when the project begins in June.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "原答案標示 A drop in，但與 construction 不合自然語意；原題可能有答案或選項錯置，應保留警示。"
+    ],
+    "vocab": [
+      {
+        "term": "drop in",
+        "pos": "依句意",
+        "meaning": "順道拜訪",
+        "usage": "oversee construction＝監督建設"
+      },
+      {
+        "term": "oversee construction",
+        "pos": "片語",
+        "meaning": "監督建設",
+        "usage": "oversee construction＝監督建設"
+      },
+      {
+        "term": "warehouse facility",
+        "pos": "片語",
+        "meaning": "倉庫設施",
+        "usage": "warehouse facility＝倉庫設施"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "drop in",
+        "meaning": "順道拜訪",
+        "usage": "oversee construction＝監督建設"
+      },
+      {
+        "label": "B",
+        "term": "see out",
+        "meaning": "完成到底",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "look up",
+        "meaning": "查詢",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "put on",
+        "meaning": "穿上；舉辦",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "oversee construction＝監督建設",
+      "warehouse facility＝倉庫設施"
+    ],
+    "example": {
+      "en": "Roger Granger will drop in the construction of Bedfordshire Enterprises' new warehouse facility when the project begins in June.",
+      "zh": "Bedfordshire Enterprises 新倉庫六月開工後，Roger Granger 將負責其建設。"
+    }
+  },
+  "759": {
+    "translation": "Star Tower 的兩房公寓很適合在市中心工作的人。",
+    "skeleton": [
+      "The two-bedroom apartment｜主句",
+      "in Star Tower is known for anyone working in the downtown area.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "原答案標示 A known，但句意自然應為 ideal；來源答案可能有誤。"
+    ],
+    "vocab": [
+      {
+        "term": "known",
+        "pos": "依句意",
+        "meaning": "已知的",
+        "usage": "ideal for＝非常適合"
+      },
+      {
+        "term": "ideal for",
+        "pos": "片語",
+        "meaning": "非常適合",
+        "usage": "ideal for＝非常適合"
+      },
+      {
+        "term": "downtown area",
+        "pos": "片語",
+        "meaning": "市中心",
+        "usage": "downtown area＝市中心"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "known",
+        "meaning": "已知的",
+        "usage": "ideal for＝非常適合"
+      },
+      {
+        "label": "B",
+        "term": "ideal",
+        "meaning": "理想的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "simple",
+        "meaning": "簡單的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "alert",
+        "meaning": "警覺的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "ideal for＝非常適合",
+      "downtown area＝市中心"
+    ],
+    "example": {
+      "en": "The two-bedroom apartment in Star Tower is known for anyone working in the downtown area.",
+      "zh": "Star Tower 的兩房公寓很適合在市中心工作的人。"
+    }
+  },
+  "760": {
+    "translation": "新進會計人員的說明會將於下週在總公司會議室舉行。",
+    "skeleton": [
+      "The orientation｜主句",
+      "for new accountants will take place next week in the main office's conference room.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "take place＝舉行、發生。"
+    ],
+    "vocab": [
+      {
+        "term": "take place",
+        "pos": "依句意",
+        "meaning": "舉行",
+        "usage": "take place＝舉行"
+      },
+      {
+        "term": "conference room",
+        "pos": "片語",
+        "meaning": "會議室",
+        "usage": "conference room＝會議室"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "let in",
+        "meaning": "讓進入",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "take place",
+        "meaning": "舉行",
+        "usage": "take place＝舉行"
+      },
+      {
+        "label": "C",
+        "term": "move around",
+        "meaning": "四處移動",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "keep out",
+        "meaning": "阻擋",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "take place＝舉行",
+      "conference room＝會議室"
+    ],
+    "example": {
+      "en": "The orientation for new accountants will take place next week in the main office's conference room.",
+      "zh": "新進會計人員的說明會將於下週在總公司會議室舉行。"
+    }
+  },
+  "761": {
+    "translation": "這場工作坊教主管與員工如何在不冒犯他人的情況下質疑別人的想法。",
+    "skeleton": [
+      "The workshop teaches managers and employees how｜主句",
+      "to dispute someone else's ideas without causing offense.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "dispute an idea＝質疑某想法。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "dispute",
+        "pos": "依句意",
+        "meaning": "質疑；反駁",
+        "usage": "dispute an idea＝質疑想法"
+      },
+      {
+        "term": "dispute an idea",
+        "pos": "片語",
+        "meaning": "質疑想法",
+        "usage": "dispute an idea＝質疑想法"
+      },
+      {
+        "term": "without causing offense",
+        "pos": "片語",
+        "meaning": "不冒犯",
+        "usage": "without causing offense＝不冒犯"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "form",
+        "meaning": "形成",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "argue",
+        "meaning": "爭辯",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "integrate",
+        "meaning": "整合",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "dispute",
+        "meaning": "質疑；反駁",
+        "usage": "dispute an idea＝質疑想法"
+      }
+    ],
+    "collocations": [
+      "dispute an idea＝質疑想法",
+      "without causing offense＝不冒犯"
+    ],
+    "example": {
+      "en": "The workshop teaches managers and employees how to dispute someone else's ideas without causing offense.",
+      "zh": "這場工作坊教主管與員工如何在不冒犯他人的情況下質疑別人的想法。"
+    }
+  },
+  "762": {
+    "translation": "瑞士因最符合碳排放條約規範而獲得國際認可。",
+    "skeleton": [
+      "Switzerland earned international acknowledgement for being the country｜主要結構",
+      "that most closely met the guidelines stated in the carbon emissions treaty.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "earn acknowledgement＝獲得認可。",
+      "注意比較級／最高級與 than 等比較結構的搭配。"
+    ],
+    "vocab": [
+      {
+        "term": "acknowledgement",
+        "pos": "依句意",
+        "meaning": "認可",
+        "usage": "international acknowledgement＝國際認可"
+      },
+      {
+        "term": "international acknowledgement",
+        "pos": "片語",
+        "meaning": "國際認可",
+        "usage": "international acknowledgement＝國際認可"
+      },
+      {
+        "term": "meet guidelines",
+        "pos": "片語",
+        "meaning": "符合規範",
+        "usage": "meet guidelines＝符合規範"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "understanding",
+        "meaning": "理解",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "acknowledgement",
+        "meaning": "認可",
+        "usage": "international acknowledgement＝國際認可"
+      },
+      {
+        "label": "C",
+        "term": "comprehension",
+        "meaning": "理解力",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "interpretation",
+        "meaning": "解釋",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "international acknowledgement＝國際認可",
+      "meet guidelines＝符合規範"
+    ],
+    "example": {
+      "en": "Switzerland earned international acknowledgement for being the country that most closely met the guidelines stated in the carbon emissions treaty.",
+      "zh": "瑞士因最符合碳排放條約規範而獲得國際認可。"
+    }
+  },
+  "763": {
+    "translation": "人們過去會隨身攜帶 CD 播放器，但如今播放數位檔案的小型裝置更為普遍。",
+    "skeleton": [
+      "People used to carry compact disk players in their bags and backpacks,｜主要結構",
+      "but nowadays,｜子句／修飾或轉折",
+      "tiny devices for playing digital files are more prevalent.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "prevalent＝普遍的、盛行的。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "注意比較級／最高級與 than 等比較結構的搭配。"
+    ],
+    "vocab": [
+      {
+        "term": "prevalent",
+        "pos": "依句意",
+        "meaning": "普遍的",
+        "usage": "be prevalent＝普遍存在"
+      },
+      {
+        "term": "be prevalent",
+        "pos": "片語",
+        "meaning": "普遍存在",
+        "usage": "be prevalent＝普遍存在"
+      },
+      {
+        "term": "digital files",
+        "pos": "片語",
+        "meaning": "數位檔案",
+        "usage": "digital files＝數位檔案"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "leading",
+        "meaning": "領先的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "prevalent",
+        "meaning": "普遍的",
+        "usage": "be prevalent＝普遍存在"
+      },
+      {
+        "label": "C",
+        "term": "natural",
+        "meaning": "自然的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "precedent",
+        "meaning": "先例",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "be prevalent＝普遍存在",
+      "digital files＝數位檔案"
+    ],
+    "example": {
+      "en": "People used to carry compact disk players in their bags and backpacks, but nowadays, tiny devices for playing digital files are more prevalent.",
+      "zh": "人們過去會隨身攜帶 CD 播放器，但如今播放數位檔案的小型裝置更為普遍。"
+    }
+  },
+  "764": {
+    "translation": "若要註冊線上帳戶，請立即前往網站並點選註冊按鈕。",
+    "skeleton": [
+      "To register for your online account,｜主要結構",
+      "proceed to the Web site immediately and click on the sign-up button.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "proceed to + 地點＝前往……。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "proceed",
+        "pos": "依句意",
+        "meaning": "前往；繼續",
+        "usage": "proceed to the website＝前往網站"
+      },
+      {
+        "term": "proceed to the website",
+        "pos": "片語",
+        "meaning": "前往網站",
+        "usage": "proceed to the website＝前往網站"
+      },
+      {
+        "term": "sign-up button",
+        "pos": "片語",
+        "meaning": "註冊按鈕",
+        "usage": "sign-up button＝註冊按鈕"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "prevail",
+        "meaning": "盛行",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "procrastinate",
+        "meaning": "拖延",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "proceed",
+        "meaning": "前往；繼續",
+        "usage": "proceed to the website＝前往網站"
+      },
+      {
+        "label": "D",
+        "term": "prolong",
+        "meaning": "延長",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "proceed to the website＝前往網站",
+      "sign-up button＝註冊按鈕"
+    ],
+    "example": {
+      "en": "To register for your online account, proceed to the Web site immediately and click on the sign-up button.",
+      "zh": "若要註冊線上帳戶，請立即前往網站並點選註冊按鈕。"
+    }
+  },
+  "765": {
+    "translation": "現任表演部主管月底退休後，Wren 女士將接任他的工作。",
+    "skeleton": [
+      "Ms. Wren will take over the current performance director's job｜主要結構",
+      "when he retires at the end of the month.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "take over＝接管、接任。"
+    ],
+    "vocab": [
+      {
+        "term": "take over",
+        "pos": "依句意",
+        "meaning": "接管；接任",
+        "usage": "take over a job＝接任工作"
+      },
+      {
+        "term": "take over a job",
+        "pos": "片語",
+        "meaning": "接任工作",
+        "usage": "take over a job＝接任工作"
+      },
+      {
+        "term": "retire at the end of",
+        "pos": "片語",
+        "meaning": "月底退休",
+        "usage": "retire at the end of＝月底退休"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "work out",
+        "meaning": "解決",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "come up with",
+        "meaning": "想出",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "take over",
+        "meaning": "接管；接任",
+        "usage": "take over a job＝接任工作"
+      },
+      {
+        "label": "D",
+        "term": "pass through",
+        "meaning": "穿過",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "take over a job＝接任工作",
+      "retire at the end of＝月底退休"
+    ],
+    "example": {
+      "en": "Ms. Wren will take over the current performance director's job when he retires at the end of the month.",
+      "zh": "現任表演部主管月底退休後，Wren 女士將接任他的工作。"
+    }
+  },
+  "766": {
+    "translation": "新的監視系統讓保全人員幾乎能持續監控設施每個區域。",
+    "skeleton": [
+      "The new surveillance system allows virtually every part｜主句",
+      "of the facility to be continually monitored by security staff.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "continually monitored＝持續監控。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "continually",
+        "pos": "依句意",
+        "meaning": "持續地",
+        "usage": "continually monitored＝持續監控"
+      },
+      {
+        "term": "continually monitored",
+        "pos": "片語",
+        "meaning": "持續監控",
+        "usage": "continually monitored＝持續監控"
+      },
+      {
+        "term": "surveillance system",
+        "pos": "片語",
+        "meaning": "監視系統",
+        "usage": "surveillance system＝監視系統"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "everlastingly",
+        "meaning": "永恆地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "lastingly",
+        "meaning": "持久地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "continually",
+        "meaning": "持續地",
+        "usage": "continually monitored＝持續監控"
+      },
+      {
+        "label": "D",
+        "term": "stirringly",
+        "meaning": "激動地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "continually monitored＝持續監控",
+      "surveillance system＝監視系統"
+    ],
+    "example": {
+      "en": "The new surveillance system allows virtually every part of the facility to be continually monitored by security staff.",
+      "zh": "新的監視系統讓保全人員幾乎能持續監控設施每個區域。"
+    }
+  },
+  "767": {
+    "translation": "Pendleton Enterprises 無法保證型錄中的所有商品在每個授權門市都有現貨，因此請先打電話確認。",
+    "skeleton": [
+      "Pendleton Enterprises cannot always guarantee｜主要結構",
+      "that everything in the catalog is in stock at its authorized outlets,｜子句／修飾或轉折",
+      "so please call ahead to make sure.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "authorized outlets＝授權門市。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "authorized",
+        "pos": "依句意",
+        "meaning": "授權的",
+        "usage": "authorized outlets＝授權門市"
+      },
+      {
+        "term": "authorized outlets",
+        "pos": "片語",
+        "meaning": "授權門市",
+        "usage": "authorized outlets＝授權門市"
+      },
+      {
+        "term": "in stock",
+        "pos": "片語",
+        "meaning": "有現貨",
+        "usage": "in stock＝有現貨"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "fixed",
+        "meaning": "固定的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "confused",
+        "meaning": "困惑的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "authorized",
+        "meaning": "授權的",
+        "usage": "authorized outlets＝授權門市"
+      },
+      {
+        "label": "D",
+        "term": "complicated",
+        "meaning": "複雜的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "authorized outlets＝授權門市",
+      "in stock＝有現貨"
+    ],
+    "example": {
+      "en": "Pendleton Enterprises cannot always guarantee that everything in the catalog is in stock at its authorized outlets, so please call ahead to make sure.",
+      "zh": "Pendleton Enterprises 無法保證型錄中的所有商品在每個授權門市都有現貨，因此請先打電話確認。"
+    }
+  },
+  "768": {
+    "translation": "工作坊最後因時間限制，只回答了少數問題。",
+    "skeleton": [
+      "Only a few questions were answered due｜主句",
+      "to time constraints at the end of the workshop.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "time constraints＝時間限制。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "constraints",
+        "pos": "依句意",
+        "meaning": "限制",
+        "usage": "time constraints＝時間限制"
+      },
+      {
+        "term": "time constraints",
+        "pos": "片語",
+        "meaning": "時間限制",
+        "usage": "time constraints＝時間限制"
+      },
+      {
+        "term": "answer questions",
+        "pos": "片語",
+        "meaning": "回答問題",
+        "usage": "answer questions＝回答問題"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "constraints",
+        "meaning": "限制",
+        "usage": "time constraints＝時間限制"
+      },
+      {
+        "label": "B",
+        "term": "operations",
+        "meaning": "運作",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "measurements",
+        "meaning": "測量",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "units",
+        "meaning": "單位",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "time constraints＝時間限制",
+      "answer questions＝回答問題"
+    ],
+    "example": {
+      "en": "Only a few questions were answered due to time constraints at the end of the workshop.",
+      "zh": "工作坊最後因時間限制，只回答了少數問題。"
+    }
+  },
+  "769": {
+    "translation": "南美主要農產品產量偏低，是部分貧窮國家近期通貨緊縮的原因。",
+    "skeleton": [
+      "Low yields｜主句",
+      "of the major agricultural products in South America accounts for the latest economic deflations in some of its poorest countries.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "account for＝解釋……原因；原題主詞 Low yields 為複數，標準應用 account，來源選項 accounts 有一致性問題。"
+    ],
+    "vocab": [
+      {
+        "term": "accounts",
+        "pos": "依句意",
+        "meaning": "解釋；占",
+        "usage": "account for＝解釋原因"
+      },
+      {
+        "term": "account for",
+        "pos": "片語",
+        "meaning": "解釋原因",
+        "usage": "account for＝解釋原因"
+      },
+      {
+        "term": "low yields",
+        "pos": "片語",
+        "meaning": "低產量",
+        "usage": "low yields＝低產量"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "accounts",
+        "meaning": "解釋；占",
+        "usage": "account for＝解釋原因"
+      },
+      {
+        "label": "B",
+        "term": "compensates",
+        "meaning": "補償",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "resolves",
+        "meaning": "解決",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "requires",
+        "meaning": "需要",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "account for＝解釋原因",
+      "low yields＝低產量"
+    ],
+    "example": {
+      "en": "Low yields of the major agricultural products in South America accounts for the latest economic deflations in some of its poorest countries.",
+      "zh": "南美主要農產品產量偏低，是部分貧窮國家近期通貨緊縮的原因。"
+    }
+  },
+  "770": {
+    "translation": "雖然公司市占率下滑的具體原因尚未確定，但競爭加劇很可能是因素之一。",
+    "skeleton": [
+      "Although the specific reason for the company's declining market share has not been determined,｜主要結構",
+      "it is likely｜子句／修飾或轉折",
+      "that increased competition is a factor.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "specific reason＝具體原因。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。"
+    ],
+    "vocab": [
+      {
+        "term": "specific",
+        "pos": "依句意",
+        "meaning": "具體的",
+        "usage": "specific reason＝具體原因"
+      },
+      {
+        "term": "specific reason",
+        "pos": "片語",
+        "meaning": "具體原因",
+        "usage": "specific reason＝具體原因"
+      },
+      {
+        "term": "declining market share",
+        "pos": "片語",
+        "meaning": "市占率下滑",
+        "usage": "declining market share＝市占率下滑"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "spectacular",
+        "meaning": "壯觀的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "specific",
+        "meaning": "具體的",
+        "usage": "specific reason＝具體原因"
+      },
+      {
+        "label": "C",
+        "term": "sp arkle",
+        "meaning": "閃光",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "spectacle",
+        "meaning": "景象",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "specific reason＝具體原因",
+      "declining market share＝市占率下滑"
+    ],
+    "example": {
+      "en": "Although the specific reason for the company's declining market share has not been determined, it is likely that increased competition is a factor.",
+      "zh": "雖然公司市占率下滑的具體原因尚未確定，但競爭加劇很可能是因素之一。"
+    }
+  },
+  "771": {
+    "translation": "製造商最新系列的行李箱對經常商務旅行的人很有吸引力。",
+    "skeleton": [
+      "The manufacturer's most recent line｜主句",
+      "of luggage is attractive to people who travel often for business.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "be attractive to＝對……有吸引力。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。",
+      "注意比較級／最高級與 than 等比較結構的搭配。"
+    ],
+    "vocab": [
+      {
+        "term": "attractive",
+        "pos": "依句意",
+        "meaning": "有吸引力的",
+        "usage": "attractive to＝對……有吸引力"
+      },
+      {
+        "term": "attractive to",
+        "pos": "片語",
+        "meaning": "對……有吸引力",
+        "usage": "attractive to＝對……有吸引力"
+      },
+      {
+        "term": "business travelers",
+        "pos": "片語",
+        "meaning": "商務旅客",
+        "usage": "business travelers＝商務旅客"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "interactive",
+        "meaning": "互動的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "creative",
+        "meaning": "有創意的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "active",
+        "meaning": "活躍的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "attractive",
+        "meaning": "有吸引力的",
+        "usage": "attractive to＝對……有吸引力"
+      }
+    ],
+    "collocations": [
+      "attractive to＝對……有吸引力",
+      "business travelers＝商務旅客"
+    ],
+    "example": {
+      "en": "The manufacturer's most recent line of luggage is attractive to people who travel often for business.",
+      "zh": "製造商最新系列的行李箱對經常商務旅行的人很有吸引力。"
+    }
+  },
+  "772": {
+    "translation": "據報導，Dorsey 先生正被評估是否適合擔任公司科技部門的未來主管。",
+    "skeleton": [
+      "Mr. Dorsey is reportedly being evaluated as a prospective manager｜主句",
+      "of the company's technology division.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "be evaluated as/for＝被評估；prospective manager＝未來主管人選。"
+    ],
+    "vocab": [
+      {
+        "term": "evaluated",
+        "pos": "依句意",
+        "meaning": "評估",
+        "usage": "evaluate a candidate＝評估候選人"
+      },
+      {
+        "term": "evaluate a candidate",
+        "pos": "片語",
+        "meaning": "評估候選人",
+        "usage": "evaluate a candidate＝評估候選人"
+      },
+      {
+        "term": "prospective manager",
+        "pos": "片語",
+        "meaning": "主管人選",
+        "usage": "prospective manager＝主管人選"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "evaluated",
+        "meaning": "評估",
+        "usage": "evaluate a candidate＝評估候選人"
+      },
+      {
+        "label": "B",
+        "term": "selected",
+        "meaning": "選擇",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "sorted",
+        "meaning": "分類",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "located",
+        "meaning": "定位",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "evaluate a candidate＝評估候選人",
+      "prospective manager＝主管人選"
+    ],
+    "example": {
+      "en": "Mr. Dorsey is reportedly being evaluated as a prospective manager of the company's technology division.",
+      "zh": "據報導，Dorsey 先生正被評估是否適合擔任公司科技部門的未來主管。"
+    }
+  },
+  "773": {
+    "translation": "Rosen 博士向兒童醫院捐了一大筆款項，使翻修老舊兒科病房成為可能。",
+    "skeleton": [
+      "Dr. Rosen made a large contribution to the children's hospital,｜主要結構",
+      "which made it possible to renovate an old pediatric wing.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "make a contribution to＝捐款／貢獻。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。",
+      "⚠ 原題紀錄問題：原 PDF 的 D 選項文字為空白"
+    ],
+    "vocab": [
+      {
+        "term": "contribution",
+        "pos": "依句意",
+        "meaning": "捐款；貢獻",
+        "usage": "make a large contribution＝大額捐款"
+      },
+      {
+        "term": "make a large contribution",
+        "pos": "片語",
+        "meaning": "大額捐款",
+        "usage": "make a large contribution＝大額捐款"
+      },
+      {
+        "term": "pediatric wing",
+        "pos": "片語",
+        "meaning": "兒科病房",
+        "usage": "pediatric wing＝兒科病房"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "contribution",
+        "meaning": "捐款；貢獻",
+        "usage": "make a large contribution＝大額捐款"
+      },
+      {
+        "label": "B",
+        "term": "addition",
+        "meaning": "增加",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "concession",
+        "meaning": "讓步",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "（原 PDF 空白）",
+        "meaning": "原PDF選項空白",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "make a large contribution＝大額捐款",
+      "pediatric wing＝兒科病房"
+    ],
+    "example": {
+      "en": "Dr. Rosen made a large contribution to the children's hospital, which made it possible to renovate an old pediatric wing.",
+      "zh": "Rosen 博士向兒童醫院捐了一大筆款項，使翻修老舊兒科病房成為可能。"
+    }
+  },
+  "774": {
+    "translation": "這名創業者查看網站列出的條件後，得知自己符合貸款資格。",
+    "skeleton": [
+      "When the entrepreneur checked the requirements listed on the Web site,｜主要結構",
+      "he learned thathe was eligible for a loan.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "be eligible for＝符合……資格。"
+    ],
+    "vocab": [
+      {
+        "term": "eligible",
+        "pos": "依句意",
+        "meaning": "符合資格的",
+        "usage": "eligible for a loan＝符合貸款資格"
+      },
+      {
+        "term": "eligible for a loan",
+        "pos": "片語",
+        "meaning": "符合貸款資格",
+        "usage": "eligible for a loan＝符合貸款資格"
+      },
+      {
+        "term": "requirements listed",
+        "pos": "片語",
+        "meaning": "列出的條件",
+        "usage": "requirements listed＝列出的條件"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "economic",
+        "meaning": "經濟的",        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "effective",
+        "meaning": "有效的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "eager",
+        "meaning": "渴望的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "eligible",
+        "meaning": "符合資格的",
+        "usage": "eligible for a loan＝符合貸款資格"
+      }
+    ],
+    "collocations": [
+      "eligible for a loan＝符合貸款資格",
+      "requirements listed＝列出的條件"
+    ],
+    "example": {
+      "en": "When the entrepreneur checked the requirements listed on the Web site, he learned thathe was eligible for a loan.",
+      "zh": "這名創業者查看網站列出的條件後，得知自己符合貸款資格。"
+    }
+  },
+  "775": {
+    "translation": "公司最近聘了幾名新員工，因此將在餐廳舉辦聚會介紹他們。",
+    "skeleton": [
+      "The company has recently hired some new staff,｜主要結構",
+      "so a gathering to introduce them will be held at the cafeteria.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "recently hired＝最近聘用。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "recently",
+        "pos": "依句意",
+        "meaning": "最近地",
+        "usage": "recently hired staff＝新進員工"
+      },
+      {
+        "term": "recently hired staff",
+        "pos": "片語",
+        "meaning": "新進員工",
+        "usage": "recently hired staff＝新進員工"
+      },
+      {
+        "term": "hold a gathering",
+        "pos": "片語",
+        "meaning": "舉辦聚會",
+        "usage": "hold a gathering＝舉辦聚會"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "recently",
+        "meaning": "最近地",
+        "usage": "recently hired staff＝新進員工"
+      },
+      {
+        "label": "B",
+        "term": "usually",
+        "meaning": "通常地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "certainly",
+        "meaning": "當然地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "freshly",
+        "meaning": "新鮮地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "recently hired staff＝新進員工",
+      "hold a gathering＝舉辦聚會"
+    ],
+    "example": {
+      "en": "The company has recently hired some new staff, so a gathering to introduce them will be held at the cafeteria.",
+      "zh": "公司最近聘了幾名新員工，因此將在餐廳舉辦聚會介紹他們。"
+    }
+  },
+  "776": {
+    "translation": "抵達商展的訪客被要求填寫登記表並出示名片。",
+    "skeleton": [
+      "Visitors arriving｜主句",
+      "at the trade fair were told to fill out a registration form and present a business card.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "fill out a form＝填寫表格。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "fill",
+        "pos": "依句意",
+        "meaning": "填寫",
+        "usage": "fill out a registration form＝填寫登記表"
+      },
+      {
+        "term": "fill out a registration form",
+        "pos": "片語",
+        "meaning": "填寫登記表",
+        "usage": "fill out a registration form＝填寫登記表"
+      },
+      {
+        "term": "present a business card",
+        "pos": "片語",
+        "meaning": "出示名片",
+        "usage": "present a business card＝出示名片"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "work",
+        "meaning": "工作",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "leave",
+        "meaning": "離開",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "bow",
+        "meaning": "鞠躬",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "fill",
+        "meaning": "填寫",
+        "usage": "fill out a registration form＝填寫登記表"
+      }
+    ],
+    "collocations": [
+      "fill out a registration form＝填寫登記表",
+      "present a business card＝出示名片"
+    ],
+    "example": {
+      "en": "Visitors arriving at the trade fair were told to fill out a registration form and present a business card.",
+      "zh": "抵達商展的訪客被要求填寫登記表並出示名片。"
+    }
+  },
+  "777": {
+    "translation": "Roberts 女士很擅長訓練新進員工，因為她在人資部工作已超過十年。",
+    "skeleton": [
+      "Ms. Roberts is skilled at training incoming staff｜主要結構",
+      "because she has been working in the human resources division for more than a decade.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "be skilled at + V-ing＝擅長做……。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "注意比較級／最高級與 than 等比較結構的搭配。"
+    ],
+    "vocab": [
+      {
+        "term": "skilled",
+        "pos": "依句意",
+        "meaning": "熟練的",
+        "usage": "skilled at training＝擅長訓練"
+      },
+      {
+        "term": "skilled at training",
+        "pos": "片語",
+        "meaning": "擅長訓練",
+        "usage": "skilled at training＝擅長訓練"
+      },
+      {
+        "term": "incoming staff",
+        "pos": "片語",
+        "meaning": "新進員工",
+        "usage": "incoming staff＝新進員工"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "extensive",
+        "meaning": "廣泛的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "skilled",
+        "meaning": "熟練的",
+        "usage": "skilled at training＝擅長訓練"
+      },
+      {
+        "label": "C",
+        "term": "regular",
+        "meaning": "規律的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "dedicated",
+        "meaning": "投入的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "skilled at training＝擅長訓練",
+      "incoming staff＝新進員工"
+    ],
+    "example": {
+      "en": "Ms. Roberts is skilled at training incoming staff because she has been working in the human resources division for more than a decade.",
+      "zh": "Roberts 女士很擅長訓練新進員工，因為她在人資部工作已超過十年。"
+    }
+  },
+  "778": {
+    "translation": "員工應在上午十點前回到會議室，因為主管一到，會議就會立即恢復。",
+    "skeleton": [
+      "Employees should be back in the conference room by 10:00 A.M.,｜主要結構",
+      "as the meeting will resume promptly once the manager has arrived.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "resume promptly＝立即恢復。"
+    ],
+    "vocab": [
+      {
+        "term": "promptly",
+        "pos": "依句意",
+        "meaning": "迅速地",
+        "usage": "resume promptly＝迅速恢復"
+      },
+      {
+        "term": "resume promptly",
+        "pos": "片語",
+        "meaning": "迅速恢復",
+        "usage": "resume promptly＝迅速恢復"
+      },
+      {
+        "term": "once the manager arrives",
+        "pos": "片語",
+        "meaning": "主管一到",
+        "usage": "once the manager arrives＝主管一到"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "assertively",
+        "meaning": "斷然地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "cordially",
+        "meaning": "親切地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "promptly",
+        "meaning": "迅速地",
+        "usage": "resume promptly＝迅速恢復"
+      },
+      {
+        "label": "D",
+        "term": "particularly",
+        "meaning": "特別地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "resume promptly＝迅速恢復",
+      "once the manager arrives＝主管一到"
+    ],
+    "example": {
+      "en": "Employees should be back in the conference room by 10:00 A.M., as the meeting will resume promptly once the manager has arrived.",
+      "zh": "員工應在上午十點前回到會議室，因為主管一到，會議就會立即恢復。"
+    }
+  },
+  "779": {
+    "translation": "Lee 先生參加研討會並修線上課程，以跟上最新科技趨勢。",
+    "skeleton": [
+      "Mr. Lee attends seminars at the Newport Technology Society and takes online courses｜主要結構",
+      "in order to keep up with new technological trends.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "keep up with＝跟上。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "keep up with",
+        "pos": "依句意",
+        "meaning": "跟上",
+        "usage": "keep up with trends＝跟上趨勢"
+      },
+      {
+        "term": "keep up with trends",
+        "pos": "片語",
+        "meaning": "跟上趨勢",
+        "usage": "keep up with trends＝跟上趨勢"
+      },
+      {
+        "term": "take online courses",
+        "pos": "片語",
+        "meaning": "修線上課",
+        "usage": "take online courses＝修線上課"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "keep up with",
+        "meaning": "跟上",
+        "usage": "keep up with trends＝跟上趨勢"
+      },
+      {
+        "label": "B",
+        "term": "come up with",
+        "meaning": "想出",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "cut down on",
+        "meaning": "減少",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "get along with",
+        "meaning": "相處融洽",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "keep up with trends＝跟上趨勢",
+      "take online courses＝修線上課"
+    ],
+    "example": {
+      "en": "Mr. Lee attends seminars at the Newport Technology Society and takes online courses in order to keep up with new technological trends.",
+      "zh": "Lee 先生參加研討會並修線上課程，以跟上最新科技趨勢。"
+    }
+  },
+  "780": {
+    "translation": "升遷會依候選人先前經驗，以及其投入程度與忠誠度來考量。",
+    "skeleton": [
+      "Promotions will be considered｜主句",
+      "on the basis of candidates' prior experience as well as their level of dedication and loyalty.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "prior experience＝先前經驗。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。"
+    ],
+    "vocab": [
+      {
+        "term": "prior",
+        "pos": "依句意",
+        "meaning": "先前的",
+        "usage": "prior experience＝先前經驗"
+      },
+      {
+        "term": "prior experience",
+        "pos": "片語",
+        "meaning": "先前經驗",
+        "usage": "prior experience＝先前經驗"
+      },
+      {
+        "term": "on the basis of",
+        "pos": "片語",
+        "meaning": "依據",
+        "usage": "on the basis of＝依據"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "prior",
+        "meaning": "先前的",
+        "usage": "prior experience＝先前經驗"
+      },
+      {
+        "label": "B",
+        "term": "consious",
+        "meaning": "有意識的，原字拼寫有誤",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "earnest",
+        "meaning": "認真的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "fatal",
+        "meaning": "致命的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "prior experience＝先前經驗",
+      "on the basis of＝依據"
+    ],
+    "example": {
+      "en": "Promotions will be considered on the basis of candidates' prior experience as well as their level of dedication and loyalty.",
+      "zh": "升遷會依候選人先前經驗，以及其投入程度與忠誠度來考量。"
+    }
+  },
+  "781": {
+    "translation": "這家商店持續成功主要歸因於其堅持只販售價格合理的最高品質商品。",
+    "skeleton": [
+      "The store's continued success is primarily due｜主句",
+      "to its commitment to selling only the finest quality products at reasonable prices.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "commitment to + V-ing＝致力於……。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "commitment",
+        "pos": "依句意",
+        "meaning": "承諾；投入",
+        "usage": "commitment to selling＝致力銷售"
+      },
+      {
+        "term": "commitment to selling",
+        "pos": "片語",
+        "meaning": "致力銷售",
+        "usage": "commitment to selling＝致力銷售"
+      },
+      {
+        "term": "reasonable prices",
+        "pos": "片語",
+        "meaning": "合理價格",
+        "usage": "reasonable prices＝合理價格"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "coordination",
+        "meaning": "協調",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "cooperation",
+        "meaning": "合作",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "commitment",
+        "meaning": "承諾；投入",
+        "usage": "commitment to selling＝致力銷售"
+      },
+      {
+        "label": "D",
+        "term": "completion",
+        "meaning": "完成",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "commitment to selling＝致力銷售",
+      "reasonable prices＝合理價格"
+    ],
+    "example": {
+      "en": "The store's continued success is primarily due to its commitment to selling only the finest quality products at reasonable prices.",
+      "zh": "這家商店持續成功主要歸因於其堅持只販售價格合理的最高品質商品。"
+    }
+  },
+  "782": {
+    "translation": "若下週工作班表有任何變動，實驗室主管每週五會在公告欄張貼通知。",
+    "skeleton": [
+      "The laboratory manager will post a notice on the bulletin board each Friday｜主要結構",
+      "if there are any changes to the work shift for the next week.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "work shift＝工作班次／班表。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "shift",
+        "pos": "依句意",
+        "meaning": "班次；班表",
+        "usage": "work shift＝工作班次"
+      },
+      {
+        "term": "work shift",
+        "pos": "片語",
+        "meaning": "工作班次",
+        "usage": "work shift＝工作班次"
+      },
+      {
+        "term": "post a notice",
+        "pos": "片語",
+        "meaning": "張貼通知",
+        "usage": "post a notice＝張貼通知"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "opportunity",
+        "meaning": "機會",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "authorization",
+        "meaning": "授權",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "statistic",
+        "meaning": "統計",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "shift",
+        "meaning": "班次；班表",
+        "usage": "work shift＝工作班次"
+      }
+    ],
+    "collocations": [
+      "work shift＝工作班次",
+      "post a notice＝張貼通知"
+    ],
+    "example": {
+      "en": "The laboratory manager will post a notice on the bulletin board each Friday if there are any changes to the work shift for the next week.",
+      "zh": "若下週工作班表有任何變動，實驗室主管每週五會在公告欄張貼通知。"
+    }
+  },
+  "783": {
+    "translation": "得知聯邦最低工資計畫調漲後，Howser Electronics 提高軟體價格，以抵銷未來可能的損失。",
+    "skeleton": [
+      "After informing of the planned increase in the federal minimum wage,｜主要結構",
+      "Howser Electronics raised the prices of its software to offset any possible future losses.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "offset losses＝抵銷損失。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "offset",
+        "pos": "依句意",
+        "meaning": "抵銷",
+        "usage": "offset losses＝抵銷損失"
+      },
+      {
+        "term": "offset losses",
+        "pos": "片語",
+        "meaning": "抵銷損失",
+        "usage": "offset losses＝抵銷損失"
+      },
+      {
+        "term": "minimum wage",
+        "pos": "片語",
+        "meaning": "最低工資",
+        "usage": "minimum wage＝最低工資"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "utilize",
+        "meaning": "利用",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "yield",
+        "meaning": "產出",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "offset",
+        "meaning": "抵銷",
+        "usage": "offset losses＝抵銷損失"
+      },
+      {
+        "label": "D",
+        "term": "inquire",
+        "meaning": "詢問",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "offset losses＝抵銷損失",
+      "minimum wage＝最低工資"
+    ],
+    "example": {
+      "en": "After informing of the planned increase in the federal minimum wage, Howser Electronics raised the prices of its software to offset any possible future losses.",
+      "zh": "得知聯邦最低工資計畫調漲後，Howser Electronics 提高軟體價格，以抵銷未來可能的損失。"
+    }
+  },
+  "784": {
+    "translation": "實驗室的調查結果顯示，Dawson Beauty Products 新系列化妝品對環境友善。",
+    "skeleton": [
+      "The laboratory's survey findings show｜主要結構",
+      "that the new line of cosmetics for Dawson Beauty Products is environmentally friendly.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "survey findings＝調查結果。"
+    ],
+    "vocab": [
+      {
+        "term": "survey",
+        "pos": "依句意",
+        "meaning": "調查",
+        "usage": "survey findings＝調查結果"
+      },
+      {
+        "term": "survey findings",
+        "pos": "片語",
+        "meaning": "調查結果",
+        "usage": "survey findings＝調查結果"
+      },
+      {
+        "term": "environmentally friendly",
+        "pos": "片語",
+        "meaning": "環保的",
+        "usage": "environmentally friendly＝環保的"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "survey",
+        "meaning": "調查",
+        "usage": "survey findings＝調查結果"
+      },
+      {
+        "label": "B",
+        "term": "response",
+        "meaning": "回應",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "question naire",
+        "meaning": "問卷",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "probe",
+        "meaning": "探針",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "survey findings＝調查結果",
+      "environmentally friendly＝環保的"
+    ],
+    "example": {
+      "en": "The laboratory's survey findings show that the new line of cosmetics for Dawson Beauty Products is environmentally friendly.",
+      "zh": "實驗室的調查結果顯示，Dawson Beauty Products 新系列化妝品對環境友善。"
+    }
+  },
+  "785": {
+    "translation": "多數評論家認為，時尚設計師 Viola Arancia 成功打造出兼具平價與流行的系列。",
+    "skeleton": [
+      "Most critics agreed｜主要結構",
+      "that fashion designer Viola Arancia has succeeded in developing a collection｜子句／修飾或轉折",
+      "that is both affordable and trendy.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "succeed in + V-ing＝成功做……。",
+      "注意比較級／最高級與 than 等比較結構的搭配。"
+    ],
+    "vocab": [
+      {
+        "term": "succeeded",
+        "pos": "依句意",
+        "meaning": "成功",
+        "usage": "succeed in developing＝成功開發"
+      },
+      {
+        "term": "succeed in developing",
+        "pos": "片語",
+        "meaning": "成功開發",
+        "usage": "succeed in developing＝成功開發"
+      },
+      {
+        "term": "affordable and trendy",
+        "pos": "片語",
+        "meaning": "平價又流行",
+        "usage": "affordable and trendy＝平價又流行"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "compensate",
+        "meaning": "補償",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "motivated",
+        "meaning": "受到激勵",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "revealed",
+        "meaning": "揭露",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "succeeded",
+        "meaning": "成功",
+        "usage": "succeed in developing＝成功開發"
+      }
+    ],
+    "collocations": [
+      "succeed in developing＝成功開發",
+      "affordable and trendy＝平價又流行"
+    ],
+    "example": {
+      "en": "Most critics agreed that fashion designer Viola Arancia has succeeded in developing a collection that is both affordable and trendy.",
+      "zh": "多數評論家認為，時尚設計師 Viola Arancia 成功打造出兼具平價與流行的系列。"
+    }
+  },
+  "786": {
+    "translation": "在所有參與州長連任競選的顧問中，McKenzie 先生最了解經濟議題。",
+    "skeleton": [
+      "Of all the advisors associated with the governor's reelection campaign,｜主要結構",
+      "Mr. McKenzie is the most knowledgeable on economic issues.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "be associated with＝與……相關／參與。",
+      "注意比較級／最高級與 than 等比較結構的搭配。"
+    ],
+    "vocab": [
+      {
+        "term": "associated",
+        "pos": "依句意",
+        "meaning": "相關聯；參與",
+        "usage": "associated with a campaign＝參與競選"
+      },
+      {
+        "term": "associated with a campaign",
+        "pos": "片語",
+        "meaning": "參與競選",
+        "usage": "associated with a campaign＝參與競選"
+      },
+      {
+        "term": "knowledgeable on",
+        "pos": "片語",
+        "meaning": "熟悉",
+        "usage": "knowledgeable on＝熟悉"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "admit",
+        "meaning": "承認",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "confronted",
+        "meaning": "面對",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "associated",
+        "meaning": "相關聯；參與",
+        "usage": "associated with a campaign＝參與競選"
+      },
+      {
+        "label": "D",
+        "term": "retreated",
+        "meaning": "撤退",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "associated with a campaign＝參與競選",
+      "knowledgeable on＝熟悉"
+    ],
+    "example": {
+      "en": "Of all the advisors associated with the governor's reelection campaign, Mr. McKenzie is the most knowledgeable on economic issues.",
+      "zh": "在所有參與州長連任競選的顧問中，McKenzie 先生最了解經濟議題。"
+    }
+  },
+  "787": {
+    "translation": "新任顧問 Powell 先生已申請使用公司檔案，以取得可行性研究所需資訊。",
+    "skeleton": [
+      "Mr. Powell,｜主要結構",
+      "the new consultant,｜子句／修飾或轉折",
+      "has requested access to the company's archives to retrieve the information he needs for a feasibility study.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "request access to＝要求存取……。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "access",
+        "pos": "依句意",
+        "meaning": "存取權",
+        "usage": "access to archives＝檔案存取權"
+      },
+      {
+        "term": "access to archives",
+        "pos": "片語",
+        "meaning": "檔案存取權",
+        "usage": "access to archives＝檔案存取權"
+      },
+      {
+        "term": "feasibility study",
+        "pos": "片語",
+        "meaning": "可行性研究",
+        "usage": "feasibility study＝可行性研究"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "pass",
+        "meaning": "通行證",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "access",
+        "meaning": "存取權",
+        "usage": "access to archives＝檔案存取權"
+      },
+      {
+        "label": "C",
+        "term": "entrance",
+        "meaning": "入口",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "approach",
+        "meaning": "方法",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "access to archives＝檔案存取權",
+      "feasibility study＝可行性研究"
+    ],
+    "example": {
+      "en": "Mr. Powell, the new consultant, has requested access to the company's archives to retrieve the information he needs for a feasibility study.",
+      "zh": "新任顧問 Powell 先生已申請使用公司檔案，以取得可行性研究所需資訊。"
+    }
+  },
+  "788": {
+    "translation": "Neo International 刊登人事主管職缺，要求其職涯目標與公司長期計畫相容。",
+    "skeleton": [
+      "Neo International has advertised a position｜主句",
+      "for a personnel director whose professional goals are compatible with the company's long-term plans.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "be compatible with＝與……相容。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。"
+    ],
+    "vocab": [
+      {
+        "term": "compatible",
+        "pos": "依句意",
+        "meaning": "相容的",
+        "usage": "compatible with＝與……一致"
+      },
+      {
+        "term": "compatible with",
+        "pos": "片語",
+        "meaning": "與……一致",
+        "usage": "compatible with＝與……一致"
+      },
+      {
+        "term": "long-term plans",
+        "pos": "片語",
+        "meaning": "長期計畫",
+        "usage": "long-term plans＝長期計畫"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "reliable",
+        "meaning": "可靠的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "profitable",
+        "meaning": "有利可圖的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "unbearable",
+        "meaning": "難以忍受的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "compatible",
+        "meaning": "相容的",
+        "usage": "compatible with＝與……一致"
+      }
+    ],
+    "collocations": [
+      "compatible with＝與……一致",
+      "long-term plans＝長期計畫"
+    ],
+    "example": {
+      "en": "Neo International has advertised a position for a personnel director whose professional goals are compatible with the company's long-term plans.",
+      "zh": "Neo International 刊登人事主管職缺，要求其職涯目標與公司長期計畫相容。"
+    }
+  },
+  "789": {
+    "translation": "National Review 從其他媒體延攬數名知名記者後，成為全國最暢銷報紙。",
+    "skeleton": [
+      "The National Review became the best-selling newspaper in the country｜主要結構",
+      "after hiring several notable journalists from other publications.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "notable journalists＝知名記者。"
+    ],
+    "vocab": [
+      {
+        "term": "notable",
+        "pos": "依句意",
+        "meaning": "知名的；值得注意的",
+        "usage": "notable journalists＝知名記者"
+      },
+      {
+        "term": "notable journalists",
+        "pos": "片語",
+        "meaning": "知名記者",
+        "usage": "notable journalists＝知名記者"
+      },
+      {
+        "term": "best-selling newspaper",
+        "pos": "片語",
+        "meaning": "暢銷報紙",
+        "usage": "best-selling newspaper＝暢銷報紙"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "notable",
+        "meaning": "知名的；值得注意的",
+        "usage": "notable journalists＝知名記者"
+      },
+      {
+        "label": "B",
+        "term": "private",
+        "meaning": "私人的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "overall",
+        "meaning": "整體的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "panic",
+        "meaning": "恐慌",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "notable journalists＝知名記者",
+      "best-selling newspaper＝暢銷報紙"
+    ],
+    "example": {
+      "en": "The National Review became the best-selling newspaper in the country after hiring several notable journalists from other publications.",
+      "zh": "National Review 從其他媒體延攬數名知名記者後，成為全國最暢銷報紙。"
+    }
+  },
+  "790": {
+    "translation": "在決定是否購買公寓時，有必要計算房產稅與維護成本。",
+    "skeleton": [
+      "Whatever deciding whether to purchase an apartment,｜主要結構",
+      "it is necessary to calculate the cost of property taxes and maintenance.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "calculate the cost of＝計算……成本；原題開頭 Whatever deciding 不自然，可能為 When deciding 的資料錯誤。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "calculate",
+        "pos": "依句意",
+        "meaning": "計算",
+        "usage": "calculate costs＝計算成本"
+      },
+      {
+        "term": "calculate costs",
+        "pos": "片語",
+        "meaning": "計算成本",
+        "usage": "calculate costs＝計算成本"
+      },
+      {
+        "term": "property taxes",
+        "pos": "片語",
+        "meaning": "房產稅",
+        "usage": "property taxes＝房產稅"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "modify",
+        "meaning": "修改",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "calculate",
+        "meaning": "計算",
+        "usage": "calculate costs＝計算成本"
+      },
+      {
+        "label": "C",
+        "term": "measure",
+        "meaning": "測量",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "discard",
+        "meaning": "丟棄",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "calculate costs＝計算成本",
+      "property taxes＝房產稅"
+    ],
+    "example": {
+      "en": "Whatever deciding whether to purchase an apartment, it is necessary to calculate the cost of property taxes and maintenance.",
+      "zh": "在決定是否購買公寓時，有必要計算房產稅與維護成本。"
+    }
+  },
+  "791": {
+    "translation": "雖然被指派到該專案的員工人數已減少，管理階層仍希望工作能順利進行。",
+    "skeleton": [
+      "Although the number of employees appointed to the project has been reduced,｜主要結構",
+      "management hopes the work will proceed smoothly.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "employees appointed to the project＝被指派到專案的員工。",
+      "has/have/had been + p.p.＝完成式被動；注意動作與時間的關係。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "appointed",
+        "pos": "依句意",
+        "meaning": "任命；指派",
+        "usage": "appointed to＝被指派至"
+      },
+      {
+        "term": "appointed to",
+        "pos": "片語",
+        "meaning": "被指派至",
+        "usage": "appointed to＝被指派至"
+      },
+      {
+        "term": "proceed smoothly",
+        "pos": "片語",
+        "meaning": "順利進行",
+        "usage": "proceed smoothly＝順利進行"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "deceived",
+        "meaning": "欺騙",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "appointed",
+        "meaning": "任命；指派",
+        "usage": "appointed to＝被指派至"
+      },
+      {
+        "label": "C",
+        "term": "conducted",
+        "meaning": "執行",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "relocated",
+        "meaning": "搬遷",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "appointed to＝被指派至",
+      "proceed smoothly＝順利進行"
+    ],
+    "example": {
+      "en": "Although the number of employees appointed to the project has been reduced, management hopes the work will proceed smoothly.",
+      "zh": "雖然被指派到該專案的員工人數已減少，管理階層仍希望工作能順利進行。"
+    }
+  },
+  "792": {
+    "translation": "只要銀行核准 Gary 的小型企業貸款申請，他打算在年底前開店。",
+    "skeleton": [
+      "Providing the bank approves his application for a small business loan,｜主要結構",
+      "Gary intends to open his shop by the end of the year.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "原題 Providing the bank approves 應為 Provided the bank approves，表示「只要／如果」。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "approves",
+        "pos": "依句意",
+        "meaning": "核准",
+        "usage": "approve an application＝核准申請"
+      },
+      {
+        "term": "approve an application",
+        "pos": "片語",
+        "meaning": "核准申請",
+        "usage": "approve an application＝核准申請"
+      },
+      {
+        "term": "small business loan",
+        "pos": "片語",
+        "meaning": "小型企業貸款",
+        "usage": "small business loan＝小型企業貸款"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "perceives",
+        "meaning": "察覺",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "negotiates",
+        "meaning": "協商",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "renews",
+        "meaning": "續約",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "approves",
+        "meaning": "核准",
+        "usage": "approve an application＝核准申請"
+      }
+    ],
+    "collocations": [
+      "approve an application＝核准申請",
+      "small business loan＝小型企業貸款"
+    ],
+    "example": {
+      "en": "Providing the bank approves his application for a small business loan, Gary intends to open his shop by the end of the year.",
+      "zh": "只要銀行核准 Gary 的小型企業貸款申請，他打算在年底前開店。"
+    }
+  },
+  "793": {
+    "translation": "零售商若要進入成熟且競爭激烈的市場，必須發展有效廣告方法，使產品與其他公司有所區隔。",
+    "skeleton": [
+      "Retailers expanding｜主句",
+      "into established and competitive markets must develop effective advertising methods to differentiate their products from those of other companies.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "established markets＝成熟市場。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "established",
+        "pos": "依句意",
+        "meaning": "成熟既有的",
+        "usage": "established market＝成熟市場"
+      },
+      {
+        "term": "established market",
+        "pos": "片語",
+        "meaning": "成熟市場",
+        "usage": "established market＝成熟市場"
+      },
+      {
+        "term": "differentiate products",
+        "pos": "片語",
+        "meaning": "區隔產品",
+        "usage": "differentiate products＝區隔產品"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "courteous",
+        "meaning": "有禮的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "established",
+        "meaning": "成熟既有的",
+        "usage": "established market＝成熟市場"
+      },
+      {
+        "label": "C",
+        "term": "artificial",
+        "meaning": "人造的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "prominent",
+        "meaning": "突出的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "established market＝成熟市場",
+      "differentiate products＝區隔產品"
+    ],
+    "example": {
+      "en": "Retailers expanding into established and competitive markets must develop effective advertising methods to differentiate their products from those of other companies.",
+      "zh": "零售商若要進入成熟且競爭激烈的市場，必須發展有效廣告方法，使產品與其他公司有所區隔。"
+    }
+  },
+  "794": {
+    "translation": "Superslim 手機銷售突然增加，被歸因於產品出現在目前於 NATV 播出的熱門電視劇中。",
+    "skeleton": [
+      "The sudden increase in sales of Superslim mobile phones is attributed to their appearance in a popular television drama series｜主要結構",
+      "which is currently showing on NATV.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "be attributed to＝歸因於。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。"
+    ],
+    "vocab": [
+      {
+        "term": "attributed",
+        "pos": "依句意",
+        "meaning": "被歸因於",
+        "usage": "be attributed to＝歸因於"
+      },
+      {
+        "term": "be attributed to",
+        "pos": "片語",
+        "meaning": "歸因於",
+        "usage": "be attributed to＝歸因於"
+      },
+      {
+        "term": "increase in sales",
+        "pos": "片語",
+        "meaning": "銷售增加",
+        "usage": "increase in sales＝銷售增加"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "permitted",
+        "meaning": "被允許",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "attributed",
+        "meaning": "被歸因於",
+        "usage": "be attributed to＝歸因於"
+      },
+      {
+        "label": "C",
+        "term": "attested",
+        "meaning": "被證實",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "allocated",
+        "meaning": "被分配",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "be attributed to＝歸因於",
+      "increase in sales＝銷售增加"
+    ],
+    "example": {
+      "en": "The sudden increase in sales of Superslim mobile phones is attributed to their appearance in a popular television drama series which is currently showing on NATV.",
+      "zh": "Superslim 手機銷售突然增加，被歸因於產品出現在目前於 NATV 播出的熱門電視劇中。"
+    }
+  },
+  "795": {
+    "translation": "Michelle Sanders 的《Successful Leadership》提供主管如何獎勵員工投入與成就的建議。",
+    "skeleton": [
+      "Successful Leadership,｜主要結構",
+      "a book by Michelle Sanders,｜子句／修飾或轉折",
+      "includes advice for managers on how to reward the dedication and achievements of employees.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "dedication and achievements 為並列名詞。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "dedication",
+        "pos": "依句意",
+        "meaning": "投入；奉獻",
+        "usage": "reward dedication＝獎勵投入"
+      },
+      {
+        "term": "reward dedication",
+        "pos": "片語",
+        "meaning": "獎勵投入",
+        "usage": "reward dedication＝獎勵投入"
+      },
+      {
+        "term": "employee achievements",
+        "pos": "片語",
+        "meaning": "員工成就",
+        "usage": "employee achievements＝員工成就"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "emission",
+        "meaning": "排放",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "discrimination",
+        "meaning": "歧視",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "dedication",
+        "meaning": "投入；奉獻",
+        "usage": "reward dedication＝獎勵投入"
+      },
+      {
+        "label": "D",
+        "term": "contribution",
+        "meaning": "貢獻",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "reward dedication＝獎勵投入",
+      "employee achievements＝員工成就"
+    ],
+    "example": {
+      "en": "Successful Leadership, a book by Michelle Sanders, includes advice for managers on how to reward the dedication and achievements of employees.",
+      "zh": "Michelle Sanders 的《Successful Leadership》提供主管如何獎勵員工投入與成就的建議。"
+    }
+  },
+  "796": {
+    "translation": "博物館正尋找一位對藝術史理解既詳盡又深厚的策展人。",
+    "skeleton": [
+      "The museum is seeking a curator whose understanding｜主句",
+      "of art history is both detailed and substantial.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "both A and B＝既……又……；substantial 可指內容深厚。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。"
+    ],
+    "vocab": [
+      {
+        "term": "substantial",
+        "pos": "依句意",
+        "meaning": "深厚的；大量的",
+        "usage": "substantial understanding＝深厚理解"
+      },
+      {
+        "term": "substantial understanding",
+        "pos": "片語",
+        "meaning": "深厚理解",
+        "usage": "substantial understanding＝深厚理解"
+      },
+      {
+        "term": "art history",
+        "pos": "片語",
+        "meaning": "藝術史",
+        "usage": "art history＝藝術史"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "dynamic",
+        "meaning": "動態的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "dominant",
+        "meaning": "占主導的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "adequate",
+        "meaning": "足夠的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "substantial",
+        "meaning": "深厚的；大量的",
+        "usage": "substantial understanding＝深厚理解"
+      }
+    ],
+    "collocations": [
+      "substantial understanding＝深厚理解",
+      "art history＝藝術史"
+    ],
+    "example": {
+      "en": "The museum is seeking a curator whose understanding of art history is both detailed and substantial.",
+      "zh": "博物館正尋找一位對藝術史理解既詳盡又深厚的策展人。"
+    }
+  },
+  "797": {
+    "translation": "獲得充足睡眠並維持均衡飲食，是健康生活方式的重要元素。",
+    "skeleton": [
+      "G etting sufficient sleep and maintaining a balanced diet are important elements｜主句",
+      "of a healthy lifestyle.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "sufficient sleep＝充足睡眠。"
+    ],
+    "vocab": [
+      {
+        "term": "sufficient",
+        "pos": "依句意",
+        "meaning": "充足的",
+        "usage": "sufficient sleep＝充足睡眠"
+      },
+      {
+        "term": "sufficient sleep",
+        "pos": "片語",
+        "meaning": "充足睡眠",
+        "usage": "sufficient sleep＝充足睡眠"
+      },
+      {
+        "term": "balanced diet",
+        "pos": "片語",
+        "meaning": "均衡飲食",
+        "usage": "balanced diet＝均衡飲食"
+      }
+    ],
+    "options": [
+      {        "label": "A",
+        "term": "enormous",
+        "meaning": "龐大的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "sufficient",
+        "meaning": "充足的",
+        "usage": "sufficient sleep＝充足睡眠"
+      },
+      {
+        "label": "C",
+        "term": "fantastic",
+        "meaning": "極好的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "gorgeous",
+        "meaning": "華麗的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "sufficient sleep＝充足睡眠",
+      "balanced diet＝均衡飲食"
+    ],
+    "example": {
+      "en": "G etting sufficient sleep and maintaining a balanced diet are important elements of a healthy lifestyle.",
+      "zh": "獲得充足睡眠並維持均衡飲食，是健康生活方式的重要元素。"
+    }
+  },
+  "798": {
+    "translation": "個人投資者正獨立使用線上服務取得金融市場資料並購買股票。",
+    "skeleton": [
+      "Individual investors are independently using online services｜主句",
+      "to acquire data about financial markets and purchasing stock.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "independently 修飾 using；using 與 purchasing 並列。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。"
+    ],
+    "vocab": [
+      {
+        "term": "independently",
+        "pos": "依句意",
+        "meaning": "獨立地",
+        "usage": "use services independently＝獨立使用"
+      },
+      {
+        "term": "use services independently",
+        "pos": "片語",
+        "meaning": "獨立使用",
+        "usage": "use services independently＝獨立使用"
+      },
+      {
+        "term": "financial markets",
+        "pos": "片語",
+        "meaning": "金融市場",
+        "usage": "financial markets＝金融市場"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "flexibly",
+        "meaning": "彈性地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "hardly",
+        "meaning": "幾乎不",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "independently",
+        "meaning": "獨立地",
+        "usage": "use services independently＝獨立使用"
+      },
+      {
+        "label": "D",
+        "term": "basically",
+        "meaning": "基本上",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "use services independently＝獨立使用",
+      "financial markets＝金融市場"
+    ],
+    "example": {
+      "en": "Individual investors are independently using online services to acquire data about financial markets and purchasing stock.",
+      "zh": "個人投資者正獨立使用線上服務取得金融市場資料並購買股票。"
+    }
+  },
+  "799": {
+    "translation": "員工年度獎金以工作表現與主管提交的評估為依據。",
+    "skeleton": [
+      "The employees' annual bonuses are based｜主句",
+      "on their performance and evaluations submitted by their supervisors.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "be based on＝以……為依據。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。"
+    ],
+    "vocab": [
+      {
+        "term": "based",
+        "pos": "依句意",
+        "meaning": "基於",
+        "usage": "based on performance＝依績效"
+      },
+      {
+        "term": "based on performance",
+        "pos": "片語",
+        "meaning": "依績效",
+        "usage": "based on performance＝依績效"
+      },
+      {
+        "term": "annual bonuses",
+        "pos": "片語",
+        "meaning": "年度獎金",
+        "usage": "annual bonuses＝年度獎金"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "lifted",
+        "meaning": "抬起",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "situate",
+        "meaning": "放置，原形",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "re sume",
+        "meaning": "履歷；恢復，原字異常",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "based",
+        "meaning": "基於",
+        "usage": "based on performance＝依績效"
+      }
+    ],
+    "collocations": [
+      "based on performance＝依績效",
+      "annual bonuses＝年度獎金"
+    ],
+    "example": {
+      "en": "The employees' annual bonuses are based on their performance and evaluations submitted by their supervisors.",
+      "zh": "員工年度獎金以工作表現與主管提交的評估為依據。"
+    }
+  },
+  "800": {
+    "translation": "由於首席研究員即將辭職，目前正在招募接替人選。",
+    "skeleton": [
+      "With the head researcher's impending resignation,｜主要結構",
+      "an opening for a replacement is now being advertised.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "impending resignation＝即將發生的辭職。"
+    ],
+    "vocab": [
+      {
+        "term": "impending",
+        "pos": "依句意",
+        "meaning": "即將發生的",
+        "usage": "impending resignation＝即將辭職"
+      },
+      {
+        "term": "impending resignation",
+        "pos": "片語",
+        "meaning": "即將辭職",
+        "usage": "impending resignation＝即將辭職"
+      },
+      {
+        "term": "opening for a replacement",
+        "pos": "片語",
+        "meaning": "接替職缺",
+        "usage": "opening for a replacement＝接替職缺"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "impending",
+        "meaning": "即將發生的",
+        "usage": "impending resignation＝即將辭職"
+      },
+      {
+        "label": "B",
+        "term": "likely",
+        "meaning": "可能的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "inevitable",
+        "meaning": "不可避免的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "mutual",
+        "meaning": "相互的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "impending resignation＝即將辭職",
+      "opening for a replacement＝接替職缺"
+    ],
+    "example": {
+      "en": "With the head researcher's impending resignation, an opening for a replacement is now being advertised.",
+      "zh": "由於首席研究員即將辭職，目前正在招募接替人選。"
+    }
+  }
+}
