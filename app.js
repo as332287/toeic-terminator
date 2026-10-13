@@ -185,17 +185,24 @@ async function loadAnalysisChunk(id){
   const end = Math.min(start+49,800);
   const key=`${start}-${end}`;
   if(ANALYSIS_CACHE.has(key)) return ANALYSIS_CACHE.get(key);
-  try{
-    const r=await fetch(`data/analysis-${pad3(start)}-${pad3(end)}.json`,{cache:"no-store"});
-    if(!r.ok) throw new Error("analysis not found");
-    const json=await r.json();
-    ANALYSIS_CACHE.set(key,json);
-    return json;
-  }catch{
-    const empty={};
-    ANALYSIS_CACHE.set(key,empty);
-    return empty;
+
+  const names = start <= 250
+    ? [`analysis-${pad3(start)}-${pad3(end)}.json`]
+    : [`lesson-${pad3(start)}-${pad3(end)}.json`, `analysis-${pad3(start)}-${pad3(end)}.json`];
+
+  for(const name of names){
+    try{
+      const r=await fetch(`data/${name}`,{cache:"no-store"});
+      if(!r.ok) continue;
+      const json=await r.json();
+      ANALYSIS_CACHE.set(key,json);
+      return json;
+    }catch{}
   }
+
+  const empty={};
+  ANALYSIS_CACHE.set(key,empty);
+  return empty;
 }
 
 function fallbackAnalysis(q){
