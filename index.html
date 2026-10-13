@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#111827">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="多益剋星">
+  <title>多益剋星｜互動題庫</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">TOEIC Terminator</div>
+        <h1>多益剋星｜800 字彙</h1>
+      </div>
+      <button id="themeBtn" class="icon-btn" type="button" aria-label="切換深色模式">◐</button>
+    </header>
+
+    <section id="resumeCard" class="resume-card hidden">
+      <div>
+        <div class="muted small">歡迎回來</div>
+        <strong id="resumeText">上次做到第 1 題</strong>
+      </div>
+      <button id="resumeBtn" class="primary compact" type="button">繼續</button>
+    </section>
+
+    <section id="pwaCard" class="pwa-card">
+      <div>
+        <strong>📱 手機版</strong>
+        <div id="installHint" class="small">iPhone：Safari 分享 →「加入主畫面」，之後可像 App 一樣開啟。</div>
+        <div id="offlineStatus" class="muted small">正在準備離線題庫…</div>
+      </div>
+    </section>
+
+    <section class="stats">
+      <div><span id="doneCount">0</span><small>已作答</small></div>
+      <div><span id="correctCount">0</span><small>答對</small></div>
+      <div><span id="wrongCount">0</span><small>答錯</small></div>
+      <div><span id="accuracy">0%</span><small>正確率</small></div>
+    </section>
+    <div class="progress"><div id="progressBar"></div></div>
+
+    <section class="toolbar">
+      <select id="rangeSelect" aria-label="題目範圍">
+        <option value="all">全部 1–800</option>
+        <option value="1-50">1–50</option>
+        <option value="51-100">51–100</option>
+        <option value="101-150">101–150</option>
+        <option value="151-200">151–200</option>
+        <option value="201-250">201–250</option>
+        <option value="251-300">251–300</option>
+        <option value="301-350">301–350</option>
+        <option value="351-400">351–400</option>
+        <option value="401-450">401–450</option>
+        <option value="451-500">451–500</option>
+        <option value="501-550">501–550</option>
+        <option value="551-600">551–600</option>
+        <option value="601-650">601–650</option>
+        <option value="651-700">651–700</option>
+        <option value="701-750">701–750</option>
+        <option value="751-800">751–800</option>
+      </select>
+      <select id="modeSelect" aria-label="題目模式">
+        <option value="all">全部題目</option>
+        <option value="unanswered">未作答</option>
+        <option value="wrong">錯題</option>
+        <option value="starred">收藏</option>
+        <option value="inferred">推定答案題</option>
+      </select>
+      <form id="jumpForm" class="jump">
+        <input id="jumpInput" inputmode="numeric" type="number" min="1" max="800" placeholder="題號">
+        <button type="submit">跳題</button>
+      </form>
+      <button id="randomBtn" type="button">隨機</button>
+    </section>
+
+    <section class="question-card">
+      <div class="question-head">
+        <div class="badges">
+          <span id="qNumber" class="badge">第 1 題</span>
+          <span id="answerSourceBadge" class="badge subtle"></span>
+        </div>
+        <button id="starBtn" class="star-btn" type="button" aria-label="收藏題目">☆</button>
+      </div>
+      <p id="questionText" class="question-text">載入題目中…</p>
+      <div id="optionList" class="options"></div>
+      <div id="resultBox" class="result hidden" aria-live="polite"></div>
+    </section>
+
+    <section id="analysisPanel" class="analysis hidden">
+      <div class="analysis-title">
+        <div>
+          <div class="eyebrow">LEARN FROM THE QUESTION</div>
+          <h2>完整解析</h2>
+        </div>
+        <button id="collapseAnalysis" class="text-btn" type="button">收合</button>
+      </div>
+
+      <article class="analysis-block">
+        <h3>① 完整中文翻譯</h3>
+        <p id="translation"></p>
+      </article>
+
+      <article class="analysis-block">
+        <h3>② 句子骨架</h3>
+        <div id="skeleton" class="stack"></div>
+      </article>
+
+      <article class="analysis-block">
+        <h3>③ 文法完整解析</h3>
+        <ul id="grammar"></ul>
+      </article>
+
+      <article class="analysis-block">
+        <h3>④ 句中重點單字／片語</h3>
+        <div id="vocabList" class="word-grid"></div>
+      </article>
+
+      <article class="analysis-block">
+        <h3>⑤ 四個選項全部學</h3>
+        <div id="optionAnalysis" class="word-grid"></div>
+      </article>
+
+      <article class="analysis-block">
+        <h3>⑥ 固定搭配／多益考點</h3>
+        <div id="collocations" class="chips"></div>
+      </article>
+
+      <article class="analysis-block">
+        <h3>⑦ 延伸例句</h3>
+        <p id="exampleEn" class="example-en"></p>
+        <p id="exampleZh" class="muted"></p>
+      </article>
+
+      <article id="sourceIssueBlock" class="analysis-block warning hidden">
+        <h3>⚠ 原題／答案來源註記</h3>
+        <ul id="sourceIssues"></ul>
+      </article>
+    </section>
+
+    <nav class="pager">
+      <button id="prevBtn" type="button">← 上一題</button>
+      <button id="retryBtn" class="hidden" type="button">重新作答</button>
+      <button id="nextBtn" class="primary" type="button">下一題 →</button>
+    </nav>
+
+    <details class="data-tools">
+      <summary>進度與備份</summary>
+      <div class="data-actions">
+        <button id="exportBtn" type="button">匯出進度</button>
+        <label class="file-label">匯入進度<input id="importInput" type="file" accept="application/json"></label>
+        <button id="resetBtn" class="danger" type="button">清除全部進度</button>
+      </div>
+      <p class="muted small">進度自動存在目前瀏覽器。換手機前可先匯出 JSON 備份。</p>
+    </details>
+
+    <footer>
+      <span id="datasetStatus">資料載入中…</span>
+    </footer>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>
