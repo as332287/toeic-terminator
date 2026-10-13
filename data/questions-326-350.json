@@ -1,0 +1,562 @@
+{
+  "title": "多益剋星｜800字彙",
+  "generatedAt": "2026-10-12T13:47:09.957Z",
+  "sourceFolder": "++多益剋星++/800字彙",
+  "total": 25,
+  "questions": [
+    {
+      "id": 326,
+      "printedNumber": 326,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "R",
+      "question": "------ costs resulting from improper use of the electronic equipment are tremendous, and sometimes they can be close to buying a new one.",
+      "options": [
+        "Permission",
+        "Delegation",
+        "Procedure",
+        "Repair"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "repair costs＝維修費",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 327,
+      "printedNumber": 327,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "L",
+      "question": "According to the new property tax, multiple items are now considered ------ expenses, a phenomenon that taxpayers are willing to see.",
+      "options": [
+        "important",
+        "deductible",
+        "expensive",
+        "luxurious"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "deductible expenses＝可扣除費用",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 328,
+      "printedNumber": 328,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "R",
+      "question": "After the performance at the luxurious hotel, G orgerous Cinema made the decision of not ------ the contract of multiple actors in the press conference.",
+      "options": [
+        "proposing",
+        "renewing",
+        "retaining",
+        "reproducing"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "renew a contract＝續約",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 329,
+      "printedNumber": 329,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "L",
+      "question": "According to an author of the bestsellers, \" ------ are just lists and lists are not compelling\", so you still need to work on your personality and others.",
+      "options": [
+        "superstars",
+        "resumes",
+        "economies",
+        "valuations"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "resumes are lists＝履歷是清單",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 330,
+      "printedNumber": 330,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "R",
+      "question": "The rich and renowned CEO remained modest and was ------ about charitable affairs by donating millions of dollars each year.",
+      "options": [
+        "v iolent",
+        "i ndifferent",
+        "p opular",
+        "e nthusiastic"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "enthusiastic about＝熱衷於",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 331,
+      "printedNumber": 331,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "L",
+      "question": "31. The magician's ------ performances attracted full attention of the audience and won him long and loud applause.",
+      "options": [
+        "marvelous",
+        "exclusive",
+        "reckless",
+        "feasible"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "marvelous performances＝精彩表演",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 3
+    },
+    {
+      "id": 332,
+      "printedNumber": 332,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "R",
+      "question": "32. Thanks to the decreased costs of 3D printers, the technology of the three-dimensional printing has recently gained ------ among different fields of industry.",
+      "options": [
+        "richness",
+        "popularity",
+        "manipulation",
+        "capability"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "gain popularity＝受到歡迎",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 3
+    },
+    {
+      "id": 333,
+      "printedNumber": 333,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "L",
+      "question": "33. People who ------ from a migraine headache can relieve the pain effectively by all forms of relaxation.",
+      "options": [
+        "guarantee",
+        "suffer",
+        "proceed",
+        "investigate"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "suffer from＝受……所苦",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 3
+    },
+    {
+      "id": 334,
+      "printedNumber": 334,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "R",
+      "question": "34. To make both ends meet, Roy had no choice but to take several part-time jobs to ------ additional income.",
+      "options": [
+        "despise",
+        "supervise",
+        "generate",
+        "overlook"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "generate income＝產生收入",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 3
+    },
+    {
+      "id": 335,
+      "printedNumber": 335,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "L",
+      "question": "The film adapted from a novel was disappointing to the moviegoers because they could hardly find any ------ between the two.",
+      "options": [
+        "existence",
+        "metabolism",
+        "integrity",
+        "consistency"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "consistency between two works＝兩者一致性",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 336,
+      "printedNumber": 336,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "R",
+      "question": "It is ------ that producing books in hard copy format may bring several million tons of harmful CO2 into the atmosphere, so E-books are definitely here to stay.",
+      "options": [
+        "rebelled",
+        "estimated",
+        "undertaken",
+        "humiliated"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "It is estimated that...＝據估計",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 337,
+      "printedNumber": 337,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "L",
+      "question": "Due to wide ------ of public opinion, the political figure caught in a dilemma had a hard time getting away from the scandal.",
+      "options": [
+        "variations",
+        "solitude",
+        "approaches",
+        "isolation"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "variations of public opinion＝民意差異",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 338,
+      "printedNumber": 338,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "R",
+      "question": "At the present time, scientists spare no efforts to find resources of the alternative energy to substitute for the fossil fuels ------ by industry.",
+      "options": [
+        "occurred",
+        "consumed",
+        "represented",
+        "prospered"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "fossil fuels consumed by industry＝工業消耗的化石燃料",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 339,
+      "printedNumber": 339,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "L",
+      "question": "Martin has lived in comfort and luxury ever since he made successful ------ investments and piled up a considerable fortune.",
+      "options": [
+        "financial",
+        "profound",
+        "superstition",
+        "awkward"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "financial investments＝金融投資",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 340,
+      "printedNumber": 340,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 16,
+      "sourceColumn": "R",
+      "question": "Doctors believe that the calories you ------ could affect many aspects of your health.",
+      "options": [
+        "consume",
+        "assume",
+        "resume",
+        "contract"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "consume calories＝攝取熱量",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 341,
+      "printedNumber": 341,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "L",
+      "question": "Irene had better watch out for those of her gossip friends who may once in a while ------ rumors abouther.",
+      "options": [
+        "decorate",
+        "spread",
+        "pacify",
+        "experience"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "spread rumors＝散播謠言",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 342,
+      "printedNumber": 342,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "R",
+      "question": "After most of its safety ------ failed to meet the standards, the mall was seriously penalized, and had to make immediate improvement.",
+      "options": [
+        "motivation",
+        "inspections",
+        "purification",
+        "concessions"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "safety inspections＝安全檢查",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 343,
+      "printedNumber": 343,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "L",
+      "question": "The manager informed the factory that they might ------ or even cancel the original orders if the goods shipped in continued to be in poor quality.",
+      "options": [
+        "resolve",
+        "approve",
+        "withhold",
+        "decrease"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "withhold orders＝暫緩／扣住訂單",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 344,
+      "printedNumber": 344,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "R",
+      "question": "The dazzling northern lights, also called \"the aurora borealis,\" display one of nature's greatest spectacles, and are ------ to only certain regions in Canada, Scotland, Norway, and Sweden.",
+      "options": [
+        "unique",
+        "conceptual",
+        "practical",
+        "invisible"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "unique to＝為……所特有",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 345,
+      "printedNumber": 345,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "L",
+      "question": "The problems with the just-in-time supply chain were solved following ------ with the lead suppliers.",
+      "options": [
+        "demands",
+        "arguments",
+        "negotiation",
+        "confectionary"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "following negotiation＝經協商後",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 346,
+      "printedNumber": 346,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "R",
+      "question": "Some extreme-sports enthusiasts are capable of achieving difficult and challenging extreme tasks with ------ perfection.",
+      "options": [
+        "synthetic",
+        "luxurious",
+        "incredible",
+        "theory"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "incredible perfection＝驚人的完美",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 347,
+      "printedNumber": 347,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "L",
+      "question": "Mr. Gatsby had a serious cold and coughed a lot; thus, he could hardly ------ anything because of the painful throat.",
+      "options": [
+        "fumble",
+        "console",
+        "swallow",
+        "nominate"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "swallow＝吞嚥",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 348,
+      "printedNumber": 348,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "R",
+      "question": "According to neuroscientists, ------ 20 percent of short-term memory can be improved by regular physical exercise, especially to the elderly.",
+      "options": [
+        "recently",
+        "approximately",
+        "perpetually",
+        "ironically"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "approximately 20 percent＝約20%",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 349,
+      "printedNumber": 349,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "L",
+      "question": "The Internet ------ among adolescents brought about serious academic and personality problems and has gradually aroused social attention.",
+      "options": [
+        "governance",
+        "addiction",
+        "retreat",
+        "provocation"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "Internet addiction＝網路成癮",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 350,
+      "printedNumber": 350,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 17,
+      "sourceColumn": "R",
+      "question": "Animal rights groups ------ to take more drastic measures unless the cosmetic manufactures stopped inhumane animal tests.",
+      "options": [
+        "claimed",
+        "unraveled",
+        "surrendered",
+        "liberated"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "low",
+      "answerNote": "四個選項均不理想；claimed to 是唯一可勉強成立者，標準語意應更接近 threatened to",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    }
+  ]
+}

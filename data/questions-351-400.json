@@ -1,0 +1,1119 @@
+{
+  "title": "多益剋星｜800字彙",
+  "generatedAt": "2026-10-12T13:47:09.957Z",
+  "sourceFolder": "++多益剋星++/800字彙",
+  "total": 50,
+  "questions": [
+    {
+      "id": 351,
+      "printedNumber": 351,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "L",
+      "question": "The company has recently renewed the computer software, and is working on tests to make sure the new system will be ------ with the existing apparatus.",
+      "options": [
+        "sympathetic",
+        "experimental",
+        "compatible",
+        "interruptible"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "compatible with＝與……相容",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 352,
+      "printedNumber": 352,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "R",
+      "question": "The research findings about hypnosis healing remain inconclusive and ------; therefore, the curing method still has a long way to security.",
+      "options": [
+        "potential",
+        "anxious",
+        "magnificent",
+        "controversial"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "inconclusive and controversial＝無定論且具爭議",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 353,
+      "printedNumber": 353,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "L",
+      "question": "With ------ pop music superstars creating extraordinary performances, Korean pop music trend has prevailed worldwide.",
+      "options": [
+        "mandatory",
+        "economical",
+        "renewable",
+        "versatile"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "versatile superstars＝多才多藝的明星",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 354,
+      "printedNumber": 354,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "R",
+      "question": "Compared with others, people tortured by depression ------ need more care and attention, for they don't easily reveal their emotional problems.",
+      "options": [
+        "viciously",
+        "competently",
+        "relatively",
+        "punctually"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "relatively need more...＝相對更需要",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 355,
+      "printedNumber": 355,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "L",
+      "question": "Music, with its functions of offering soothing feelings and full relaxation, remains a ------ language for all times.",
+      "options": [
+        "separate",
+        "constructive",
+        "defend",
+        "universal"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "universal language＝世界共通語言",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 356,
+      "printedNumber": 356,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "R",
+      "question": "The man talking on the phone about the lack of ------ after the accident at the oil refinery is getting increasingly angry.",
+      "options": [
+        "payment",
+        "refunds",
+        "remittance",
+        "compensation"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "compensation after an accident＝事故補償",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 357,
+      "printedNumber": 357,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "L",
+      "question": "The newly elected administration has launched an aggressive ------ for federal counterterrorism in hopes of solidifying national.",
+      "options": [
+        "transaction",
+        "prejudice",
+        "strategy",
+        "disconnection"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "launch a strategy＝推出策略",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 358,
+      "printedNumber": 358,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "R",
+      "question": "To keep healthy, one should be. careful not to consume too much the food that ------ additives, such as preservatives, coloring, or artificial flavorings.",
+      "options": [
+        "contains",
+        "digests",
+        "cuddles",
+        "transforms"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "food that contains additives＝含添加物的食物",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 359,
+      "printedNumber": 359,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "L",
+      "question": "During the expansion of Hong Kong International Airport, some flights will be ------ to Macau.",
+      "options": [
+        "sent",
+        "transported",
+        "reduced",
+        "relocated"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "flights relocated to Macau＝航班移轉至澳門",
+      "sourceIssues": [
+        "原答案檔未提供此題答案",
+        "PDF 文字層有排版/編號混入，顯示題幹已依原頁面重新整理"
+      ],
+      "originalExtractedQuestion": "112. During the expansion of Hong Kong International Airport, some flights will be ------ to Macau."
+    },
+    {
+      "id": 360,
+      "printedNumber": 360,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 18,
+      "sourceColumn": "R",
+      "question": "Young generations should be taught from their early childhood to practice the 3R ------ Reduce, Reuse, and Recycle to protect and sustain the earth.",
+      "options": [
+        "Groups",
+        "Facilities",
+        "Principles",
+        "Restrictions"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "3R principles＝3R原則",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 361,
+      "printedNumber": 361,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "L",
+      "question": "Mr. Banks is a lawyer ------ in criminal law and is dedicated to defending against criminal charges.",
+      "options": [
+        "franchised",
+        "managed",
+        "abolished",
+        "specialized"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "lawyer specialized in＝專精於",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 362,
+      "printedNumber": 362,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "R",
+      "question": "The financial institution posted an advertisement to offer jobs for business school graduates with ------ consciousness and abilities.",
+      "options": [
+        "rigid",
+        "innovative",
+        "optional",
+        "retrospective"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "innovative consciousness and abilities＝創新意識與能力",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 363,
+      "printedNumber": 363,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "L",
+      "question": "After the accident, all electrical ------ must be checked before any further use.",
+      "options": [
+        "facilities",
+        "hardware",
+        "assets",
+        "equipment"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "electrical equipment＝電氣設備",
+      "sourceIssues": [
+        "原答案檔未提供此題答案",
+        "PDF 文字層有排版/編號混入，顯示題幹已依原頁面重新整理"
+      ],
+      "originalExtractedQuestion": "After the accident, all electrical ------ must be checked before any further use."
+    },
+    {
+      "id": 364,
+      "printedNumber": 364,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "R",
+      "question": "The refined merchandise exhibited in the Trade Fair last month was ------ by Morrison Company and has received great numbers of orders since then.",
+      "options": [
+        "approached",
+        "combined",
+        "manufactured",
+        "rejected"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "merchandise manufactured by＝由……製造",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 365,
+      "printedNumber": 365,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "L",
+      "question": "Due to ------ snow in southern England, many flights from Heathrow Airport have been delayed for up to seven hours.",
+      "options": [
+        "plenty",
+        "heavy",
+        "abundant",
+        "various"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "heavy snow＝大雪",
+      "sourceIssues": [
+        "原答案檔未提供此題答案",
+        "PDF 文字層有排版/編號混入，顯示題幹已依原頁面重新整理"
+      ],
+      "originalExtractedQuestion": "Due to ------ snow in southern England, many flights from Heathrow Airport have been delayed for up to seven hours."
+    },
+    {
+      "id": 366,
+      "printedNumber": 366,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "R",
+      "question": "There are two ways to treat gum diseases, receiving dental treatment and practicing good oral hygiene, and the ------ is more important.",
+      "options": [
+        "latter",
+        "last",
+        "lately",
+        "later"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "the latter＝後者",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 367,
+      "printedNumber": 367,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "L",
+      "question": "Many people in remote areas cannot afford basic needs, ------ visit the dentist for regular dental care.",
+      "options": [
+        "not to mention",
+        "to say nothing of",
+        "let alone",
+        "not to speak of"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "let alone＝更不用說",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 368,
+      "printedNumber": 368,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "R",
+      "question": "We use three quality control techniques, ------ ISO 9000 series, statistical process control, and Six Sigma.",
+      "options": [
+        "such as",
+        "namely",
+        "example",
+        "such like"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "namely＝即、也就是；後列完整三項",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 369,
+      "printedNumber": 369,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "L",
+      "question": "A ticket to Melbourne now ------ only around USD180 if you're willing to fly red-eye.",
+      "options": [
+        "costs",
+        "spends",
+        "pays",
+        "takes"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "a ticket costs...＝票價為……",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 370,
+      "printedNumber": 370,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 19,
+      "sourceColumn": "R",
+      "question": "The president-elect ------ about his vision for the country in his first interview with The Guardian.",
+      "options": [
+        "mentioned",
+        "conveyed",
+        "spoke",
+        "expressed"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "speak about＝談論",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 371,
+      "printedNumber": 371,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "L",
+      "question": "The ------ step of creating a business plan is writing a summary about your company profile and goals.",
+      "options": [
+        "initial",
+        "infant",
+        "intuition",
+        "concluding"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "initial step＝第一步",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 372,
+      "printedNumber": 372,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "R",
+      "question": "Since the cost of materials in Malaysia is relatively ------, Ms. Amarna decided to establish her factory there.",
+      "options": [
+        "affordable",
+        "logical",
+        "potential",
+        "induced"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "affordable cost＝可負擔成本",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 373,
+      "printedNumber": 373,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "L",
+      "question": "Employees at Foster Tech ------ work overtime, especially when the shop is crowded with customers asking for repairs of the products they bought.",
+      "options": [
+        "probably",
+        "then",
+        "routinely",
+        "thoroughly"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "routinely work overtime＝經常加班",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 374,
+      "printedNumber": 374,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "R",
+      "question": "To meet the deadline for the project, Ms. Wilson seems to have no choice but to hire a group of ------ workers.",
+      "options": [
+        "additional",
+        "sudden",
+        "informal",
+        "rapid"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "additional workers＝額外人力",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 375,
+      "printedNumber": 375,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "L",
+      "question": "Scientists have ------ found evidence of life on Mars, which is expected to increase the amount of interest in space research.",
+      "options": [
+        "significantly",
+        "expectedly",
+        "professionally",
+        "recently"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "recently found＝最近發現",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 376,
+      "printedNumber": 376,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "R",
+      "question": "6. As long as the main focus of this ------ project is not on its artistic significance but on its historic value, the same painting style used to make it will be utilized to fix it.",
+      "options": [
+        "association",
+        "termination",
+        "restoration",
+        "celebration"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "restoration project＝修復工程",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 37
+    },
+    {
+      "id": 377,
+      "printedNumber": 377,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "L",
+      "question": "7. After experiencing a whole day storm, a number of roads and houses in town were isolated and ------ damaged.",
+      "options": [
+        "regretfully",
+        "extensively",
+        "gradually",
+        "unnecessarily"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "extensively damaged＝大範圍受損",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 37
+    },
+    {
+      "id": 378,
+      "printedNumber": 378,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "R",
+      "question": "8. As the newly elected board of directors, Mr. Darek ------ over the meeting tonight.",
+      "options": [
+        "counted",
+        "recorded",
+        "seated",
+        "presided"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "preside over a meeting＝主持會議",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 37
+    },
+    {
+      "id": 379,
+      "printedNumber": 379,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "L",
+      "question": "9. In spite of the fact that Mr. Torchez has not been at the company for long, considering his contributions, many workers believe thathe is the ------ to be named the nexthead director.",
+      "options": [
+        "front runner",
+        "significance",
+        "likelihood",
+        "seniority"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "front runner＝領先候選人",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 37
+    },
+    {
+      "id": 380,
+      "printedNumber": 380,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 20,
+      "sourceColumn": "R",
+      "question": "80. The world-renowned band paid tribute ★★★ to the victims of the Boston terror attack at their latest concert, donating all ------ to the Boston Emergency Fund.",
+      "options": [
+        "expenses",
+        "consents",
+        "proceeds",
+        "deductions"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "concert proceeds＝演唱會收益",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ],
+      "parserPrintedNumber": 3
+    },
+    {
+      "id": 381,
+      "printedNumber": 381,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "L",
+      "question": "Staff members with ------ engagements need not feel obliged to attend next week's trip.",
+      "options": [
+        "prior",
+        "timely",
+        "latter",
+        "senior"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "prior engagements＝先前已有的約定",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 382,
+      "printedNumber": 382,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "R",
+      "question": "The ------ of the retreat was to allow all of the employees to bond with one another.",
+      "options": [
+        "measure",
+        "convention",
+        "scheme",
+        "purpose"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "purpose of the retreat＝活動目的",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 383,
+      "printedNumber": 383,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "L",
+      "question": "The ------ of being punctual in meeting the deadline for the payment cannot be stressed enough.",
+      "options": [
+        "expense",
+        "investment",
+        "condition",
+        "importance"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "importance ... cannot be stressed enough＝重要性再怎麼強調都不為過",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 384,
+      "printedNumber": 384,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "R",
+      "question": "The Flatts Corporation is looking for someone who has taken ------ courses in finance at college to fill a job opening in the Finance Department.",
+      "options": [
+        "advanced",
+        "impressed",
+        "interested",
+        "informed"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "advanced courses＝進階課程",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 385,
+      "printedNumber": 385,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "L",
+      "question": "St. Sophia Cathedral has always been one of the most ------ important Roman relics.",
+      "options": [
+        "thoughtfully",
+        "historically",
+        "momentarily",
+        "respectively"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "historically important＝具有歷史重要性",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 386,
+      "printedNumber": 386,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "R",
+      "question": "Some audience members were told to sit in their assigned seats, but they asked for ------ rearrangement to sit with each other.",
+      "options": [
+        "seating",
+        "schedule",
+        "appointment",
+        "payment"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "seating rearrangement＝座位重新安排",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 387,
+      "printedNumber": 387,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "L",
+      "question": "The employee handbook states the human resources director is ------ for reviewing job applications.",
+      "options": [
+        "reasonable",
+        "genuine",
+        "responsible",
+        "applicable"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "be responsible for V-ing＝負責",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 388,
+      "printedNumber": 388,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "R",
+      "question": "Additional doctors will be assigned to the Operham medical ------ next month to help run a new rehabilitation wing.",
+      "options": [
+        "territory",
+        "facility",
+        "exercise",
+        "discussion"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "medical facility＝醫療設施",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 389,
+      "printedNumber": 389,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "L",
+      "question": "All guests wishing to stay at the historic hotel which is a former royal residence must put down a $300damage deposit, ------ the length of their intended visit.",
+      "options": [
+        "regardless of",
+        "according to",
+        "as a result of",
+        "with respect to"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "regardless of＝不論",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 390,
+      "printedNumber": 390,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 21,
+      "sourceColumn": "R",
+      "question": "The Whitby Town Council recently prepared a brochure recommending ways that residents can play an ------ role in the community.",
+      "options": [
+        "activate",
+        "active",
+        "protective",
+        "protecting"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "play an active role＝積極參與",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 391,
+      "printedNumber": 391,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "L",
+      "question": "Ms. Johnson ------ a feasible solution to the customer's network problem.",
+      "options": [
+        "came up with",
+        "dropped by",
+        "looked upon",
+        "ran out of"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "come up with a solution＝想出解決方案",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 392,
+      "printedNumber": 392,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "R",
+      "question": "The law mandates that medical and dental practitioners acquire a legal license by passing an examination ------ by the state.",
+      "options": [
+        "participated",
+        "administered",
+        "sustained",
+        "declared"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "examination administered by the state＝由州政府施行的考試",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 393,
+      "printedNumber": 393,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "L",
+      "question": "Due to its ------ to three international airports, the Anaheim Convention Center is the optimal venue for the upcoming e-commerce expo.",
+      "options": [
+        "succession",
+        "venue",
+        "proximity",
+        "exposure"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "proximity to＝鄰近",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 394,
+      "printedNumber": 394,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "R",
+      "question": "Swedish leading automakers are set to ------ new electric vehicle wireless charging system with autonomous parking at the Frankfurt Auto Show this October.",
+      "options": [
+        "confiscate",
+        "transcend",
+        "sponsor",
+        "unveil"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "unveil a new system＝發表新系統",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 395,
+      "printedNumber": 395,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "L",
+      "question": "Everyone at Hammond Construction,Inc. was surprised to find out that the year's greatest cost saving measure was ------ by an intern.",
+      "options": [
+        "attracted",
+        "reserved",
+        "continued",
+        "suggested"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "measure suggested by an intern＝由實習生提出",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 396,
+      "printedNumber": 396,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "R",
+      "question": "As the argument raised at the last meeting was on a ------ point, it did not affect the proposal's overall plan.",
+      "options": [
+        "defensive",
+        "creative",
+        "minor",
+        "critical"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "minor point＝次要事項",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 397,
+      "printedNumber": 397,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "L",
+      "question": "Magnum Airlines began expanding its service five years ago and now ------ several daily flights throughout Eastern Europe.",
+      "options": [
+        "categorizes",
+        "operates",
+        "imparts",
+        "multiplies"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "operate flights＝營運航班",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 398,
+      "printedNumber": 398,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "R",
+      "question": "High-end goods sold at Barton Jewelry are rarely offered at a discount, although a few items are ------ marked down for clearance.",
+      "options": [
+        "occasionally",
+        "externally",
+        "previously",
+        "initially"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "occasionally marked down＝偶爾降價",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 399,
+      "printedNumber": 399,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "L",
+      "question": "The supervisor asked a technician to examine an assembly line machine,which kept turning off and on ------ and was disrupting work progress.",
+      "options": [
+        "respectively",
+        "collaboratively",
+        "simultaneously",
+        "constantly"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "constantly turning off and on＝不斷開關",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 400,
+      "printedNumber": 400,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 22,
+      "sourceColumn": "R",
+      "question": "The unseasonably cold wather has ------ affected the availability of some fruits and vegetables in local supermarkets.",
+      "options": [
+        "adversely",
+        "conscientiously",
+        "negligently",
+        "subsequently"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "adversely affected＝受到不利影響",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    }
+  ]
+}

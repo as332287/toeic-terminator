@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "多益剋星｜800 題互動題庫",
+  "short_name": "多益剋星",
+  "description": "TOEIC 1–800 題互動練習、完整解析、錯題與進度紀錄。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "lang": "zh-Hant",
+  "prefer_related_applications": false,
+  "icons": []
+}

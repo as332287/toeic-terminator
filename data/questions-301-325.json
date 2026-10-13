@@ -1,0 +1,558 @@
+{
+  "title": "多益剋星｜800字彙",
+  "generatedAt": "2026-10-12T13:47:09.957Z",
+  "sourceFolder": "++多益剋星++/800字彙",
+  "total": 25,
+  "questions": [
+    {
+      "id": 301,
+      "printedNumber": 301,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "L",
+      "question": "The winery in Germany has earned tons of ------ by tourists traveling very far from here.",
+      "options": [
+        "evaluations",
+        "accolades",
+        "functions",
+        "descriptions"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "語意：earn accolades＝獲得讚譽",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 302,
+      "printedNumber": 302,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "R",
+      "question": "A(n) ------ employee is like a loose cannon, and can be quite detrimental to the work setting.",
+      "options": [
+        "inconsistent",
+        "incremental",
+        "disgruntled",
+        "marketable"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "disgruntled employee＝心懷不滿的員工",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 303,
+      "printedNumber": 303,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "L",
+      "question": "To encourage the use of the ------ shopping bag, several department stores are rewarding consumers using it during the festival with an additional 10% discount.",
+      "options": [
+        "persuasive",
+        "extravagant",
+        "reusable",
+        "dominant"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "reusable shopping bag＝可重複使用購物袋",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 304,
+      "printedNumber": 304,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "R",
+      "question": "Both insufficient tourists visiting in the areas and a significant change in consumer shopping habits have contributed to the significant drop in retailers' ------.",
+      "options": [
+        "interpretations",
+        "revenues",
+        "calculations",
+        "evaluations"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "retailers' revenues＝零售商營收",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 305,
+      "printedNumber": 305,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "L",
+      "question": "Situated in a secluded village where honey bees come to gather the honey near the river bank, B estro Farm may be people's ------ of a stereotypical retreat.",
+      "options": [
+        "image",
+        "disagreement",
+        "investment",
+        "appreciation"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "medium",
+      "answerNote": "people's image of...＝人們心中……的形象",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 306,
+      "printedNumber": 306,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "R",
+      "question": "Despite the fact that the CFO of the Best Consulting firm has done numerous buy-ins of the stocks before, he still cannot say for sure whether the bet can truly generate hefty ------.",
+      "options": [
+        "results",
+        "fluctuations",
+        "evaluations",
+        "profits"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "generate hefty profits＝產生可觀利潤",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 307,
+      "printedNumber": 307,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "L",
+      "question": "By ------ the prices, Bessie Cinema is finally able to outcompete other movie studios and gets the chance to work with several celebrities.",
+      "options": [
+        "refueling",
+        "undercutting",
+        "heightening",
+        "continuing"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "undercut prices＝削價競爭",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 308,
+      "printedNumber": 308,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "R",
+      "question": "------ on the shelves can be a downside for anyone walking in or clients visiting the warehouse.",
+      "options": [
+        "Disorganization",
+        "Reason",
+        "Priority",
+        "Sustainability"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "shelves 的凌亂／無組織狀態構成缺點",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 309,
+      "printedNumber": 309,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "L",
+      "question": "With various lucrative benefits and monthly fees, credit cards of Usaa Bank are widely ------ among students and businessmen.",
+      "options": [
+        "extensive",
+        "acceptable",
+        "expensive",
+        "unfavorable"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "medium",
+      "answerNote": "widely acceptable among...＝廣泛被接受；原句較不自然",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 310,
+      "printedNumber": 310,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 13,
+      "sourceColumn": "R",
+      "question": "The ------ in the area is a sign that the land cannot be too profitable, so buyers usually have doubts and look other places.",
+      "options": [
+        "slimness",
+        "dormancy",
+        "productivity",
+        "appropriation"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "medium",
+      "answerNote": "land dormancy＝土地休眠／閒置狀態",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 311,
+      "printedNumber": 311,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "L",
+      "question": "Job seekers can feel the ------ sense of rivalry when they are waiting outside the conference room.",
+      "options": [
+        "similarity",
+        "difference",
+        "same",
+        "various"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "low",
+      "answerNote": "same sense of rivalry；原題搭配不自然",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 312,
+      "printedNumber": 312,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "R",
+      "question": "Landing an international flight safely is not as easy as it seems because there are other ------ factors during the landing.",
+      "options": [
+        "operative",
+        "manipulative",
+        "uncontrollable",
+        "manageable"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "uncontrollable factors＝不可控制因素",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 313,
+      "printedNumber": 313,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "L",
+      "question": "To drive ------ in the sweltering hot desert, one needs to take years of practice and patience to eventually do that.",
+      "options": [
+        "effortlessly",
+        "remarkably",
+        "difficulty",
+        "emotionally"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "drive effortlessly＝毫不費力地駕駛",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 314,
+      "printedNumber": 314,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "R",
+      "question": "The CEO really wants to know whether the candidate is able to do the work well under pressure, especially in the face of ------ challenges.",
+      "options": [
+        "uncorrelated",
+        "laudable",
+        "tough",
+        "credulous"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "tough challenges＝艱鉅挑戰",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 315,
+      "printedNumber": 315,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "L",
+      "question": "To our amazement, the once profitable software company is ------ bonuses for the entire sales department this year.",
+      "options": [
+        "showcasing",
+        "sustaining",
+        "foregoing",
+        "integrating"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "forego bonuses＝放棄獎金",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 316,
+      "printedNumber": 316,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "R",
+      "question": "Weak ties can be the luck for someone who is looking for the job because they kn ow someone outside your ------ friend circles.",
+      "options": [
+        "meticulous",
+        "knowledgeable",
+        "unilateral",
+        "mutual"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "mutual friend circles＝共同朋友圈",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 317,
+      "printedNumber": 317,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "L",
+      "question": "F-East Cellphone is now considering to launch several products that are ------ to college students and the lower middle class.",
+      "options": [
+        "accessible",
+        "competitive",
+        "eligible",
+        "loopholes"
+      ],
+      "answerKeyRaw": null,
+      "answer": "A",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "accessible to＝可接觸／可負擔",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 318,
+      "printedNumber": 318,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "R",
+      "question": "The company's morale has suffered due to a series of lawsuits by the rival, and employees have to attend the court ------ to be the witnesses.",
+      "options": [
+        "effectively",
+        "individually",
+        "voluntarily",
+        "unwillingly"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "medium",
+      "answerNote": "have to attend ... unwillingly；原句較不自然",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 319,
+      "printedNumber": 319,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "L",
+      "question": "The ------ for the film is harder to find, so the director and investors have agreed to postpone the day of shooting.",
+      "options": [
+        "investment",
+        "expenditure",
+        "landscape",
+        "locale"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "film locale＝拍攝地點",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 320,
+      "printedNumber": 320,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 14,
+      "sourceColumn": "R",
+      "question": "------ by the scandal of the actor (just signed a month ago) the warehouse of ABEX Music is now full of unsold music albums.",
+      "options": [
+        "Accompanied",
+        "Considered",
+        "Distinguished",
+        "Exacerbated"
+      ],
+      "answerKeyRaw": null,
+      "answer": "D",
+      "answerSource": "model_inferred",
+      "answerConfidence": "medium",
+      "answerNote": "exacerbated by＝因……而惡化；原句有懸垂修飾問題",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 321,
+      "printedNumber": 321,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "L",
+      "question": "For each unit marketed, game salespeople will get a fantastic ------ from the boss, a quite rare opportunity in this economy.",
+      "options": [
+        "resiliency",
+        "bonus",
+        "profitability",
+        "congratulation"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "sales bonus＝銷售獎金",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 322,
+      "printedNumber": 322,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "R",
+      "question": "It is advisable for newly recruits to ------ the good relationships with their coworkers and superiors.",
+      "options": [
+        "allocate",
+        "defray",
+        "nurture",
+        "diffuse"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "nurture relationships＝培養關係",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 323,
+      "printedNumber": 323,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "L",
+      "question": "The unexpected ------ of the CFO shocked the boss and his parrot last Friday, and it was turned down in an open letter.",
+      "options": [
+        "investigation",
+        "confirmation",
+        "resignation",
+        "registration"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "CFO resignation＝財務長辭職",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 324,
+      "printedNumber": 324,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "R",
+      "question": "Unable to get a decent grade on the standardized test, the student threatened the examiner of test reports to make a ------ yesterday.",
+      "options": [
+        "note",
+        "signature",
+        "forgery",
+        "transaction"
+      ],
+      "answerKeyRaw": null,
+      "answer": "C",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "make a forgery＝偽造",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    },
+    {
+      "id": 325,
+      "printedNumber": 325,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 15,
+      "sourceColumn": "L",
+      "question": "Shoppers cannot let go of the snide comments made by bloggers, so they have made up their minds to ------ a certain channel.",
+      "options": [
+        "unauthorize",
+        "unsubscribe",
+        "describe",
+        "prescribe"
+      ],
+      "answerKeyRaw": null,
+      "answer": "B",
+      "answerSource": "model_inferred",
+      "answerConfidence": "high",
+      "answerNote": "unsubscribe a channel＝取消訂閱頻道",
+      "sourceIssues": [
+        "原答案檔未提供此題答案"
+      ]
+    }
+  ]
+}
