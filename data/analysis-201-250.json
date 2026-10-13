@@ -1,0 +1,3231 @@
+{
+  "201": {
+    "translation": "我們已經順利朝著按時完成的方向前進，但在達成之前請繼續努力工作。",
+    "skeleton": [
+      "We are well on our way to meeting this deadline｜主句",
+      "but please carry on working hard｜祈使句",
+      "until we get there｜時間"
+    ],
+    "grammar": [
+      "be on one’s way to + N／V-ing＝正朝著……前進。",
+      "carry on + V-ing＝繼續做……。",
+      "until + 子句＝直到……為止。"
+    ],
+    "vocab": [
+      {
+        "term": "deadline",
+        "pos": "n.",
+        "meaning": "截止期限",
+        "usage": "meet a deadline＝如期完成"
+      },
+      {
+        "term": "carry on",
+        "pos": "phr.",
+        "meaning": "繼續",
+        "usage": "carry on working＝繼續工作"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "turn on",
+        "meaning": "打開；使感興趣",
+        "usage": "turn on the light＝開燈"
+      },
+      {
+        "label": "B",
+        "term": "carry on",
+        "meaning": "繼續",
+        "usage": "carry on working＝繼續工作"
+      },
+      {
+        "label": "C",
+        "term": "call over",
+        "meaning": "叫過來；點名（較少）",
+        "usage": "call someone over＝叫某人過來"
+      },
+      {
+        "label": "D",
+        "term": "keep down",
+        "meaning": "壓低、控制",
+        "usage": "keep costs down＝控制成本"
+      }
+    ],
+    "collocations": [
+      "meet a deadline＝如期完成",
+      "carry on + V-ing＝繼續做",
+      "be on one’s way to＝正朝……前進"
+    ],
+    "example": {
+      "en": "Please carry on working until the task is complete.",
+      "zh": "請繼續工作直到任務完成。"
+    }
+  },
+  "202": {
+    "translation": "坦白說，我從來不太看好 Chase 當專案經理；他實在太沒有組織能力了。",
+    "skeleton": [
+      "To be perfectly frank｜插入語",
+      "I’d never thought much of Chase as a project manager｜主句",
+      "he’s much too disorganized｜原因補充"
+    ],
+    "grammar": [
+      "to be frank＝坦白說，是固定片語。",
+      "think much of + 人／事＝高度評價……；never thought much of＝一直不太看好。",
+      "much too + 形容詞＝實在太……。"
+    ],
+    "vocab": [
+      {
+        "term": "frank",
+        "pos": "adj.",
+        "meaning": "坦率的",
+        "usage": "to be frank＝坦白說"
+      },
+      {
+        "term": "disorganized",
+        "pos": "adj.",
+        "meaning": "缺乏組織的、凌亂的",
+        "usage": "disorganized manager＝缺乏組織能力的主管"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "frank",
+        "meaning": "坦率的",
+        "usage": "to be perfectly frank＝坦白說"
+      },
+      {
+        "label": "B",
+        "term": "constant",
+        "meaning": "持續的、固定的",
+        "usage": "constant pressure＝持續壓力"
+      },
+      {
+        "label": "C",
+        "term": "awesome",
+        "meaning": "很棒的",
+        "usage": "awesome performance＝很棒的表現"
+      },
+      {
+        "label": "D",
+        "term": "unstoppable",
+        "meaning": "無法阻止的",
+        "usage": "unstoppable growth＝勢不可擋的成長"
+      }
+    ],
+    "collocations": [
+      "to be frank＝坦白說",
+      "think much of＝高度評價",
+      "much too + adj.＝實在太……"
+    ],
+    "example": {
+      "en": "To be perfectly frank, the plan needs more work.",
+      "zh": "坦白說，這個計畫還需要更多改進。"
+    }
+  },
+  "203": {
+    "translation": "雖然 Mike 一生中面對過許多挑戰，但他總能設法挺過來。",
+    "skeleton": [
+      "Although he had faced many challenges｜讓步子句",
+      "Mike always managed to pull through｜主句"
+    ],
+    "grammar": [
+      "Although + 子句＝雖然……。",
+      "manage to + V＝設法成功做到……。",
+      "pull through＝挺過困境／康復。"
+    ],
+    "vocab": [
+      {
+        "term": "challenge",
+        "pos": "n.",
+        "meaning": "挑戰",
+        "usage": "face a challenge＝面對挑戰"
+      },
+      {
+        "term": "pull through",
+        "pos": "phr.",
+        "meaning": "挺過、熬過",
+        "usage": "pull through a crisis＝度過危機"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "listened",
+        "meaning": "聽",
+        "usage": "listen to＝聽……"
+      },
+      {
+        "label": "B",
+        "term": "reported",
+        "meaning": "報告",
+        "usage": "report a problem＝回報問題"
+      },
+      {
+        "label": "C",
+        "term": "managed",
+        "meaning": "設法成功",
+        "usage": "manage to + V＝設法做到"
+      },
+      {
+        "label": "D",
+        "term": "intensified",
+        "meaning": "加劇",
+        "usage": "competition intensified＝競爭加劇"
+      }
+    ],
+    "collocations": [
+      "manage to + V＝設法成功做",
+      "pull through＝挺過困境",
+      "face challenges＝面對挑戰"
+    ],
+    "example": {
+      "en": "She managed to pull through a very difficult year.",
+      "zh": "她設法挺過了非常艱難的一年。"
+    }
+  },
+  "204": {
+    "translation": "Mets 擊出全壘打時，全場觀眾陷入瘋狂；這是 Josh Edgin 本場比賽的第二支全壘打！",
+    "skeleton": [
+      "the crowd goes wild｜固定搭配",
+      "as the Mets score a home run｜同時事件",
+      "the second in this game｜補充"
+    ],
+    "grammar": [
+      "go + 形容詞可表示「變得……」；go wild＝陷入瘋狂／非常興奮。",
+      "as 可表示「當……時」。",
+      "score a home run＝擊出／得到全壘打。"
+    ],
+    "vocab": [
+      {
+        "term": "crowd",
+        "pos": "n.",
+        "meaning": "觀眾、人群",
+        "usage": "the crowd went wild＝觀眾沸騰"
+      },
+      {
+        "term": "home run",
+        "pos": "n.",
+        "meaning": "全壘打",
+        "usage": "hit/score a home run＝擊出全壘打"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "wild",
+        "meaning": "瘋狂的、狂熱的",
+        "usage": "go wild＝興奮失控"
+      },
+      {
+        "label": "B",
+        "term": "home",
+        "meaning": "家；在家",
+        "usage": "go home＝回家"
+      },
+      {
+        "label": "C",
+        "term": "strange",
+        "meaning": "奇怪的",
+        "usage": "strange behavior＝奇怪行為"
+      },
+      {
+        "label": "D",
+        "term": "everywhere",
+        "meaning": "到處",
+        "usage": "available everywhere＝到處都有"
+      }
+    ],
+    "collocations": [
+      "go wild＝陷入瘋狂／沸騰",
+      "score a home run＝擊出全壘打"
+    ],
+    "example": {
+      "en": "The crowd went wild when the team scored.",
+      "zh": "球隊得分時，全場觀眾都沸騰了。"
+    }
+  },
+  "205": {
+    "translation": "Jesse 一直覺得自己很幸運，因為多年來所有老闆和主管都很公平，也很好相處。",
+    "skeleton": [
+      "Jesse had always felt very fortunate｜主句",
+      "that all his bosses and supervisors ... had been fair and pleasant｜內容子句",
+      "to work for｜修飾 pleasant"
+    ],
+    "grammar": [
+      "feel fortunate that...＝覺得很幸運……。",
+      "had always felt / had been 使用過去完成式，配合過去敘事。",
+      "pleasant to work for＝為其工作很愉快。"
+    ],
+    "vocab": [
+      {
+        "term": "supervisor",
+        "pos": "n.",
+        "meaning": "主管",
+        "usage": "direct supervisor＝直屬主管"
+      },
+      {
+        "term": "fortunate",
+        "pos": "adj.",
+        "meaning": "幸運的",
+        "usage": "feel fortunate＝覺得幸運"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "truthful",
+        "meaning": "誠實的",
+        "usage": "truthful answer＝誠實回答"
+      },
+      {
+        "label": "B",
+        "term": "fortunate",
+        "meaning": "幸運的",
+        "usage": "be fortunate to＝幸運能……"
+      },
+      {
+        "label": "C",
+        "term": "questionable",
+        "meaning": "可疑的",
+        "usage": "questionable practice＝可疑作法"
+      },
+      {
+        "label": "D",
+        "term": "uncommitted",
+        "meaning": "未承諾的、不投入的",
+        "usage": "uncommitted employee＝不投入的員工"
+      }
+    ],
+    "collocations": [
+      "feel fortunate＝覺得幸運",
+      "fair and pleasant＝公平且好相處",
+      "work for someone＝為某人工作"
+    ],
+    "example": {
+      "en": "I feel fortunate to work with such supportive managers.",
+      "zh": "能和這麼支持員工的主管共事，我覺得很幸運。"
+    }
+  },
+  "206": {
+    "translation": "今天下午雨下得太大，我從窗戶幾乎看不到花園。",
+    "skeleton": [
+      "It was raining so hard｜原因",
+      "that I could barely see our garden｜so...that 結果",
+      "from the window｜視角"
+    ],
+    "grammar": [
+      "so + 副詞／形容詞 + that＝如此……以至於……。",
+      "barely＝幾乎不，帶否定意味。",
+      "could + 原形動詞 see。"
+    ],
+    "vocab": [
+      {
+        "term": "barely",
+        "pos": "adv.",
+        "meaning": "幾乎不、勉強",
+        "usage": "barely see＝幾乎看不見"
+      },
+      {
+        "term": "hard",
+        "pos": "adv.",
+        "meaning": "猛烈地、努力地",
+        "usage": "rain hard＝雨下得很大"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "barely",
+        "meaning": "幾乎不",
+        "usage": "barely visible＝幾乎看不見"
+      },
+      {
+        "label": "B",
+        "term": "suddenly",
+        "meaning": "突然地",
+        "usage": "suddenly stopped＝突然停止"
+      },
+      {
+        "label": "C",
+        "term": "sometimes",
+        "meaning": "有時",
+        "usage": "sometimes work late＝有時晚下班"
+      },
+      {
+        "label": "D",
+        "term": "completely",
+        "meaning": "完全地",
+        "usage": "completely finished＝完全完成"
+      }
+    ],
+    "collocations": [
+      "barely see＝幾乎看不見",
+      "rain hard＝雨下得很大",
+      "so...that...＝如此……以至於……"
+    ],
+    "example": {
+      "en": "The fog was so thick that we could barely see the road.",
+      "zh": "霧太濃了，我們幾乎看不到道路。"
+    }
+  },
+  "207": {
+    "translation": "Angela 有時說話會很直接，但我向你保證她沒有惡意。",
+    "skeleton": [
+      "Angela can be very direct at times｜主句一",
+      "but I assure you｜轉折",
+      "she means well｜受詞子句"
+    ],
+    "grammar": [
+      "at times＝有時候。",
+      "assure + 人 + (that) 子句＝向某人保證。",
+      "mean well＝出於好意、沒有惡意。"
+    ],
+    "vocab": [
+      {
+        "term": "direct",
+        "pos": "adj.",
+        "meaning": "直接的、直率的",
+        "usage": "direct communication＝直接溝通"
+      },
+      {
+        "term": "mean well",
+        "pos": "phr.",
+        "meaning": "出於好意",
+        "usage": "I know you mean well.＝我知道你是好意"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "once",
+        "meaning": "一次；曾經",
+        "usage": "once a week＝每週一次"
+      },
+      {
+        "label": "B",
+        "term": "times",
+        "meaning": "時候（搭配 at）",
+        "usage": "at times＝有時候"
+      },
+      {
+        "label": "C",
+        "term": "distance",
+        "meaning": "距離",
+        "usage": "at a distance＝在遠處"
+      },
+      {
+        "label": "D",
+        "term": "telephone",
+        "meaning": "電話",
+        "usage": "by telephone＝透過電話"
+      }
+    ],
+    "collocations": [
+      "at times＝有時",
+      "assure someone that＝向某人保證",
+      "mean well＝出於好意"
+    ],
+    "example": {
+      "en": "He can sound blunt at times, but he means well.",
+      "zh": "他有時聽起來很直白，但其實是好意。"
+    }
+  },
+  "208": {
+    "translation": "在匆忙下結論之前，我們何不停下來仔細考慮事實？",
+    "skeleton": [
+      "Why don’t we pause｜建議",
+      "and consider the facts carefully｜並列動詞",
+      "before jumping to any conclusions｜時間／前置條件"
+    ],
+    "grammar": [
+      "Why don’t we + V...?＝我們何不……？",
+      "pause and consider 為平行動詞。",
+      "before + V-ing＝在做……之前。",
+      "jump to conclusions＝草率下結論。"
+    ],
+    "vocab": [
+      {
+        "term": "consider",
+        "pos": "v.",
+        "meaning": "考慮",
+        "usage": "consider the facts＝考慮事實"
+      },
+      {
+        "term": "conclusion",
+        "pos": "n.",
+        "meaning": "結論",
+        "usage": "jump to conclusions＝草率下結論"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "concern",
+        "meaning": "關心；涉及",
+        "usage": "concern a customer＝讓顧客擔心"
+      },
+      {
+        "label": "B",
+        "term": "consider",
+        "meaning": "考慮",
+        "usage": "consider the facts＝考慮事實"
+      },
+      {
+        "label": "C",
+        "term": "concentrate",
+        "meaning": "專心",
+        "usage": "concentrate on＝專注於"
+      },
+      {
+        "label": "D",
+        "term": "compromise",
+        "meaning": "妥協",
+        "usage": "reach a compromise＝達成妥協"
+      }
+    ],
+    "collocations": [
+      "consider the facts＝考慮事實",
+      "jump to conclusions＝草率下結論",
+      "before + V-ing＝在做……之前"
+    ],
+    "example": {
+      "en": "Please consider all the facts before making a decision.",
+      "zh": "做決定前請考慮所有事實。"
+    }
+  },
+  "209": {
+    "translation": "難道要求有人哪怕一次，在看到我懷孕的太太時讓出座位，也算要求太多嗎？",
+    "skeleton": [
+      "Is it too much to ask｜問句",
+      "that just for once someone would give up their seat｜內容子句",
+      "when they see my pregnant wife｜時間"
+    ],
+    "grammar": [
+      "give up one’s seat＝讓座。",
+      "for once＝至少這一次、難得一次。",
+      "too much to ask＝要求太多。",
+      "would + 原形動詞。"
+    ],
+    "vocab": [
+      {
+        "term": "pregnant",
+        "pos": "adj.",
+        "meaning": "懷孕的",
+        "usage": "pregnant woman＝孕婦"
+      },
+      {
+        "term": "give up one’s seat",
+        "pos": "phr.",
+        "meaning": "讓座",
+        "usage": "give up a seat for someone＝為某人讓座"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "stop in",
+        "meaning": "順道拜訪",
+        "usage": "stop in at＝順道到訪"
+      },
+      {
+        "label": "B",
+        "term": "give in",
+        "meaning": "屈服",
+        "usage": "give in to pressure＝向壓力屈服"
+      },
+      {
+        "label": "C",
+        "term": "take up",
+        "meaning": "占用；開始從事",
+        "usage": "take up space＝占空間"
+      },
+      {
+        "label": "D",
+        "term": "give up",
+        "meaning": "放棄；讓出",
+        "usage": "give up one’s seat＝讓座"
+      }
+    ],
+    "collocations": [
+      "give up one’s seat＝讓座",
+      "for once＝就這一次",
+      "too much to ask＝要求太多"
+    ],
+    "example": {
+      "en": "He gave up his seat to an elderly passenger.",
+      "zh": "他把座位讓給一位年長乘客。"
+    }
+  },
+  "210": {
+    "translation": "我知道你對做這個決定感到不確定，但已經沒有時間可以浪費了。",
+    "skeleton": [
+      "I know you feel uncertain｜主句",
+      "about making this decision｜介系詞＋動名詞",
+      "but there is no time to waste｜轉折"
+    ],
+    "grammar": [
+      "feel uncertain about + N／V-ing＝對……感到不確定。",
+      "there is no time to + V＝沒有時間做……。",
+      "waste time＝浪費時間。"
+    ],
+    "vocab": [
+      {
+        "term": "uncertain",
+        "pos": "adj.",
+        "meaning": "不確定的",
+        "usage": "be uncertain about＝對……不確定"
+      },
+      {
+        "term": "decision",
+        "pos": "n.",
+        "meaning": "決定",
+        "usage": "make a decision＝做決定"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "go",
+        "meaning": "去",
+        "usage": "go ahead＝繼續進行"
+      },
+      {
+        "label": "B",
+        "term": "kill",
+        "meaning": "殺死；消磨",
+        "usage": "kill time＝消磨時間"
+      },
+      {
+        "label": "C",
+        "term": "waste",
+        "meaning": "浪費",
+        "usage": "waste time＝浪費時間"
+      },
+      {
+        "label": "D",
+        "term": "remake",
+        "meaning": "重做",
+        "usage": "remake a film＝重拍電影"
+      }
+    ],
+    "collocations": [
+      "there is no time to waste＝沒有時間可浪費",
+      "make a decision＝做決定",
+      "uncertain about＝對……不確定"
+    ],
+    "example": {
+      "en": "There is no time to waste if we want to meet the deadline.",
+      "zh": "如果要如期完成，就沒有時間可以浪費。"
+    }
+  },
+  "211": {
+    "translation": "Fred 一走進辦公室，就感覺有些不對勁。",
+    "skeleton": [
+      "From the moment he walked in｜時間",
+      "Fred felt｜主句",
+      "something was amiss in the office｜受詞子句"
+    ],
+    "grammar": [
+      "from the moment + 子句＝從……那一刻起。",
+      "amiss 作形容詞＝不對勁的、出問題的。",
+      "feel (that) + 子句＝感覺……。"
+    ],
+    "vocab": [
+      {
+        "term": "amiss",
+        "pos": "adj.",
+        "meaning": "不對勁的、出錯的",
+        "usage": "something is amiss＝有些不對勁"
+      },
+      {
+        "term": "walk in",
+        "pos": "phr.",
+        "meaning": "走進來",
+        "usage": "walk into the office＝走進辦公室"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "alter",
+        "meaning": "改變（動詞）",
+        "usage": "alter a plan＝改變計畫"
+      },
+      {
+        "label": "B",
+        "term": "away",
+        "meaning": "離開",
+        "usage": "be away＝不在"
+      },
+      {
+        "label": "C",
+        "term": "albeit",
+        "meaning": "雖然",
+        "usage": "albeit difficult＝雖然困難"
+      },
+      {
+        "label": "D",
+        "term": "amiss",
+        "meaning": "不對勁的",
+        "usage": "something is amiss＝有問題"
+      }
+    ],
+    "collocations": [
+      "something is amiss＝有些不對勁",
+      "from the moment＝從……那一刻起"
+    ],
+    "example": {
+      "en": "I knew immediately that something was amiss.",
+      "zh": "我立刻知道有些不對勁。"
+    }
+  },
+  "212": {
+    "translation": "實驗與臨床證據都顯示，新藥讓研究中的病患有非凡的康復速度。",
+    "skeleton": [
+      "Both experimental and clinical evidence｜主詞",
+      "showed that｜主句",
+      "the new drug resulted in an extraordinary rate of recovery｜受詞子句",
+      "for the patients involved in the study｜對象"
+    ],
+    "grammar": [
+      "both A and B＝A 與 B 兩者都……。",
+      "result in + N＝導致……。",
+      "an extraordinary rate of recovery＝非凡的康復速度。",
+      "involved in the study 是過去分詞片語修飾 patients。"
+    ],
+    "vocab": [
+      {
+        "term": "clinical evidence",
+        "pos": "n.",
+        "meaning": "臨床證據",
+        "usage": "clinical evidence shows＝臨床證據顯示"
+      },
+      {
+        "term": "recovery",
+        "pos": "n.",
+        "meaning": "康復、恢復",
+        "usage": "rate of recovery＝恢復速度"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "contemporary",
+        "meaning": "當代的",
+        "usage": "contemporary art＝當代藝術"
+      },
+      {
+        "label": "B",
+        "term": "hectic",
+        "meaning": "忙亂的",
+        "usage": "hectic schedule＝忙碌行程"
+      },
+      {
+        "label": "C",
+        "term": "fashionable",
+        "meaning": "時髦的",
+        "usage": "fashionable clothing＝時尚服裝"
+      },
+      {
+        "label": "D",
+        "term": "extraordinary",
+        "meaning": "非凡的、異常高的",
+        "usage": "extraordinary result＝非凡結果"
+      }
+    ],
+    "collocations": [
+      "result in＝導致",
+      "rate of recovery＝康復速度",
+      "experimental and clinical evidence＝實驗與臨床證據"
+    ],
+    "example": {
+      "en": "The treatment resulted in an extraordinary rate of recovery.",
+      "zh": "這項治療帶來了非常高的康復速度。"
+    }
+  },
+  "213": {
+    "translation": "教授對那群聽眾發表了一場多麼鼓舞人心、又充滿幽默感的演講啊！",
+    "skeleton": [
+      "What an inspiring lecture｜感嘆句受詞",
+      "the professor delivered｜主詞＋動詞",
+      "to that audience｜對象",
+      "and with such a sense of humor｜補充"
+    ],
+    "grammar": [
+      "What + a/an + adj. + 單數名詞 + 主詞 + 動詞！＝多麼……啊！",
+      "deliver a lecture＝發表演講／授課。",
+      "a sense of humor＝幽默感。"
+    ],
+    "vocab": [
+      {
+        "term": "inspiring",
+        "pos": "adj.",
+        "meaning": "鼓舞人心的",
+        "usage": "inspiring lecture＝鼓舞人心的演講"
+      },
+      {
+        "term": "audience",
+        "pos": "n.",
+        "meaning": "觀眾、聽眾",
+        "usage": "address an audience＝向聽眾發言"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "talked",
+        "meaning": "談話",
+        "usage": "talk to someone＝和某人談話"
+      },
+      {
+        "label": "B",
+        "term": "stamped",
+        "meaning": "蓋章；跺腳",
+        "usage": "stamp a document＝蓋章文件"
+      },
+      {
+        "label": "C",
+        "term": "delivered",
+        "meaning": "發表；遞送",
+        "usage": "deliver a lecture/speech＝發表演講"
+      },
+      {
+        "label": "D",
+        "term": "bombarded",
+        "meaning": "轟炸；大量投擲資訊",
+        "usage": "bombard someone with questions＝連番提問"
+      }
+    ],
+    "collocations": [
+      "deliver a lecture＝發表演講",
+      "sense of humor＝幽默感",
+      "What an...!＝多麼……啊！"
+    ],
+    "example": {
+      "en": "She delivered an inspiring lecture to the students.",
+      "zh": "她向學生發表了一場鼓舞人心的演講。"
+    }
+  },
+  "214": {
+    "translation": "我還沒習慣新家，每天早上睜開眼睛時仍會覺得驚訝。",
+    "skeleton": [
+      "I haven’t gotten used to our new home｜現在完成式",
+      "and still feel surprised｜並列",
+      "when I open my eyes in the morning｜時間"
+    ],
+    "grammar": [
+      "get used to + N／V-ing＝習慣……。",
+      "feel + 形容詞＝感到……。",
+      "surprised 形容人的感受；surprising 形容造成驚訝的事物。"
+    ],
+    "vocab": [
+      {
+        "term": "get used to",
+        "pos": "phr.",
+        "meaning": "習慣",
+        "usage": "get used to a new job＝習慣新工作"
+      },
+      {
+        "term": "surprised",
+        "pos": "adj.",
+        "meaning": "感到驚訝的",
+        "usage": "feel surprised＝感到驚訝"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "surmised",
+        "meaning": "推測",
+        "usage": "surmise that＝推測……"
+      },
+      {
+        "label": "B",
+        "term": "surprised",
+        "meaning": "感到驚訝的",
+        "usage": "be surprised at＝對……驚訝"
+      },
+      {
+        "label": "C",
+        "term": "surmising",
+        "meaning": "推測中",
+        "usage": "surmising the reason＝推測原因"
+      },
+      {
+        "label": "D",
+        "term": "surprising",
+        "meaning": "令人驚訝的",
+        "usage": "surprising result＝令人驚訝的結果"
+      }
+    ],
+    "collocations": [
+      "get used to＝習慣",
+      "feel surprised＝感到驚訝",
+      "open one’s eyes＝睜開眼睛"
+    ],
+    "example": {
+      "en": "It took me a while to get used to the new office.",
+      "zh": "我花了一段時間才習慣新辦公室。"
+    }
+  },
+  "215": {
+    "translation": "第一家 Starbucks 店一受歡迎後，分店就開始在城裡到處冒出來。",
+    "skeleton": [
+      "As soon as the first Starbucks store became popular｜時間子句",
+      "they started springing up｜主句",
+      "all over town｜地點"
+    ],
+    "grammar": [
+      "as soon as + 子句＝一……就……。",
+      "start + V-ing＝開始做……。",
+      "spring up＝迅速出現、如雨後春筍般冒出。"
+    ],
+    "vocab": [
+      {
+        "term": "spring up",
+        "pos": "phr.",
+        "meaning": "大量迅速出現",
+        "usage": "shops sprang up＝商店紛紛出現"
+      },
+      {
+        "term": "all over town",
+        "pos": "phr.",
+        "meaning": "全城各處",
+        "usage": "stores all over town＝全城的商店"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "As soon as",
+        "meaning": "一……就……",
+        "usage": "As soon as + 子句"
+      },
+      {
+        "label": "B",
+        "term": "Instead of",
+        "meaning": "而不是",
+        "usage": "instead of + N/V-ing"
+      },
+      {
+        "label": "C",
+        "term": "By the way",
+        "meaning": "順帶一提",
+        "usage": "By the way, ...＝順帶一提"
+      },
+      {
+        "label": "D",
+        "term": "Along the lines of",
+        "meaning": "類似於、按照……思路",
+        "usage": "something along the lines of＝類似……"
+      }
+    ],
+    "collocations": [
+      "as soon as＝一……就……",
+      "spring up＝迅速出現",
+      "all over town＝全城各處"
+    ],
+    "example": {
+      "en": "New cafés began springing up as soon as the area became popular.",
+      "zh": "這一帶一受歡迎，新咖啡店就紛紛出現。"
+    },
+    "sourceNote": "原教材題號印成 274，系統已依題目順序校正為第 215 題。"
+  },
+  "216": {
+    "translation": "很明顯 Kevin 不想加入球隊，只是覺得自己沒有選擇。",
+    "skeleton": [
+      "It was obvious｜形式主詞",
+      "that Kevin didn't want to be on the team｜真正主詞子句",
+      "but felt that he had no choice｜轉折"
+    ],
+    "grammar": [
+      "It is/was obvious that...＝很明顯……。",
+      "want to + V＝想要做。",
+      "have no choice＝別無選擇。"
+    ],
+    "vocab": [
+      {
+        "term": "obvious",
+        "pos": "adj.",
+        "meaning": "明顯的",
+        "usage": "It is obvious that...＝很明顯……"
+      },
+      {
+        "term": "have no choice",
+        "pos": "phr.",
+        "meaning": "別無選擇",
+        "usage": "have no choice but to + V＝只好做"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "little",
+        "meaning": "很少的",
+        "usage": "little time＝幾乎沒時間"
+      },
+      {
+        "label": "B",
+        "term": "sudden",
+        "meaning": "突然的",
+        "usage": "sudden change＝突然改變"
+      },
+      {
+        "label": "C",
+        "term": "obvious",
+        "meaning": "明顯的",
+        "usage": "obvious reason＝明顯理由"
+      },
+      {
+        "label": "D",
+        "term": "talkative",
+        "meaning": "健談的",
+        "usage": "talkative person＝健談的人"
+      }
+    ],
+    "collocations": [
+      "It is obvious that＝很明顯",
+      "be on the team＝加入球隊",
+      "have no choice＝別無選擇"
+    ],
+    "example": {
+      "en": "It was obvious that he did not want the position.",
+      "zh": "很明顯他不想要那個職位。"
+    }
+  },
+  "217": {
+    "translation": "你已經有很好的基礎，我建議你報名中級甚至高級課程。",
+    "skeleton": [
+      "I would recommend｜主句",
+      "you sign up for an intermediate or even an advanced course｜受詞內容",
+      "as you already have a strong foundation｜原因"
+    ],
+    "grammar": [
+      "recommend + 人 + 原形動詞（美式用法）＝建議某人做……。",
+      "sign up for + 課程＝報名……。",
+      "intermediate＝中級的；advanced＝進階的。",
+      "as 可表示「因為」。"
+    ],
+    "vocab": [
+      {
+        "term": "sign up for",
+        "pos": "phr.",
+        "meaning": "報名",
+        "usage": "sign up for a course＝報名課程"
+      },
+      {
+        "term": "foundation",
+        "pos": "n.",
+        "meaning": "基礎",
+        "usage": "strong foundation＝扎實基礎"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "incoming",
+        "meaning": "即將到來的；進來的",
+        "usage": "incoming calls＝來電"
+      },
+      {
+        "label": "B",
+        "term": "interesting",
+        "meaning": "有趣的",
+        "usage": "interesting course＝有趣課程"
+      },
+      {
+        "label": "C",
+        "term": "immediate",
+        "meaning": "立即的",
+        "usage": "immediate action＝立即行動"
+      },
+      {
+        "label": "D",
+        "term": "intermediate",
+        "meaning": "中級的",
+        "usage": "intermediate course＝中級課程"
+      }
+    ],
+    "collocations": [
+      "sign up for a course＝報名課程",
+      "intermediate course＝中級課程",
+      "strong foundation＝扎實基礎"
+    ],
+    "example": {
+      "en": "Students with a strong foundation may take the intermediate course.",
+      "zh": "基礎扎實的學生可以修中級課程。"
+    }
+  },
+  "218": {
+    "translation": "不好意思，你也正要前往市中心嗎？也許我們可以一起搭計程車。",
+    "skeleton": [
+      "are you also headed to the city center?｜問句",
+      "Perhaps we could share a cab｜建議"
+    ],
+    "grammar": [
+      "be headed to + 地點＝正前往……。",
+      "could 可用於較委婉的建議。",
+      "share a cab＝共乘計程車。"
+    ],
+    "vocab": [
+      {
+        "term": "be headed to",
+        "pos": "phr.",
+        "meaning": "正前往",
+        "usage": "be headed to the airport＝正前往機場"
+      },
+      {
+        "term": "share a cab",
+        "pos": "phr.",
+        "meaning": "共乘計程車",
+        "usage": "share a taxi/cab＝共乘"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "head",
+        "meaning": "頭；前往（原形）",
+        "usage": "head to＝前往"
+      },
+      {
+        "label": "B",
+        "term": "headed",
+        "meaning": "正前往的",
+        "usage": "be headed to＝正前往"
+      },
+      {
+        "label": "C",
+        "term": "headfirst",
+        "meaning": "頭朝前地",
+        "usage": "fall headfirst＝頭朝前跌落"
+      },
+      {
+        "label": "D",
+        "term": "headway",
+        "meaning": "進展",
+        "usage": "make headway＝取得進展"
+      }
+    ],
+    "collocations": [
+      "be headed to＝前往",
+      "city center＝市中心",
+      "share a cab＝共乘計程車"
+    ],
+    "example": {
+      "en": "Are you headed to the airport too?",
+      "zh": "你也正要去機場嗎？"
+    }
+  },
+  "219": {
+    "translation": "列出優缺點圖表後，該做什麼決定就變得非常清楚了。",
+    "skeleton": [
+      "After drawing up a chart of pros and cons｜時間",
+      "the decision became crystal clear｜主句"
+    ],
+    "grammar": [
+      "draw up + 文件／表格＝擬定、製作。",
+      "pros and cons＝優點與缺點。",
+      "crystal clear＝非常清楚、清晰明瞭。",
+      "become + 形容詞＝變得……。"
+    ],
+    "vocab": [
+      {
+        "term": "pros and cons",
+        "pos": "phr.",
+        "meaning": "優缺點",
+        "usage": "weigh the pros and cons＝權衡利弊"
+      },
+      {
+        "term": "crystal clear",
+        "pos": "phr.",
+        "meaning": "非常清楚",
+        "usage": "make something crystal clear＝講得非常清楚"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "clear",
+        "meaning": "清楚的",
+        "usage": "crystal clear＝非常清楚"
+      },
+      {
+        "label": "B",
+        "term": "glass",
+        "meaning": "玻璃",
+        "usage": "glass door＝玻璃門"
+      },
+      {
+        "label": "C",
+        "term": "piece",
+        "meaning": "一件、一片",
+        "usage": "piece of advice＝一則建議"
+      },
+      {
+        "label": "D",
+        "term": "muddy",
+        "meaning": "泥濘的；模糊的",
+        "usage": "muddy explanation＝含糊解釋"
+      }
+    ],
+    "collocations": [
+      "pros and cons＝優缺點",
+      "draw up a chart＝製作圖表",
+      "crystal clear＝非常清楚"
+    ],
+    "example": {
+      "en": "After reviewing the data, the best choice became crystal clear.",
+      "zh": "檢視資料後，最佳選擇變得非常明確。"
+    }
+  },
+  "220": {
+    "translation": "喔，我沒發現你還在處理那份報告。沒關係，我晚點再回來。",
+    "skeleton": [
+      "I didn’t realize｜主句",
+      "you were still working on that report｜受詞子句",
+      "Never mind｜轉折回應",
+      "I’ll come back later｜未來"
+    ],
+    "grammar": [
+      "realize + 子句＝察覺、知道……。",
+      "work on + N＝處理、從事……。",
+      "Never mind＝沒關係／算了。",
+      "will + 原形動詞表示未來。"
+    ],
+    "vocab": [
+      {
+        "term": "work on",
+        "pos": "phr.",
+        "meaning": "處理、從事",
+        "usage": "work on a report＝處理報告"
+      },
+      {
+        "term": "never mind",
+        "pos": "phr.",
+        "meaning": "沒關係、算了",
+        "usage": "Never mind.＝沒事／算了"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "Not at all",
+        "meaning": "一點也不；不客氣",
+        "usage": "Not at all.＝不客氣"
+      },
+      {
+        "label": "B",
+        "term": "Altogether",
+        "meaning": "總共；完全",
+        "usage": "altogether different＝完全不同"
+      },
+      {
+        "label": "C",
+        "term": "By the way",
+        "meaning": "順帶一提",
+        "usage": "By the way, ...＝順帶一提"
+      },
+      {
+        "label": "D",
+        "term": "Never mind",
+        "meaning": "沒關係、算了",
+        "usage": "Never mind.＝算了"
+      }
+    ],
+    "collocations": [
+      "work on a report＝處理報告",
+      "Never mind＝沒關係",
+      "come back later＝晚點再來"
+    ],
+    "example": {
+      "en": "Never mind, I'll ask you again later.",
+      "zh": "沒關係，我晚點再問你。"
+    }
+  },
+  "221": {
+    "translation": "Cinemaxx Cinema 非常重視隱私，因此人員留任率極高。",
+    "skeleton": [
+      "Privacy is especially valued here｜主句",
+      "so the retention rate is extremely high｜結果"
+    ],
+    "grammar": [
+      "especially 是副詞，修飾 valued。",
+      "be valued＝受到重視。",
+      "retention rate＝留任率／保留率。",
+      "原題 The privacy 在一般抽象概念中較自然寫 Privacy。"
+    ],
+    "vocab": [
+      {
+        "term": "privacy",
+        "pos": "n.",
+        "meaning": "隱私",
+        "usage": "protect/value privacy＝保護／重視隱私"
+      },
+      {
+        "term": "retention rate",
+        "pos": "n.",
+        "meaning": "留任率、保留率",
+        "usage": "employee retention rate＝員工留任率"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "exacerbation",
+        "meaning": "惡化",
+        "usage": "exacerbation of symptoms＝症狀惡化"
+      },
+      {
+        "label": "B",
+        "term": "especial",
+        "meaning": "特別的（較正式）",
+        "usage": "of especial importance＝特別重要"
+      },
+      {
+        "label": "C",
+        "term": "specialty",
+        "meaning": "專長、專科",
+        "usage": "medical specialty＝醫療專科"
+      },
+      {
+        "label": "D",
+        "term": "especially",
+        "meaning": "尤其、特別地",
+        "usage": "especially valued＝特別受重視"
+      }
+    ],
+    "collocations": [
+      "be highly/especially valued＝受到高度／特別重視",
+      "retention rate＝留任率"
+    ],
+    "example": {
+      "en": "Employee privacy is especially valued at this company.",
+      "zh": "這家公司特別重視員工隱私。"
+    },
+    "sourceNote": "抽象概念 privacy 通常不加 the；較自然為 Privacy is especially valued here。"
+  },
+  "222": {
+    "translation": "副總裁以前曾是軍方飛行員，這是個很少人知道的事實。",
+    "skeleton": [
+      "It’s a little-known fact｜主句",
+      "about the vice president｜主題",
+      "that he used to be a military pilot｜同位語子句"
+    ],
+    "grammar": [
+      "little-known + 名詞＝鮮為人知的……。",
+      "fact that + 子句＝……這項事實。",
+      "used to + V＝過去曾經……。"
+    ],
+    "vocab": [
+      {
+        "term": "little-known",
+        "pos": "adj.",
+        "meaning": "鮮為人知的",
+        "usage": "little-known fact＝鮮為人知的事實"
+      },
+      {
+        "term": "vice president",
+        "pos": "n.",
+        "meaning": "副總裁、副總統",
+        "usage": "company vice president＝公司副總裁"
+      },
+      {
+        "term": "military pilot",
+        "pos": "n.",
+        "meaning": "軍方飛行員",
+        "usage": "former military pilot＝前軍方飛行員"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "fact",
+        "meaning": "事實",
+        "usage": "a little-known fact＝鮮為人知的事實"
+      },
+      {
+        "label": "B",
+        "term": "office",
+        "meaning": "辦公室；職位",
+        "usage": "head office＝總公司"
+      },
+      {
+        "label": "C",
+        "term": "question",
+        "meaning": "問題",
+        "usage": "ask a question＝問問題"
+      },
+      {
+        "label": "D",
+        "term": "information",
+        "meaning": "資訊（不可數）",
+        "usage": "useful information＝有用資訊"
+      }
+    ],
+    "collocations": [
+      "little-known fact＝鮮為人知的事實",
+      "used to + V＝過去曾經",
+      "military pilot＝軍方飛行員"
+    ],
+    "example": {
+      "en": "It is a little-known fact that the CEO once worked as a teacher.",
+      "zh": "很少人知道執行長以前曾當過老師。"
+    }
+  },
+  "223": {
+    "translation": "買車時，可以把那套汽車音響當作贈品包含在內嗎？",
+    "skeleton": [
+      "Could I have that car stereo included｜使役結構",
+      "as a gift｜作為贈品",
+      "with the purchase of a vehicle｜購買條件"
+    ],
+    "grammar": [
+      "have + 受詞 + p.p.＝讓某物被……／使某事完成。",
+      "have that car stereo included＝讓汽車音響被包含進去。",
+      "with the purchase of＝購買……時。"
+    ],
+    "vocab": [
+      {
+        "term": "car stereo",
+        "pos": "n.",
+        "meaning": "汽車音響",
+        "usage": "install a car stereo＝安裝汽車音響"
+      },
+      {
+        "term": "with the purchase of",
+        "pos": "phr.",
+        "meaning": "購買……時",
+        "usage": "free gift with the purchase of＝購買即贈"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "include",
+        "meaning": "包含（原形）",
+        "usage": "include tax＝包含稅"
+      },
+      {
+        "label": "B",
+        "term": "includes",
+        "meaning": "包含（三單）",
+        "usage": "price includes tax＝價格含稅"
+      },
+      {
+        "label": "C",
+        "term": "included",
+        "meaning": "被包含的／過去分詞",
+        "usage": "have something included＝讓某物包含在內"
+      },
+      {
+        "label": "D",
+        "term": "inclusive",
+        "meaning": "包括一切的",
+        "usage": "all-inclusive package＝全包套裝"
+      }
+    ],
+    "collocations": [
+      "have + O + p.p.＝讓某物被……",
+      "with the purchase of＝購買……時",
+      "as a gift＝作為贈品"
+    ],
+    "example": {
+      "en": "Can I have delivery included with the purchase?",
+      "zh": "購買時可以把配送包含在內嗎？"
+    }
+  },
+  "224": {
+    "translation": "多數應屆畢業生需要一封高度讚賞的推薦信，但他們仍得設法和其他競爭者做出區隔。",
+    "skeleton": [
+      "A glowing recommendation｜主詞",
+      "is what most recent graduates need｜主句",
+      "but they still have to differentiate themselves｜轉折",
+      "from other competitors｜比較對象"
+    ],
+    "grammar": [
+      "glowing recommendation＝高度讚揚的推薦。",
+      "what ... need 是名詞子句作主詞補語。",
+      "differentiate oneself from + 人／物＝讓自己與……有所區別。"
+    ],
+    "vocab": [
+      {
+        "term": "glowing",
+        "pos": "adj.",
+        "meaning": "高度讚賞的、熱烈的",
+        "usage": "glowing recommendation＝高度讚揚的推薦"
+      },
+      {
+        "term": "recent graduate",
+        "pos": "n.",
+        "meaning": "應屆／近期畢業生",
+        "usage": "recent college graduate＝大學應屆畢業生"
+      },
+      {
+        "term": "differentiate",
+        "pos": "v.",
+        "meaning": "區分、使有別",
+        "usage": "differentiate A from B＝區分A與B"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "subsidy",
+        "meaning": "補助金",
+        "usage": "government subsidy＝政府補助"
+      },
+      {
+        "label": "B",
+        "term": "forgiveness",
+        "meaning": "原諒",
+        "usage": "ask for forgiveness＝請求原諒"
+      },
+      {
+        "label": "C",
+        "term": "infant",
+        "meaning": "嬰兒",
+        "usage": "infant care＝嬰兒照護"
+      },
+      {
+        "label": "D",
+        "term": "recommendation",
+        "meaning": "推薦、建議",
+        "usage": "letter of recommendation＝推薦信"
+      }
+    ],
+    "collocations": [
+      "glowing recommendation＝高度讚揚的推薦",
+      "recent graduate＝近期畢業生",
+      "differentiate oneself from＝讓自己與……有別"
+    ],
+    "example": {
+      "en": "A strong recommendation can help a graduate stand out.",
+      "zh": "強力的推薦可以幫助畢業生脫穎而出。"
+    }
+  },
+  "225": {
+    "translation": "Uni Chemistry Lab 的研究人員擔心，最新商品的發售日期會因衛生主管機關檢出的殘留物而延後。",
+    "skeleton": [
+      "Researchers ... are now worrying｜主句",
+      "that the release date ... will be postponed｜受詞子句",
+      "because of residues detected by the Health Bureau｜原因"
+    ],
+    "grammar": [
+      "worry that + 子句＝擔心……。",
+      "will be postponed 是未來式被動。",
+      "because of + 名詞＝因為……。",
+      "detected by... 是過去分詞片語，修飾 residues。"
+    ],
+    "vocab": [
+      {
+        "term": "release date",
+        "pos": "n.",
+        "meaning": "發售／發布日期",
+        "usage": "product release date＝產品發售日"
+      },
+      {
+        "term": "postpone",
+        "pos": "v.",
+        "meaning": "延後",
+        "usage": "postpone a launch＝延後上市"
+      },
+      {
+        "term": "residue",
+        "pos": "n.",
+        "meaning": "殘留物",
+        "usage": "chemical residue＝化學殘留"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "solutions",
+        "meaning": "解決方案；溶液",
+        "usage": "find a solution＝找解法"
+      },
+      {
+        "label": "B",
+        "term": "rewards",
+        "meaning": "獎勵",
+        "usage": "employee rewards＝員工獎勵"
+      },
+      {
+        "label": "C",
+        "term": "rebates",
+        "meaning": "回扣、退費",
+        "usage": "tax rebate＝退稅"
+      },
+      {
+        "label": "D",
+        "term": "residues",
+        "meaning": "殘留物",
+        "usage": "chemical residues＝化學殘留"
+      }
+    ],
+    "collocations": [
+      "release date＝發售日期",
+      "be postponed＝被延後",
+      "detect residues＝檢出殘留物"
+    ],
+    "example": {
+      "en": "The product launch was postponed after chemical residues were detected.",
+      "zh": "檢出化學殘留物後，產品上市被延後。"
+    },
+    "sourceNote": "原題 released date 應為 release date。"
+  },
+  "226": {
+    "translation": "儘管 Ann 外表亮眼、作品集也由知名攝影師拍攝，但她在試鏡時不協調的動作讓她失去競賽席位。",
+    "skeleton": [
+      "Despite the fact that Ann has ...｜讓步",
+      "her uncoordinated movement at the go-see｜主詞",
+      "costs her a place in the competition｜結果"
+    ],
+    "grammar": [
+      "despite the fact that + 子句＝儘管……。",
+      "uncoordinated 修飾 movement＝不協調的動作。",
+      "cost + 人 + 物＝使某人失去／付出某物。"
+    ],
+    "vocab": [
+      {
+        "term": "portfolio",
+        "pos": "n.",
+        "meaning": "作品集",
+        "usage": "professional portfolio＝專業作品集"
+      },
+      {
+        "term": "renowned",
+        "pos": "adj.",
+        "meaning": "知名的",
+        "usage": "renowned photographer＝知名攝影師"
+      },
+      {
+        "term": "go-see",
+        "pos": "n.",
+        "meaning": "模特兒試鏡／面試",
+        "usage": "model go-see＝模特兒試鏡"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "uncoordinated",
+        "meaning": "不協調的",
+        "usage": "uncoordinated movement＝不協調動作"
+      },
+      {
+        "label": "B",
+        "term": "coincided",
+        "meaning": "同時發生",
+        "usage": "coincide with＝與……同時發生"
+      },
+      {
+        "label": "C",
+        "term": "gracious",
+        "meaning": "親切有禮的",
+        "usage": "gracious host＝親切主人"
+      },
+      {
+        "label": "D",
+        "term": "effortless",
+        "meaning": "不費力的",
+        "usage": "effortless movement＝流暢輕鬆的動作"
+      }
+    ],
+    "collocations": [
+      "despite the fact that＝儘管",
+      "uncoordinated movement＝不協調動作",
+      "cost someone a place＝讓某人失去名額"
+    ],
+    "example": {
+      "en": "One mistake cost him a place in the final.",
+      "zh": "一次失誤讓他失去了決賽名額。"
+    }
+  },
+  "227": {
+    "translation": "新系列服裝幫助這個時尚品牌超越了前一年度的銷售水準。",
+    "skeleton": [
+      "The new range of clothes｜主詞",
+      "helped the fashion brand exceed｜使役／幫助",
+      "the sales levels of the previous year｜受詞"
+    ],
+    "grammar": [
+      "help + 人／物 + (to) V＝幫助……做。",
+      "exceed + 數字／標準＝超過。",
+      "previous year＝前一年。"
+    ],
+    "vocab": [
+      {
+        "term": "range of clothes",
+        "pos": "n.",
+        "meaning": "服裝系列",
+        "usage": "new range of products＝新系列產品"
+      },
+      {
+        "term": "exceed",
+        "pos": "v.",
+        "meaning": "超過",
+        "usage": "exceed expectations/sales＝超越預期／銷售"
+      },
+      {
+        "term": "sales level",
+        "pos": "n.",
+        "meaning": "銷售水準",
+        "usage": "sales levels increased＝銷售水準提高"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "future",
+        "meaning": "未來的",
+        "usage": "future plans＝未來計畫"
+      },
+      {
+        "label": "B",
+        "term": "ancient",
+        "meaning": "古代的",
+        "usage": "ancient history＝古代歷史"
+      },
+      {
+        "label": "C",
+        "term": "previous",
+        "meaning": "前一個、之前的",
+        "usage": "previous year＝前一年"
+      },
+      {
+        "label": "D",
+        "term": "mysterious",
+        "meaning": "神秘的",
+        "usage": "mysterious cause＝神秘原因"
+      }
+    ],
+    "collocations": [
+      "previous year＝前一年",
+      "exceed sales levels＝超越銷售水準",
+      "range of clothes＝服裝系列"
+    ],
+    "example": {
+      "en": "This year's sales exceeded those of the previous year.",
+      "zh": "今年的銷售超過了前一年。"
+    }
+  },
+  "228": {
+    "translation": "雖然這名按摩師的惡名在附近早已廣為人知，但前來此地的旅客仍被蒙在鼓裡。",
+    "skeleton": [
+      "Although the notoriety of the masseur has been widely known｜讓步",
+      "tourists traveling here｜主詞＋分詞",
+      "are still kept in the dark｜被動慣用語"
+    ],
+    "grammar": [
+      "notoriety＝惡名、壞名聲，通常帶負面語氣。",
+      "be kept in the dark＝被蒙在鼓裡。",
+      "traveling here 是現在分詞片語修飾 tourists。"
+    ],
+    "vocab": [
+      {
+        "term": "masseur",
+        "pos": "n.",
+        "meaning": "男按摩師",
+        "usage": "professional masseur＝專業按摩師"
+      },
+      {
+        "term": "notoriety",
+        "pos": "n.",
+        "meaning": "惡名、聲名狼藉",
+        "usage": "gain notoriety＝聲名狼藉"
+      },
+      {
+        "term": "keep someone in the dark",
+        "pos": "idiom",
+        "meaning": "蒙在鼓裡",
+        "usage": "be kept in the dark＝被蒙在鼓裡"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "valor",
+        "meaning": "勇氣、英勇",
+        "usage": "act of valor＝英勇行為"
+      },
+      {
+        "label": "B",
+        "term": "fame",
+        "meaning": "名聲、知名度",
+        "usage": "rise to fame＝成名"
+      },
+      {
+        "label": "C",
+        "term": "reputation",
+        "meaning": "聲譽（中性）",
+        "usage": "good reputation＝好名聲"
+      },
+      {
+        "label": "D",
+        "term": "notoriety",
+        "meaning": "惡名",
+        "usage": "gain notoriety＝惡名遠播"
+      }
+    ],
+    "collocations": [
+      "gain notoriety＝惡名遠播",
+      "be kept in the dark＝被蒙在鼓裡",
+      "widely known＝廣為人知"
+    ],    "example": {
+      "en": "The company gained notoriety for poor customer service.",
+      "zh": "這家公司因糟糕的客服而聲名狼藉。"
+    }
+  },
+  "229": {
+    "translation": "根據一位暢銷書作者的說法，「履歷就只是清單，而清單不吸引人」，所以你仍需要經營自己的個性與其他特質。",
+    "skeleton": [
+      "According to an author of the bestsellers｜消息來源",
+      "resumes are just lists｜引語",
+      "and lists are not compelling｜並列",
+      "so you still need to work on your personality｜結果"
+    ],
+    "grammar": [
+      "resume＝履歷。",
+      "compelling＝有吸引力、令人信服的。",
+      "work on + N＝努力改善／處理……。",
+      "according to + 人／來源＝根據……。"
+    ],
+    "vocab": [
+      {
+        "term": "bestseller",
+        "pos": "n.",
+        "meaning": "暢銷書",
+        "usage": "bestselling author＝暢銷書作者"
+      },
+      {
+        "term": "compelling",
+        "pos": "adj.",
+        "meaning": "吸引人的、令人信服的",
+        "usage": "compelling argument＝有說服力的論點"
+      },
+      {
+        "term": "personality",
+        "pos": "n.",
+        "meaning": "個性",
+        "usage": "strong personality＝鮮明個性"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "superstars",
+        "meaning": "超級明星",
+        "usage": "sports superstar＝體壇巨星"
+      },
+      {
+        "label": "B",
+        "term": "resumes",
+        "meaning": "履歷",
+        "usage": "submit resumes＝提交履歷"
+      },
+      {
+        "label": "C",
+        "term": "economies",
+        "meaning": "經濟體",
+        "usage": "global economies＝全球經濟"
+      },
+      {
+        "label": "D",
+        "term": "valuations",
+        "meaning": "估值",
+        "usage": "company valuation＝公司估值"
+      }
+    ],
+    "collocations": [
+      "resume＝履歷",
+      "work on one’s personality＝培養／改善個性",
+      "compelling＝有吸引力的"
+    ],
+    "example": {
+      "en": "A resume lists your experience, but your personality also matters.",
+      "zh": "履歷列出經歷，但個性同樣重要。"
+    }
+  },
+  "230": {
+    "translation": "在聯邦探員監控下轉移資金並不容易，因此 Mark 搭私人飛機前往偏遠島嶼，和其他政府官員進一步討論細節。",
+    "skeleton": [
+      "Moving the money under the watch of federal agents｜動名詞片語主詞",
+      "was not easy｜主句",
+      "so Mark took a private jet｜結果",
+      "to discuss further details with other government officials｜目的"
+    ],
+    "grammar": [
+      "Moving... 是動名詞片語作主詞。",
+      "under the watch of＝在……監視／監督下。",
+      "to discuss... 是目的不定詞。",
+      "government official＝政府官員。"
+    ],
+    "vocab": [
+      {
+        "term": "federal agent",
+        "pos": "n.",
+        "meaning": "聯邦探員",
+        "usage": "federal law-enforcement agent＝聯邦執法人員"
+      },
+      {
+        "term": "remote",
+        "pos": "adj.",
+        "meaning": "偏遠的",
+        "usage": "remote island＝偏遠島嶼"
+      },
+      {
+        "term": "official",
+        "pos": "n.",
+        "meaning": "官員",
+        "usage": "government official＝政府官員"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "performers",
+        "meaning": "表演者",
+        "usage": "stage performers＝舞台表演者"
+      },
+      {
+        "label": "B",
+        "term": "superintendents",
+        "meaning": "主管、監督人",
+        "usage": "school superintendent＝學區主管"
+      },
+      {
+        "label": "C",
+        "term": "correspondents",
+        "meaning": "記者、通信者",
+        "usage": "foreign correspondent＝駐外記者"
+      },
+      {
+        "label": "D",
+        "term": "officials",
+        "meaning": "官員",
+        "usage": "government officials＝政府官員"
+      }
+    ],
+    "collocations": [
+      "under the watch of＝在……監控下",
+      "private jet＝私人飛機",
+      "government officials＝政府官員"
+    ],
+    "example": {
+      "en": "Government officials met to discuss further details.",
+      "zh": "政府官員會面以進一步討論細節。"
+    }
+  },
+  "231": {
+    "translation": "Alia 知道要哥哥幫忙這件事根本不可能。",
+    "skeleton": [
+      "Alia knew｜主句",
+      "asking her brother to help with the work｜動名詞主詞",
+      "was out of the question｜補語"
+    ],
+    "grammar": [
+      "ask + 人 + to + V＝要求／請某人做……。",
+      "out of the question＝不可能、免談。",
+      "動名詞片語 asking... 作受詞子句中的主詞。"
+    ],
+    "vocab": [
+      {
+        "term": "out of the question",
+        "pos": "idiom",
+        "meaning": "不可能、免談",
+        "usage": "That’s out of the question.＝那不可能"
+      },
+      {
+        "term": "help with",
+        "pos": "phr.",
+        "meaning": "幫忙處理",
+        "usage": "help with the work＝幫忙工作"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "world",
+        "meaning": "世界",
+        "usage": "out of this world＝好得不得了"
+      },
+      {
+        "label": "B",
+        "term": "house",
+        "meaning": "房子",
+        "usage": "in the house＝在房子裡"
+      },
+      {
+        "label": "C",
+        "term": "theory",
+        "meaning": "理論",
+        "usage": "in theory＝理論上"
+      },
+      {
+        "label": "D",
+        "term": "question",
+        "meaning": "問題",
+        "usage": "out of the question＝不可能"
+      }
+    ],
+    "collocations": [
+      "out of the question＝不可能",
+      "ask A to + V＝請A做",
+      "help with＝協助"
+    ],
+    "example": {
+      "en": "Canceling the project is out of the question.",
+      "zh": "取消這個專案是不可能的。"
+    }
+  },
+  "232": {
+    "translation": "Cindy 失去了 401(k) 退休金，又無法從雇主取得遣散費，因此暫時搬回家和父母住。",
+    "skeleton": [
+      "Since Cindy lost her 401k｜原因",
+      "and could not get the severance pay from her employer｜並列原因",
+      "she moved back home｜主句",
+      "for the time being｜暫時"
+    ],
+    "grammar": [
+      "severance pay＝遣散費。",
+      "since 可表示「因為」。",
+      "move back home＝搬回家。",
+      "for the time being＝暫時。"
+    ],
+    "vocab": [
+      {
+        "term": "severance pay",
+        "pos": "n.",
+        "meaning": "遣散費",
+        "usage": "receive severance pay＝領取遣散費"
+      },
+      {
+        "term": "employer",
+        "pos": "n.",
+        "meaning": "雇主",
+        "usage": "current employer＝現任雇主"
+      },
+      {
+        "term": "for the time being",
+        "pos": "phr.",
+        "meaning": "暫時",
+        "usage": "stay here for the time being＝暫時待在這"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "severance",
+        "meaning": "終止；遣散",
+        "usage": "severance pay＝遣散費"
+      },
+      {
+        "label": "B",
+        "term": "profit",
+        "meaning": "利潤",
+        "usage": "make a profit＝獲利"
+      },
+      {
+        "label": "C",
+        "term": "bonus",
+        "meaning": "獎金",
+        "usage": "annual bonus＝年終獎金"
+      },
+      {
+        "label": "D",
+        "term": "benefit",
+        "meaning": "福利、好處",
+        "usage": "employee benefits＝員工福利"
+      }
+    ],
+    "collocations": [
+      "severance pay＝遣散費",
+      "move back home＝搬回家",
+      "for the time being＝暫時"
+    ],
+    "example": {
+      "en": "Employees affected by the closure will receive severance pay.",
+      "zh": "受關閉影響的員工將獲得遣散費。"
+    }
+  },
+  "233": {
+    "translation": "這座新飯店綜合設施針對三月底前收到的預訂，提供特別企業團體優惠價。",
+    "skeleton": [
+      "The new hotel complex｜主詞",
+      "offers special corporate group rates｜動詞＋受詞",
+      "for reservations received before the end of March｜條件"
+    ],
+    "grammar": [
+      "offer + 受詞＝提供……。",
+      "group rate＝團體優惠價。",
+      "received before... 是過去分詞片語，修飾 reservations。"
+    ],
+    "vocab": [
+      {
+        "term": "hotel complex",
+        "pos": "n.",
+        "meaning": "飯店綜合設施／飯店群",
+        "usage": "resort/hotel complex＝度假／飯店設施"
+      },
+      {
+        "term": "corporate",
+        "pos": "adj.",
+        "meaning": "企業的",
+        "usage": "corporate client＝企業客戶"
+      },
+      {
+        "term": "group rate",
+        "pos": "n.",
+        "meaning": "團體優惠價",
+        "usage": "special group rate＝特別團體價"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "group",
+        "meaning": "團體",
+        "usage": "group rate＝團體優惠價"
+      },
+      {
+        "label": "B",
+        "term": "simple",
+        "meaning": "簡單的",
+        "usage": "simple process＝簡單流程"
+      },
+      {
+        "label": "C",
+        "term": "efficient",
+        "meaning": "有效率的",
+        "usage": "efficient service＝有效率服務"
+      },
+      {
+        "label": "D",
+        "term": "commercial",
+        "meaning": "商業的",
+        "usage": "commercial property＝商業不動產"
+      }
+    ],
+    "collocations": [
+      "corporate group rates＝企業團體優惠價",
+      "make a reservation＝預訂",
+      "before the end of＝在……月底前"
+    ],
+    "example": {
+      "en": "The hotel offers discounted group rates for corporate clients.",
+      "zh": "飯店為企業客戶提供團體折扣價。"
+    }
+  },
+  "234": {
+    "translation": "有人收到行銷部門關於春季系列配色方案的消息了嗎？",
+    "skeleton": [
+      "Has anyone heard from the marketing department｜問句",
+      "regarding the color scheme｜主題",
+      "for the spring collection｜適用系列"
+    ],
+    "grammar": [
+      "hear from + 人／部門＝收到……的消息。",
+      "regarding + N＝關於……。",
+      "color scheme＝配色方案，是固定搭配。"
+    ],
+    "vocab": [
+      {
+        "term": "color scheme",
+        "pos": "n.",
+        "meaning": "配色方案",
+        "usage": "choose a color scheme＝選配色"
+      },
+      {
+        "term": "collection",
+        "pos": "n.",
+        "meaning": "系列；收藏",
+        "usage": "spring collection＝春季系列"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "ban",
+        "meaning": "禁令",
+        "usage": "smoking ban＝禁菸令"
+      },
+      {
+        "label": "B",
+        "term": "season",
+        "meaning": "季節",
+        "usage": "holiday season＝假日季"
+      },
+      {
+        "label": "C",
+        "term": "village",
+        "meaning": "村莊",
+        "usage": "small village＝小村莊"
+      },
+      {
+        "label": "D",
+        "term": "scheme",
+        "meaning": "方案、計畫",
+        "usage": "color scheme＝配色方案"
+      }
+    ],
+    "collocations": [
+      "hear from＝收到……消息",
+      "color scheme＝配色方案",
+      "spring collection＝春季系列"
+    ],
+    "example": {
+      "en": "The design team approved the new color scheme.",
+      "zh": "設計團隊核准了新的配色方案。"
+    }
+  },
+  "235": {
+    "translation": "總共有 92 個貨櫃正從亞洲港口運往英國、法國和比利時。",
+    "skeleton": [
+      "Altogether 92 containers｜主詞",
+      "are being shipped｜現在進行式被動",
+      "from the Asian port｜起點",
+      "to England, France and Belgium｜目的地"
+    ],
+    "grammar": [
+      "are being + p.p.＝現在進行式被動，表示正在被……。",
+      "ship + 貨物＝運送。",
+      "altogether＝總共。"
+    ],
+    "vocab": [
+      {
+        "term": "container",
+        "pos": "n.",
+        "meaning": "貨櫃、容器",
+        "usage": "shipping container＝海運貨櫃"
+      },
+      {
+        "term": "ship",
+        "pos": "v.",
+        "meaning": "運送",
+        "usage": "ship goods overseas＝將貨物運往海外"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "opened",
+        "meaning": "被打開",
+        "usage": "open a container＝打開貨櫃"
+      },
+      {
+        "label": "B",
+        "term": "stopped",
+        "meaning": "被停止",
+        "usage": "stop production＝停止生產"
+      },
+      {
+        "label": "C",
+        "term": "shipped",
+        "meaning": "被運送",
+        "usage": "be shipped to＝被運往"
+      },
+      {
+        "label": "D",
+        "term": "decided",
+        "meaning": "決定",
+        "usage": "decide to + V＝決定做"
+      }
+    ],
+    "collocations": [
+      "be shipped from A to B＝從A運往B",
+      "shipping container＝海運貨櫃",
+      "altogether＝總共"
+    ],
+    "example": {
+      "en": "The goods are being shipped from Taiwan to Europe.",
+      "zh": "貨物正從台灣運往歐洲。"
+    }
+  },
+  "236": {
+    "translation": "繼續購買前，請閱讀並同意這些條款與條件。",
+    "skeleton": [
+      "Please read and agree to｜祈使句",
+      "the terms and conditions｜受詞",
+      "before continuing with your purchase｜時間"
+    ],
+    "grammar": [
+      "terms and conditions＝條款與條件，是固定法律／商務用語。",
+      "agree to + 名詞＝同意……。",
+      "before + V-ing＝在做……之前。"
+    ],
+    "vocab": [
+      {
+        "term": "terms and conditions",
+        "pos": "n.",
+        "meaning": "條款與條件",
+        "usage": "agree to the terms and conditions＝同意條款"
+      },
+      {
+        "term": "purchase",
+        "pos": "n.",
+        "meaning": "購買",
+        "usage": "complete a purchase＝完成購買"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "terms",
+        "meaning": "條款、條件",
+        "usage": "terms and conditions＝條款與條件"
+      },
+      {
+        "label": "B",
+        "term": "grants",
+        "meaning": "補助金；授予",
+        "usage": "research grant＝研究補助"
+      },
+      {
+        "label": "C",
+        "term": "arguments",
+        "meaning": "爭論、論點",
+        "usage": "strong argument＝有力論點"
+      },
+      {
+        "label": "D",
+        "term": "sentiments",
+        "meaning": "情感、觀感",
+        "usage": "public sentiment＝民意"
+      }
+    ],
+    "collocations": [
+      "terms and conditions＝條款與條件",
+      "agree to＝同意",
+      "continue with＝繼續進行"
+    ],
+    "example": {
+      "en": "Please agree to the terms and conditions before proceeding.",
+      "zh": "繼續前請先同意條款與條件。"
+    }
+  },
+  "237": {
+    "translation": "從顧客角度來看，設計只有在對使用者友善且直覺時才算成功。",
+    "skeleton": [
+      "From the customer’s point of view｜觀點",
+      "a design only works｜主句",
+      "if it’s user-friendly and intuitive｜條件"
+    ],
+    "grammar": [
+      "from one’s point of view＝從某人的觀點來看。",
+      "user-friendly＝使用者友善的。",
+      "if + 子句＝如果……。",
+      "friendly 作複合形容詞後綴時常寫 user-friendly。"
+    ],
+    "vocab": [
+      {
+        "term": "point of view",
+        "pos": "n.",
+        "meaning": "觀點",
+        "usage": "from the customer’s point of view＝從顧客角度"
+      },
+      {
+        "term": "user-friendly",
+        "pos": "adj.",
+        "meaning": "使用者友善的",
+        "usage": "user-friendly interface＝易用介面"
+      },
+      {
+        "term": "intuitive",
+        "pos": "adj.",
+        "meaning": "直覺易懂的",
+        "usage": "intuitive design＝直覺設計"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "user",
+        "meaning": "使用者",
+        "usage": "user-friendly＝使用者友善的"
+      },
+      {
+        "label": "B",
+        "term": "voice",
+        "meaning": "聲音",
+        "usage": "voice control＝語音控制"
+      },
+      {
+        "label": "C",
+        "term": "seller",
+        "meaning": "賣方、賣家",
+        "usage": "online seller＝網路賣家"
+      },
+      {
+        "label": "D",
+        "term": "advertising",
+        "meaning": "廣告",
+        "usage": "advertising campaign＝廣告活動"
+      }
+    ],
+    "collocations": [
+      "user-friendly＝使用者友善的",
+      "point of view＝觀點",
+      "intuitive design＝直覺設計"
+    ],
+    "example": {
+      "en": "Customers prefer a user-friendly and intuitive interface.",
+      "zh": "顧客偏好使用者友善且直覺的介面。"
+    }
+  },
+  "238": {
+    "translation": "這份問卷約需半小時完成，並由三個部分組成。",
+    "skeleton": [
+      "The survey will take approximately half an hour to complete｜主句一",
+      "and is composed of three parts｜主句二"
+    ],
+    "grammar": [
+      "take + 時間 + to + V＝做……需要多少時間。",
+      "be composed of＝由……組成。",
+      "approximately＝大約。"
+    ],
+    "vocab": [
+      {
+        "term": "approximately",
+        "pos": "adv.",
+        "meaning": "大約",
+        "usage": "approximately 30 minutes＝約30分鐘"
+      },
+      {
+        "term": "be composed of",
+        "pos": "phr.",
+        "meaning": "由……組成",
+        "usage": "be composed of three parts＝由三部分組成"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "composed",
+        "meaning": "組成的",
+        "usage": "be composed of＝由……組成"
+      },
+      {
+        "label": "B",
+        "term": "completed",
+        "meaning": "完成的",
+        "usage": "completed form＝填妥表格"
+      },
+      {
+        "label": "C",
+        "term": "complicated",
+        "meaning": "複雜的",
+        "usage": "complicated process＝複雜流程"
+      },
+      {
+        "label": "D",
+        "term": "compounded",
+        "meaning": "使加劇；混合",
+        "usage": "compound the problem＝使問題加劇"
+      }
+    ],
+    "collocations": [
+      "be composed of＝由……組成",
+      "take half an hour to + V＝花半小時做",
+      "complete a survey＝完成問卷"
+    ],
+    "example": {
+      "en": "The course is composed of three modules.",
+      "zh": "這門課由三個模組組成。"
+    }
+  },
+  "239": {
+    "translation": "我的膝蓋上週開始痛，我擔心在陡峭山坡上下健行會使情況惡化。",
+    "skeleton": [
+      "My knee started hurting last week｜主句一",
+      "and I'm afraid｜主句二",
+      "hiking up and down steep hills will aggravate it｜受詞子句"
+    ],
+    "grammar": [
+      "start + V-ing＝開始出現某動作／狀態。",
+      "be afraid + 子句＝擔心……。",
+      "動名詞片語 hiking... 作子句主詞。",
+      "aggravate＝使惡化、加重。"
+    ],
+    "vocab": [
+      {
+        "term": "knee",
+        "pos": "n.",
+        "meaning": "膝蓋",
+        "usage": "knee pain＝膝痛"
+      },
+      {
+        "term": "steep",
+        "pos": "adj.",
+        "meaning": "陡峭的",
+        "usage": "steep hill＝陡坡"
+      },
+      {
+        "term": "aggravate",
+        "pos": "v.",
+        "meaning": "使惡化",
+        "usage": "aggravate an injury＝使傷勢惡化"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "hurting",
+        "meaning": "疼痛",
+        "usage": "start hurting＝開始痛"
+      },
+      {
+        "label": "B",
+        "term": "blowing",
+        "meaning": "吹",
+        "usage": "wind blowing＝風吹"
+      },
+      {
+        "label": "C",
+        "term": "stopping",
+        "meaning": "停止",
+        "usage": "stop working＝停止運作"
+      },
+      {
+        "label": "D",
+        "term": "bandaging",
+        "meaning": "包紮",
+        "usage": "bandage a wound＝包紮傷口"
+      }
+    ],
+    "collocations": [
+      "start hurting＝開始疼痛",
+      "steep hills＝陡坡",
+      "aggravate an injury＝使傷勢惡化"
+    ],
+    "example": {
+      "en": "Running may aggravate your knee injury.",
+      "zh": "跑步可能會使你的膝傷惡化。"
+    }
+  },
+  "240": {
+    "translation": "今天是特賣最後一天，所以如果你想享受優惠，就必須今天完成購買。",
+    "skeleton": [
+      "This is the final day of the sale｜背景",
+      "so you’ll have to make your purchase today｜結果",
+      "if you’d like to take advantage of the savings｜條件"
+    ],
+    "grammar": [
+      "make a purchase＝購買、完成購買。",
+      "have to + V＝必須做。",
+      "take advantage of + N＝利用、享受……的好處。",
+      "savings 在促銷語境＝省下的金額／優惠。"
+    ],
+    "vocab": [
+      {
+        "term": "sale",
+        "pos": "n.",
+        "meaning": "特賣、銷售",
+        "usage": "on sale＝特價"
+      },
+      {
+        "term": "take advantage of",
+        "pos": "phr.",
+        "meaning": "利用、把握",
+        "usage": "take advantage of a discount＝利用折扣"
+      },
+      {
+        "term": "savings",
+        "pos": "n.",
+        "meaning": "節省、優惠金額",
+        "usage": "enjoy savings＝享受優惠"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "end",
+        "meaning": "結束",
+        "usage": "come to an end＝結束"
+      },
+      {
+        "label": "B",
+        "term": "look",
+        "meaning": "看；外觀",
+        "usage": "take a look＝看一下"
+      },
+      {
+        "label": "C",
+        "term": "purchase",
+        "meaning": "購買",
+        "usage": "make a purchase＝購買"
+      },
+      {
+        "label": "D",
+        "term": "statement",
+        "meaning": "聲明；帳單",
+        "usage": "bank statement＝銀行對帳單"
+      }
+    ],
+    "collocations": [
+      "make a purchase＝購買",
+      "take advantage of＝利用／把握",
+      "final day of the sale＝特賣最後一天"
+    ],
+    "example": {
+      "en": "Make your purchase today to take advantage of the discount.",
+      "zh": "今天購買即可享受折扣。"
+    }
+  },
+  "241": {
+    "translation": "一則廣告開始播放，內容是一名海盜尋找裝滿即食麵包裝的寶箱。",
+    "skeleton": [
+      "A commercial came on｜主句",
+      "featuring a pirate hunting for a treasure chest｜現在分詞補充",
+      "that is filled with packages of instant noodles｜關係子句"
+    ],
+    "grammar": [
+      "feature + 人／物＝以……為特色、主打……。",
+      "featuring... 是現在分詞片語，修飾 commercial。",
+      "hunt for＝尋找。",
+      "be filled with＝裝滿……。"
+    ],
+    "vocab": [
+      {
+        "term": "commercial",
+        "pos": "n.",
+        "meaning": "廣告",
+        "usage": "TV commercial＝電視廣告"
+      },
+      {
+        "term": "feature",
+        "pos": "v.",
+        "meaning": "以……為特色",
+        "usage": "commercial featuring...＝以……為主角的廣告"
+      },
+      {
+        "term": "treasure chest",
+        "pos": "n.",
+        "meaning": "寶箱",
+        "usage": "hunt for treasure＝尋寶"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "losing",
+        "meaning": "失去",
+        "usage": "lose money＝損失金錢"
+      },
+      {
+        "label": "B",
+        "term": "relaxing",
+        "meaning": "放鬆的",
+        "usage": "relaxing music＝放鬆音樂"
+      },
+      {
+        "label": "C",
+        "term": "featuring",
+        "meaning": "以……為特色",
+        "usage": "featuring a celebrity＝由名人主演／主打名人"
+      },
+      {
+        "label": "D",
+        "term": "becoming",
+        "meaning": "變成；合適的",
+        "usage": "become popular＝變受歡迎"
+      }
+    ],
+    "collocations": [
+      "feature + 人／物＝以……為特色",
+      "hunt for＝尋找",
+      "be filled with＝裝滿"
+    ],
+    "example": {
+      "en": "The advertisement features a famous actor.",
+      "zh": "這則廣告以一位知名演員為主角。"
+    }
+  },
+  "242": {
+    "translation": "從第一眼就很明顯，David 感到極度不自在。",
+    "skeleton": [
+      "It was quite apparent from the first glance｜形式主詞句",
+      "that David was feeling extremely uncomfortable｜真正主詞子句"
+    ],
+    "grammar": [
+      "It is apparent that...＝很明顯……。",
+      "extremely 是程度副詞，修飾 uncomfortable。",
+      "from the first glance＝從第一眼就……。"
+    ],
+    "vocab": [
+      {
+        "term": "apparent",
+        "pos": "adj.",
+        "meaning": "明顯的",
+        "usage": "It is apparent that...＝很明顯……"
+      },
+      {
+        "term": "glance",
+        "pos": "n.",
+        "meaning": "一瞥",
+        "usage": "at first glance＝乍看之下"
+      },
+      {
+        "term": "uncomfortable",
+        "pos": "adj.",
+        "meaning": "不自在的、不舒服的",
+        "usage": "feel uncomfortable＝感到不自在"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "some",
+        "meaning": "一些",
+        "usage": "some people＝一些人"
+      },
+      {
+        "label": "B",
+        "term": "lowly",
+        "meaning": "卑微地／地位低的",
+        "usage": "lowly position＝低階職位"
+      },
+      {
+        "label": "C",
+        "term": "happy",
+        "meaning": "快樂的",
+        "usage": "feel happy＝感到快樂"
+      },
+      {
+        "label": "D",
+        "term": "extremely",
+        "meaning": "極度地",
+        "usage": "extremely uncomfortable＝極度不舒服"
+      }
+    ],
+    "collocations": [
+      "It is apparent that＝很明顯",
+      "extremely uncomfortable＝極度不自在",
+      "at first glance＝乍看之下"
+    ],
+    "example": {
+      "en": "It was apparent that he felt extremely uncomfortable.",
+      "zh": "很明顯他感到非常不自在。"
+    }
+  },
+  "243": {
+    "translation": "我們把 Matt 介紹給 Sally 吧。我有預感他們會很合得來。",
+    "skeleton": [
+      "Let’s introduce Matt to Sally｜建議",
+      "I have a hunch｜主句",
+      "that they will get along very well｜同位語子句"
+    ],
+    "grammar": [
+      "introduce A to B＝把 A 介紹給 B。",
+      "have a hunch that...＝有預感……。",
+      "get along (with)＝相處融洽。"
+    ],
+    "vocab": [
+      {
+        "term": "hunch",
+        "pos": "n.",
+        "meaning": "預感、直覺",
+        "usage": "have a hunch that...＝有預感……"
+      },
+      {
+        "term": "get along",
+        "pos": "phr.",
+        "meaning": "相處融洽",
+        "usage": "get along with colleagues＝與同事相處融洽"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "drop",
+        "meaning": "滴；下降",
+        "usage": "a drop in sales＝銷售下降"
+      },
+      {
+        "label": "B",
+        "term": "terror",
+        "meaning": "恐懼",
+        "usage": "in terror＝恐懼地"
+      },
+      {
+        "label": "C",
+        "term": "hunch",
+        "meaning": "預感",
+        "usage": "have a hunch＝有預感"
+      },
+      {
+        "label": "D",
+        "term": "sensation",
+        "meaning": "感覺；轟動",
+        "usage": "a strange sensation＝奇怪感覺"
+      }
+    ],
+    "collocations": [
+      "introduce A to B＝把A介紹給B",
+      "have a hunch＝有預感",
+      "get along＝相處融洽"
+    ],
+    "example": {
+      "en": "I have a hunch that the meeting will go well.",
+      "zh": "我有預感這場會議會很順利。"
+    }
+  },
+  "244": {
+    "translation": "證人陳述完後，法庭內爆發出一陣驚呼。",
+    "skeleton": [
+      "The courtroom｜主詞",
+      "erupted in exclamations of surprise｜動詞片語",
+      "after the witness finished her statement｜時間"
+    ],
+    "grammar": [
+      "erupt in/into + 名詞＝突然爆發出……。",
+      "exclamation of surprise＝驚呼。",
+      "finish + 名詞／V-ing＝完成……。"
+    ],
+    "vocab": [
+      {
+        "term": "courtroom",
+        "pos": "n.",
+        "meaning": "法庭",
+        "usage": "in the courtroom＝在法庭內"
+      },
+      {
+        "term": "witness",
+        "pos": "n.",
+        "meaning": "證人",
+        "usage": "witness statement＝證人陳述"
+      },
+      {
+        "term": "exclamation",
+        "pos": "n.",
+        "meaning": "驚呼、感嘆",
+        "usage": "exclamation of surprise＝驚呼"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "erupted",
+        "meaning": "爆發",
+        "usage": "erupt in applause＝爆發掌聲"
+      },
+      {
+        "label": "B",
+        "term": "affected",
+        "meaning": "影響",
+        "usage": "be affected by＝受……影響"
+      },
+      {
+        "label": "C",
+        "term": "recalled",
+        "meaning": "回想；召回",
+        "usage": "recall a product＝召回產品"
+      },
+      {
+        "label": "D",
+        "term": "attended",
+        "meaning": "出席",
+        "usage": "attend a meeting＝出席會議"
+      }
+    ],
+    "collocations": [
+      "erupt in＝爆發出",
+      "witness statement＝證人陳述",
+      "exclamation of surprise＝驚呼"
+    ],
+    "example": {
+      "en": "The audience erupted in applause.",
+      "zh": "觀眾爆發出掌聲。"
+    }
+  },
+  "245": {
+    "translation": "雖然發生的事情不是 Bill 的錯，他仍然把這個情況怪到自己身上。",
+    "skeleton": [
+      "Although what happened wasn’t Bill’s fault｜讓步",
+      "he still blamed himself｜主句",
+      "for the situation｜原因"
+    ],
+    "grammar": [
+      "blame + 人 + for + 事情＝因某事責怪某人。",
+      "blame oneself＝自責。",
+      "what happened 是名詞子句，作 Although 子句主詞。"
+    ],
+    "vocab": [
+      {
+        "term": "fault",
+        "pos": "n.",
+        "meaning": "過錯、責任",
+        "usage": "It’s not your fault.＝不是你的錯"
+      },
+      {
+        "term": "blame",
+        "pos": "v.",
+        "meaning": "責怪",
+        "usage": "blame A for B＝因B責怪A"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "asked",
+        "meaning": "詢問、要求",
+        "usage": "ask a question＝問問題"
+      },
+      {
+        "label": "B",
+        "term": "blamed",
+        "meaning": "責怪",
+        "usage": "blame oneself＝自責"
+      },
+      {
+        "label": "C",
+        "term": "divided",
+        "meaning": "分開",
+        "usage": "divide into＝分成"
+      },
+      {
+        "label": "D",
+        "term": "remembered",
+        "meaning": "記得",
+        "usage": "remember to + V＝記得去做"
+      }
+    ],
+    "collocations": [
+      "blame oneself＝自責",
+      "blame A for B＝因B責怪A",
+      "be one’s fault＝是某人的錯"
+    ],
+    "example": {
+      "en": "She blamed herself for the mistake.",
+      "zh": "她因那個錯誤而自責。"
+    }
+  },
+  "246": {
+    "translation": "這只是例行檢查，所以你明晚應該就能把車領回去。",
+    "skeleton": [
+      "This is just a routine checkup｜主句",
+      "so you should be able to pick up your car｜結果",
+      "tomorrow evening｜時間"
+    ],
+    "grammar": [
+      "routine checkup＝例行檢查。",
+      "should be able to + V＝應該能夠做……。",
+      "pick up + 物＝取回／領取。"
+    ],
+    "vocab": [
+      {
+        "term": "checkup",
+        "pos": "n.",
+        "meaning": "檢查、健檢",
+        "usage": "routine checkup＝例行檢查"
+      },
+      {
+        "term": "pick up",
+        "pos": "phr.",
+        "meaning": "領取、接人",
+        "usage": "pick up your car＝取車"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "repair",
+        "meaning": "修理",
+        "usage": "repair work＝維修工作"
+      },
+      {
+        "label": "B",
+        "term": "casual",
+        "meaning": "休閒的、隨意的",
+        "usage": "casual clothes＝休閒服"
+      },
+      {
+        "label": "C",
+        "term": "routine",
+        "meaning": "例行的",
+        "usage": "routine checkup＝例行檢查"
+      },
+      {
+        "label": "D",
+        "term": "professional",
+        "meaning": "專業的",
+        "usage": "professional service＝專業服務"
+      }
+    ],
+    "collocations": [
+      "routine checkup＝例行檢查",
+      "be able to + V＝能夠做",
+      "pick up a car＝取車"
+    ],
+    "example": {
+      "en": "The vehicle only needs a routine checkup.",
+      "zh": "這輛車只需要例行檢查。"
+    }
+  },
+  "247": {
+    "translation": "表演突然結束，而燈光沒有重新亮起時，觀眾開始不確定地鼓掌。",
+    "skeleton": [
+      "The performance ended abruptly｜主句一",
+      "and the audience started to clap uncertainly｜主句二",
+      "when the lights didn’t come back on｜時間"
+    ],
+    "grammar": [
+      "abruptly＝突然地、唐突地，修飾 ended。",
+      "start to + V＝開始做。",
+      "come back on＝重新亮起／恢復供電。"
+    ],
+    "vocab": [
+      {
+        "term": "abruptly",
+        "pos": "adv.",
+        "meaning": "突然地",
+        "usage": "end abruptly＝突然結束"
+      },
+      {
+        "term": "audience",
+        "pos": "n.",
+        "meaning": "觀眾",
+        "usage": "audience applauded＝觀眾鼓掌"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "always",
+        "meaning": "總是",
+        "usage": "always available＝總是可用"
+      },
+      {
+        "label": "B",
+        "term": "together",
+        "meaning": "一起",
+        "usage": "work together＝一起工作"
+      },
+      {
+        "label": "C",
+        "term": "abruptly",
+        "meaning": "突然地",
+        "usage": "end abruptly＝突然結束"
+      },
+      {
+        "label": "D",
+        "term": "typically",
+        "meaning": "通常地、典型地",
+        "usage": "typically takes＝通常需要"
+      }
+    ],
+    "collocations": [
+      "end abruptly＝突然結束",
+      "start to clap＝開始鼓掌",
+      "come back on＝重新亮起"
+    ],
+    "example": {
+      "en": "The meeting ended abruptly after the argument.",
+      "zh": "爭執後，會議突然結束。"
+    }
+  },
+  "248": {
+    "translation": "我們可以撥一部分預算購買新制服，因為目前的制服看起來相當破舊。",
+    "skeleton": [
+      "We can allot a portion of the budget｜主句",
+      "for new uniforms｜用途",
+      "as the current ones look quite worn｜原因"
+    ],
+    "grammar": [
+      "allot + 資源 + for/to＝分配……給……。",
+      "a portion of the budget＝一部分預算。",
+      "ones 代替前面的複數名詞 uniforms。",
+      "worn＝磨損的、破舊的。"
+    ],
+    "vocab": [
+      {
+        "term": "allot",
+        "pos": "v.",
+        "meaning": "分配",
+        "usage": "allot funds for＝撥款給"
+      },
+      {
+        "term": "portion",
+        "pos": "n.",
+        "meaning": "部分",
+        "usage": "a portion of the budget＝一部分預算"
+      },
+      {
+        "term": "worn",
+        "pos": "adj.",
+        "meaning": "磨損的、破舊的",
+        "usage": "worn clothing＝舊衣"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "workshops",
+        "meaning": "工作坊；工場",
+        "usage": "training workshop＝訓練工作坊"
+      },
+      {
+        "label": "B",
+        "term": "uniforms",
+        "meaning": "制服",
+        "usage": "company uniforms＝公司制服"
+      },
+      {
+        "label": "C",
+        "term": "airplanes",
+        "meaning": "飛機",
+        "usage": "commercial airplanes＝民航機"
+      },
+      {
+        "label": "D",
+        "term": "subjects",
+        "meaning": "主題；科目",
+        "usage": "research subjects＝研究對象"
+      }
+    ],
+    "collocations": [
+      "allot a portion of the budget＝撥一部分預算",
+      "new uniforms＝新制服",
+      "look worn＝看起來破舊"
+    ],
+    "example": {
+      "en": "The company allotted part of the budget for new uniforms.",
+      "zh": "公司撥出一部分預算購買新制服。"
+    }
+  },
+  "249": {
+    "translation": "現在下結論還太早，但整體感覺是這場會議進行得非常順利。",
+    "skeleton": [
+      "It’s too early to make conclusions｜主句",
+      "but the overall feeling is｜轉折",
+      "that the meeting went very well｜補語子句"
+    ],
+    "grammar": [
+      "too + adj. + to + V＝太……而不能／不適合做……。",
+      "make/draw conclusions＝下結論。",
+      "overall feeling＝整體感覺。",
+      "go well＝進行順利。"
+    ],
+    "vocab": [
+      {
+        "term": "overall",
+        "pos": "adj.",
+        "meaning": "整體的",
+        "usage": "overall result＝整體結果"
+      },
+      {
+        "term": "conclusion",
+        "pos": "n.",
+        "meaning": "結論",
+        "usage": "draw/make a conclusion＝下結論"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "good",
+        "meaning": "好的",
+        "usage": "good result＝好結果"
+      },
+      {
+        "label": "B",
+        "term": "dinner",
+        "meaning": "晚餐",
+        "usage": "have dinner＝吃晚餐"
+      },
+      {
+        "label": "C",
+        "term": "techniques",
+        "meaning": "技巧",
+        "usage": "sales techniques＝銷售技巧"
+      },
+      {
+        "label": "D",
+        "term": "conclusions",
+        "meaning": "結論",
+        "usage": "make conclusions＝下結論"
+      }
+    ],
+    "collocations": [
+      "too early to + V＝現在做……太早",
+      "make conclusions＝下結論",
+      "go well＝進行順利"
+    ],
+    "example": {
+      "en": "It's too early to draw conclusions from the data.",
+      "zh": "現在根據資料下結論還太早。"
+    }
+  },
+  "250": {
+    "translation": "最後，被裁員反而成了一件好事，因為它迫使我自己創業，而從那之後我一直快樂得多。",
+    "skeleton": [
+      "In the end｜最後",
+      "getting laid off was a blessing｜動名詞主詞",
+      "as it forced me to start my own business｜原因",
+      "and I’ve been much happier ever since｜結果"
+    ],
+    "grammar": [
+      "get laid off＝被裁員。",
+      "a blessing＝好事、福氣；語意近似 a blessing in disguise。",
+      "force + 人 + to + V＝迫使某人做……。",
+      "ever since＝從那之後一直，常搭現在完成式。"
+    ],
+    "vocab": [
+      {
+        "term": "lay off",
+        "pos": "v.",
+        "meaning": "裁員",
+        "usage": "be/get laid off＝被裁員"
+      },
+      {
+        "term": "blessing",
+        "pos": "n.",
+        "meaning": "好事、福氣",
+        "usage": "a blessing in disguise＝因禍得福"
+      },
+      {
+        "term": "ever since",
+        "pos": "phr.",
+        "meaning": "從那之後一直",
+        "usage": "have been ... ever since＝此後一直……"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "robbery",
+        "meaning": "搶劫",
+        "usage": "bank robbery＝銀行搶劫"
+      },
+      {
+        "label": "B",
+        "term": "blessing",
+        "meaning": "好事、福氣",
+        "usage": "a blessing in disguise＝因禍得福"
+      },
+      {
+        "label": "C",
+        "term": "mismatch",
+        "meaning": "不匹配",
+        "usage": "skills mismatch＝技能不匹配"
+      },
+      {
+        "label": "D",
+        "term": "nightmare",
+        "meaning": "惡夢",
+        "usage": "a logistical nightmare＝後勤惡夢"
+      }
+    ],
+    "collocations": [
+      "get laid off＝被裁員",
+      "a blessing＝一件好事",
+      "start one’s own business＝自己創業",
+      "ever since＝從那之後一直"
+    ],
+    "example": {
+      "en": "Losing that job turned out to be a blessing in disguise.",
+      "zh": "失去那份工作結果反而因禍得福。"
+    }
+  }
+}
