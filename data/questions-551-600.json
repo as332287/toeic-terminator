@@ -1,0 +1,1012 @@
+{
+  "title": "多益剋星｜800字彙",
+  "generatedAt": "2026-10-12T13:47:09.957Z",
+  "sourceFolder": "++多益剋星++/800字彙",
+  "total": 50,
+  "questions": [
+    {
+      "id": 551,
+      "printedNumber": 551,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "L",
+      "question": "Due to several strikes in the automobile industry, wages have increased ------ this year.",
+      "options": [
+        "significantly",
+        "politically",
+        "negatively",
+        "normally"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 552,
+      "printedNumber": 552,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "R",
+      "question": "Economists use advanced statistical methods that they believe can ------ forecast buying trends in the market.",
+      "options": [
+        "tremendously",
+        "previously",
+        "motivationally",
+        "extremely"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 553,
+      "printedNumber": 553,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "L",
+      "question": "Visitors to Holidayland need not worry about bringing enough cash, as credit cards are accepted ------ in the resort.",
+      "options": [
+        "otherwise",
+        "mostly",
+        "anywhere",
+        "merely"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 554,
+      "printedNumber": 554,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "R",
+      "question": "Raymonds Automotive Center provides window coating for vehicles to keep glass clear when ------ to heavy rains or snow.",
+      "options": [
+        "exposed",
+        "revealed",
+        "intended",
+        "deprived"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 555,
+      "printedNumber": 555,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "L",
+      "question": "First Bonneville Bank ------ 35 ranches of CPG Financial Trust for $90 million, strengthening its presence in the region.",
+      "options": [
+        "explained",
+        "canceled",
+        "acquired",
+        "committed"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 556,
+      "printedNumber": 556,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "R",
+      "question": "Hooper Incorporated is ------ its internal management structure in order to improve communication among departments.",
+      "options": [
+        "recalling",
+        "representing",
+        "reorganizing",
+        "returning"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 557,
+      "printedNumber": 557,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "L",
+      "question": "Once the account has been ------, the user will be asked to re-enter their login name and password.",
+      "options": [
+        "created",
+        "rehearse",
+        "disturb",
+        "assembled"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 558,
+      "printedNumber": 558,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "R",
+      "question": "Students may make a ------ for a transfer to a different department of study but must provide the school's dean of admissions with a valid reason.",
+      "options": [
+        "distinction",
+        "request",
+        "formation",
+        "concern"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 559,
+      "printedNumber": 559,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "L",
+      "question": "The marketing department has launched a social media campaign in an effort to reach a more ------ audience.",
+      "options": [
+        "necessary",
+        "diverse",
+        "intense",
+        "lively"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 560,
+      "printedNumber": 560,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 38,
+      "sourceColumn": "R",
+      "question": "The editors of The V ine Journal go through all the articles before printing to check for errors and factual ------.",
+      "options": [
+        "investigations",
+        "installments",
+        "discrepancies",
+        "gratuities"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 561,
+      "printedNumber": 561,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "L",
+      "question": "Employee assessments are ------ carried out in December but may be delayed until January.",
+      "options": [
+        "physically",
+        "casually",
+        "typically",
+        "slightly"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 562,
+      "printedNumber": 562,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "R",
+      "question": "The city has plans to ------ local parks by planting more trees and flowers to make the areas look nicer.",
+      "options": [
+        "certify",
+        "officiate",
+        "revitalize",
+        "aggregate"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 563,
+      "printedNumber": 563,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "L",
+      "question": "Lofthanda Airways is offering ------ rates to passengers willing to travel late at night.",
+      "options": [
+        "shortened",
+        "fragile",
+        "reduced",
+        "enduring"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 564,
+      "printedNumber": 564,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "R",
+      "question": "Gilbut Media increased its third quarter net revenue thanks to the continued ------ of sales in China and Japan.",
+      "options": [
+        "assets",
+        "expansion",
+        "decline",
+        "compensation"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 565,
+      "printedNumber": 565,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "L",
+      "question": "The students who are new to the school must ------ themselves with the large campus so as not to get lost.",
+      "options": [
+        "e mphasize",
+        "overhaul",
+        "abolish",
+        "familiarize"
+      ],
+      "answerKeyRaw": "D",
+      "answer": "D",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 566,
+      "printedNumber": 566,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "R",
+      "question": "Gilbut Media increased its third quarter net revenue thanks to the continued ------ of sales in China and Japan.",
+      "options": [
+        "assets",
+        "expansion",
+        "decline",
+        "commission"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 567,
+      "printedNumber": 567,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "L",
+      "question": "OneTeam's board of directors hopes to ------ the institution with a partner that shares similar values.",
+      "options": [
+        "embark",
+        "recruit",
+        "affiliate",
+        "adopt"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 568,
+      "printedNumber": 568,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "R",
+      "question": "The sales contract ------ indicates that some photo files may be used for commercial purposes.",
+      "options": [
+        "recently",
+        "exactly",
+        "clearly",
+        "promptly"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 569,
+      "printedNumber": 569,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "L",
+      "question": "Global thought leaders will discuss and ------ a range of issues in this seminar.",
+      "options": [
+        "memorize",
+        "debate",
+        "invent",
+        "remain"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 570,
+      "printedNumber": 570,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 39,
+      "sourceColumn": "R",
+      "question": "If approved by the board of directors, the ------ of Public Steel to Detroit will probably occur in October.",
+      "options": [
+        "depletion",
+        "precaution",
+        "compensation",
+        "relocation"
+      ],
+      "answerKeyRaw": "D",
+      "answer": "D",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 571,
+      "printedNumber": 571,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "L",
+      "question": "This company offers ------ webinars available everywhere with a high-speed Internet connection.",
+      "options": [
+        "i nteractive",
+        "fruitful",
+        "o bjective",
+        "a mbiguous"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 572,
+      "printedNumber": 572,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "R",
+      "question": "Sales of the new cold medicine will be ------ by the Food and Drug Administration until more tests are completed.",
+      "options": [
+        "expired",
+        "delivered",
+        "involved",
+        "suspended"
+      ],
+      "answerKeyRaw": "D",
+      "answer": "D",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 573,
+      "printedNumber": 573,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "L",
+      "question": "The municipal gallery is ------ closed for refurbishment and is due to reopen in September next year.",
+      "options": [
+        "presently",
+        "quickly",
+        "permanently",
+        "shortly"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 574,
+      "printedNumber": 574,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "R",
+      "question": "The Federal Reserve Bank's decision on another rate cut implies its ------ to boost the economy by encouraging corporate investment.",
+      "options": [
+        "claim",
+        "intent",
+        "approval",
+        "acquisition"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 575,
+      "printedNumber": 575,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "L",
+      "question": "The job comes with several significant ------ including health insurance and three weeks of paid leave.",
+      "options": [
+        "f ormat",
+        "benefits",
+        "token",
+        "pension"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 576,
+      "printedNumber": 576,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "R",
+      "question": "Last month, Mandoo Tech debuted a new ------ size of the computers most people use, making it the smallest computer on the market.",
+      "options": [
+        "estimated",
+        "compact",
+        "excessive",
+        "unsustainable"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 577,
+      "printedNumber": 577,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "L",
+      "question": "M y supervisor always encourages employees to set ------ targets.",
+      "options": [
+        "m anagerial",
+        "m arginal",
+        "massive",
+        "m ute"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 578,
+      "printedNumber": 578,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "R",
+      "question": "The central bank's monetary policy committee voted ------ to leave the standard interest rate unchanged.",
+      "options": [
+        "singly",
+        "unanimously",
+        "annually",
+        "exactly"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 579,
+      "printedNumber": 579,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "L",
+      "question": "Blueline Insurance will immediately cover the cost of repairing clients' automobiles if ------ amount to less than $1,000.",
+      "options": [
+        "experiments",
+        "accidents",
+        "damages",
+        "facilities"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 580,
+      "printedNumber": 580,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 40,
+      "sourceColumn": "R",
+      "question": "One of the greatest ------ of the social network system is that it offers you instant access to the databases.",
+      "options": [
+        "e xcursion",
+        "flaws",
+        "favors",
+        "advantages"
+      ],
+      "answerKeyRaw": "D",
+      "answer": "D",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 581,
+      "printedNumber": 581,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "L",
+      "question": "New cycling safety regulations have just been ------ by the Ministry of Transportation.",
+      "options": [
+        "constructed",
+        "engaged",
+        "enacted",
+        "measured"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 582,
+      "printedNumber": 582,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "R",
+      "question": "A discount coupon is a kind of ticket or document that can be ------ for a financial discount or rebate.",
+      "options": [
+        "refunded",
+        "exchanged",
+        "purchased",
+        "subtracted"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 583,
+      "printedNumber": 583,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "L",
+      "question": "Some stock brokerage companies have been reducing fees for stock trading in order to ------ new customers.",
+      "options": [
+        "provide",
+        "attract",
+        "discover",
+        "exclude"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 584,
+      "printedNumber": 584,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "R",
+      "question": "The recent survey carried out by the Labor Ministry ------ that the average person spends 90,000 hours at work during his or her lifetime.",
+      "options": [
+        "perform",
+        "impress",
+        "described",
+        "expressed"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 585,
+      "printedNumber": 585,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "L",
+      "question": "A ------ of the proceeds will be donated to local charity organizations to help homeless and hungry New Yorkers. ( C ) section",
+      "options": [
+        "rate",
+        "fund",
+        "",
+        "portion"
+      ],
+      "answerKeyRaw": "D",
+      "answer": "D",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": [
+        "原 PDF 的 C 選項文字為空白"
+      ]
+    },
+    {
+      "id": 586,
+      "printedNumber": 586,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "R",
+      "question": "This new approach will ------ reduce the size and complexity of the library and decrease the number of librarians. ( C ) lately",
+      "options": [
+        "virtually",
+        "hardly",
+        "",
+        "significantly"
+      ],
+      "answerKeyRaw": "D",
+      "answer": "D",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": [
+        "原 PDF 的 C 選項文字為空白"
+      ]
+    },
+    {
+      "id": 587,
+      "printedNumber": 587,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "L",
+      "question": "Any customer who makes a(n) ------ payment must pay the remaining balance plus a $5 late charge the next month.",
+      "options": [
+        "partial",
+        "immediate",
+        "total",
+        "equal"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 588,
+      "printedNumber": 588,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "R",
+      "question": "Most of the asse mbly line workers finally ------ the plant relocation plan after the company promised them job security and medical benefits.",
+      "options": [
+        "agreed",
+        "made",
+        "endorsed",
+        "appealed"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 589,
+      "printedNumber": 589,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "L",
+      "question": "If you are ------ to keep your scheduled dental appointment, please notify us at least two days in advance.",
+      "options": [
+        "impossible",
+        "absent",
+        "unable",
+        "ready"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 590,
+      "printedNumber": 590,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 41,
+      "sourceColumn": "R",
+      "question": "Highly advanced medical technologies can help surgeons conduct delicate surgeries more ------.",
+      "options": [
+        "urgently",
+        "literally",
+        "precisely",
+        "seriously"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 591,
+      "printedNumber": 591,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "L",
+      "question": "Providing a toll-free number for its customers, the company will get more orders and calls for ------ information on its products.",
+      "options": [
+        "potential",
+        "confidential",
+        "artificial",
+        "progressive"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 592,
+      "printedNumber": 592,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "R",
+      "question": "These savings points are ------ for discounted meals and merchandise from the Maxie Department Store.",
+      "options": [
+        "calculative",
+        "redeemable",
+        "dependable",
+        "transferable"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 593,
+      "printedNumber": 593,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "L",
+      "question": "The new laundry detergent products have been ------ tested by our researchers, so they are perfectly safe for customers to use.",
+      "options": [
+        "hardly",
+        "thoroughly",
+        "exceptionally",
+        "equally"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 594,
+      "printedNumber": 594,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "R",
+      "question": "In appreciation of your ------, we would like to offer you a 20% discount coupon you can use for any online or in-store purchase.",
+      "options": [
+        "eligibility",
+        "efforts",
+        "refund",
+        "patronage"
+      ],
+      "answerKeyRaw": "D",
+      "answer": "D",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 595,
+      "printedNumber": 595,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "L",
+      "question": "This typeof heater is a good choice for the quick heating of enclosed spaces. However, it should not be lef t ------.",
+      "options": [
+        "unused",
+        "unorganized",
+        "unattended",
+        "unexpected"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 596,
+      "printedNumber": 596,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "R",
+      "question": "Every A&Z Apparel physical stores across the country offers an extra 40% discount off all markdowns, ------ on Black Friday.",
+      "options": [
+        "exclusive",
+        "prominent",
+        "complimentary",
+        "deficient"
+      ],
+      "answerKeyRaw": "A",
+      "answer": "A",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 597,
+      "printedNumber": 597,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "L",
+      "question": "Attendees may ------ their complimentary tickets to the movie premiere of Cornerstoni by visiting any World Pass outlet or picking them up at the box office.",
+      "options": [
+        "charge",
+        "claim",
+        "offer",
+        "vacate"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 598,
+      "printedNumber": 598,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "R",
+      "question": "The computers used by the graphics replaced team have been ------ with new ones that are capable of running the latest photo-editing software.",
+      "options": [
+        "inspected",
+        "rejected",
+        "replaced",
+        "ticket"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 599,
+      "printedNumber": 599,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "L",
+      "question": "Last Friday, the city council ------ accepted a proposal to construct a new community athletics center in the Maple Ridge area.",
+      "options": [
+        "intermittently",
+        "formally",
+        "customarily",
+        "externally"
+      ],
+      "answerKeyRaw": "B",
+      "answer": "B",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    },
+    {
+      "id": 600,
+      "printedNumber": 600,
+      "sourceFile": "3.字彙與搭配詞(3).pdf",
+      "sourcePage": 42,
+      "sourceColumn": "R",
+      "question": "The markets in the Trastevere area of Rome are popular due to their ------ to several famous landmarks and historic sites.",
+      "options": [
+        "immediacy",
+        "availability",
+        "proximity",
+        "vacancy"
+      ],
+      "answerKeyRaw": "C",
+      "answer": "C",
+      "answerSource": "source",
+      "answerConfidence": "source",
+      "answerNote": null,
+      "sourceIssues": []
+    }
+  ]
+}
