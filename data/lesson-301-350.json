@@ -1,0 +1,3426 @@
+{
+  "301": {
+    "translation": "德國這家酒莊受到遠道而來的遊客許多讚譽。",
+    "skeleton": [
+      "The winery｜主句",
+      "in Germany has earned tons of accolades by tourists traveling very far from here.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "earn accolades＝獲得讚譽；by tourists 補充讚譽來源。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "accolades",
+        "pos": "依句意",
+        "meaning": "讚譽",
+        "usage": "earn accolades＝獲得讚譽"
+      },
+      {
+        "term": "earn accolades",
+        "pos": "片語",
+        "meaning": "獲得讚譽",
+        "usage": "earn accolades＝獲得讚譽"
+      },
+      {
+        "term": "travel from afar",
+        "pos": "片語",
+        "meaning": "遠道而來",
+        "usage": "travel from afar＝遠道而來"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "evaluations",
+        "meaning": "評估",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "accolades",
+        "meaning": "讚譽",
+        "usage": "earn accolades＝獲得讚譽"
+      },
+      {
+        "label": "C",
+        "term": "functions",
+        "meaning": "功能",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "descriptions",
+        "meaning": "描述",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "earn accolades＝獲得讚譽",
+      "travel from afar＝遠道而來"
+    ],
+    "example": {
+      "en": "The winery in Germany has earned tons of accolades by tourists traveling very far from here.",
+      "zh": "德國這家酒莊受到遠道而來的遊客許多讚譽。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "302": {
+    "translation": "心懷不滿的員工像一顆不定時炸彈，可能嚴重危害工作環境。",
+    "skeleton": [
+      "A(n) disgruntled employee is like a loose cannon,｜主要結構",
+      "and can be quite detrimental to the work setting.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "disgruntled 修飾 employee；be detrimental to＝對……有害。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "disgruntled",
+        "pos": "依句意",
+        "meaning": "不滿的",
+        "usage": "disgruntled employee＝不滿的員工"
+      },
+      {
+        "term": "disgruntled employee",
+        "pos": "片語",
+        "meaning": "不滿的員工",
+        "usage": "disgruntled employee＝不滿的員工"
+      },
+      {
+        "term": "loose cannon",
+        "pos": "片語",
+        "meaning": "難以預測的人",
+        "usage": "loose cannon＝難以預測的人"
+      },
+      {
+        "term": "detrimental to",
+        "pos": "片語",
+        "meaning": "有害於",
+        "usage": "detrimental to＝有害於"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "inconsistent",
+        "meaning": "不一致的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "incremental",
+        "meaning": "漸增的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "disgruntled",
+        "meaning": "不滿的",
+        "usage": "disgruntled employee＝不滿的員工"
+      },
+      {
+        "label": "D",
+        "term": "marketable",
+        "meaning": "有市場價值的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "disgruntled employee＝不滿的員工",
+      "loose cannon＝難以預測的人",
+      "detrimental to＝有害於"
+    ],
+    "example": {
+      "en": "A(n) disgruntled employee is like a loose cannon, and can be quite detrimental to the work setting.",
+      "zh": "心懷不滿的員工像一顆不定時炸彈，可能嚴重危害工作環境。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "303": {
+    "translation": "為鼓勵使用可重複利用的購物袋，幾家百貨公司在節日期間額外給使用者一成折扣。",
+    "skeleton": [
+      "To encourage the use of the reusable shopping bag,｜主要結構",
+      "several department stores are rewarding consumers using it during the festival with an additional 10% discount.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "reusable 是形容詞；to encourage 是目的不定詞。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "reusable",
+        "pos": "依句意",
+        "meaning": "可重複利用的",
+        "usage": "reusable shopping bag＝環保購物袋"
+      },
+      {
+        "term": "reusable shopping bag",
+        "pos": "片語",
+        "meaning": "環保購物袋",
+        "usage": "reusable shopping bag＝環保購物袋"
+      },
+      {
+        "term": "additional discount",
+        "pos": "片語",
+        "meaning": "額外折扣",
+        "usage": "additional discount＝額外折扣"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "persuasive",
+        "meaning": "有說服力的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "extravagant",
+        "meaning": "奢華的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "reusable",
+        "meaning": "可重複利用的",
+        "usage": "reusable shopping bag＝環保購物袋"
+      },
+      {
+        "label": "D",
+        "term": "dominant",
+        "meaning": "支配性的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "reusable shopping bag＝環保購物袋",
+      "additional discount＝額外折扣"
+    ],
+    "example": {
+      "en": "To encourage the use of the reusable shopping bag, several department stores are rewarding consumers using it during the festival with an additional 10% discount.",
+      "zh": "為鼓勵使用可重複利用的購物袋，幾家百貨公司在節日期間額外給使用者一成折扣。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "304": {
+    "translation": "遊客不足加上消費者購物習慣大幅改變，造成零售商營收顯著下降。",
+    "skeleton": [
+      "Both insufficient tourists visiting｜主句",
+      "in the areas and a significant change in consumer shopping habits have contributed to the significant drop in retailers' revenues.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "both A and B 作並列主詞；contribute to + N＝導致。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "revenues",
+        "pos": "依句意",
+        "meaning": "營收",
+        "usage": "retail revenues＝零售營收"
+      },
+      {
+        "term": "retail revenues",
+        "pos": "片語",
+        "meaning": "零售營收",
+        "usage": "retail revenues＝零售營收"
+      },
+      {
+        "term": "contribute to",
+        "pos": "片語",
+        "meaning": "導致",
+        "usage": "contribute to＝導致"
+      },
+      {
+        "term": "significant drop",
+        "pos": "片語",
+        "meaning": "明顯下降",
+        "usage": "significant drop＝明顯下降"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "interpretations",
+        "meaning": "詮釋",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "revenues",
+        "meaning": "營收",
+        "usage": "retail revenues＝零售營收"
+      },
+      {
+        "label": "C",
+        "term": "calculations",
+        "meaning": "計算",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "evaluations",
+        "meaning": "評估",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "retail revenues＝零售營收",
+      "contribute to＝導致",
+      "significant drop＝明顯下降"
+    ],
+    "example": {
+      "en": "Both insufficient tourists visiting in the areas and a significant change in consumer shopping habits have contributed to the significant drop in retailers' revenues.",
+      "zh": "遊客不足加上消費者購物習慣大幅改變，造成零售商營收顯著下降。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "305": {
+    "translation": "座落於隱密村莊的 Bestro Farm 可能符合人們對典型避世度假地的想像。",
+    "skeleton": [
+      "Situated in a secluded village where honey bees come to gather the honey near the river bank,｜主要結構",
+      "B estro Farm may be people's image of a stereotypical retreat.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "people's image of＝人們心目中……的樣子；situated in 為分詞修飾。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "image",
+        "pos": "依句意",
+        "meaning": "形象；印象",
+        "usage": "secluded village＝隱密村落"
+      },
+      {
+        "term": "secluded village",
+        "pos": "片語",
+        "meaning": "隱密村落",
+        "usage": "secluded village＝隱密村落"
+      },
+      {
+        "term": "stereotypical retreat",
+        "pos": "片語",
+        "meaning": "典型隱居處",
+        "usage": "stereotypical retreat＝典型隱居處"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "image",
+        "meaning": "形象；印象",
+        "usage": "secluded village＝隱密村落"
+      },
+      {
+        "label": "B",
+        "term": "disagreement",
+        "meaning": "意見不同",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "investment",
+        "meaning": "投資",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "appreciation",
+        "meaning": "欣賞",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "secluded village＝隱密村落",
+      "stereotypical retreat＝典型隱居處"
+    ],
+    "example": {
+      "en": "Situated in a secluded village where honey bees come to gather the honey near the river bank, B estro Farm may be people's image of a stereotypical retreat.",
+      "zh": "座落於隱密村莊的 Bestro Farm 可能符合人們對典型避世度假地的想像。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "306": {
+    "translation": "儘管 Best Consulting 的財務長以前多次買進股票，他仍無法確定此一投資是否真能帶來可觀利潤。",
+    "skeleton": [
+      "Despite the fact｜主要結構",
+      "that the CFO of the Best Consulting firm has done numerous buy-ins of the stocks｜子句／修飾或轉折",
+      "before,｜子句／修飾或轉折",
+      "he still cannot say for sure whether the bet can truly generate hefty profits.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "generate hefty profits＝創造鉅額利潤；despite + 名詞子句結構 despite the fact that。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "profits",
+        "pos": "依句意",
+        "meaning": "利潤",
+        "usage": "hefty profits＝豐厚利潤"
+      },
+      {
+        "term": "hefty profits",
+        "pos": "片語",
+        "meaning": "豐厚利潤",
+        "usage": "hefty profits＝豐厚利潤"
+      },
+      {
+        "term": "generate profits",
+        "pos": "片語",
+        "meaning": "創造利潤",
+        "usage": "generate profits＝創造利潤"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "results",
+        "meaning": "結果",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "fluctuations",
+        "meaning": "波動",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "evaluations",
+        "meaning": "評估",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "profits",
+        "meaning": "利潤",
+        "usage": "hefty profits＝豐厚利潤"
+      }
+    ],
+    "collocations": [
+      "hefty profits＝豐厚利潤",
+      "generate profits＝創造利潤"
+    ],
+    "example": {
+      "en": "Despite the fact that the CFO of the Best Consulting firm has done numerous buy-ins of the stocks before, he still cannot say for sure whether the bet can truly generate hefty profits.",
+      "zh": "儘管 Best Consulting 的財務長以前多次買進股票，他仍無法確定此一投資是否真能帶來可觀利潤。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "307": {
+    "translation": "Bessie Cinema 透過削價，終於能勝過其他影業公司，並獲得與名人合作的機會。",
+    "skeleton": [
+      "By undercutting the prices,｜主要結構",
+      "Bessie Cinema is finally able to outcompete other movie studios and gets the chance to work with several celebrities.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "by + V-ing 表方式；undercut prices 為削價競爭。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "undercutting",
+        "pos": "依句意",
+        "meaning": "低價競爭；削價",
+        "usage": "undercut prices＝削價競爭"
+      },
+      {
+        "term": "undercut prices",
+        "pos": "片語",
+        "meaning": "削價競爭",
+        "usage": "undercut prices＝削價競爭"
+      },
+      {
+        "term": "outcompete rivals",
+        "pos": "片語",
+        "meaning": "勝過競爭者",
+        "usage": "outcompete rivals＝勝過競爭者"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "refueling",
+        "meaning": "補充燃料",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "undercutting",
+        "meaning": "低價競爭；削價",
+        "usage": "undercut prices＝削價競爭"
+      },
+      {
+        "label": "C",
+        "term": "heightening",
+        "meaning": "提高",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "continuing",
+        "meaning": "繼續",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "undercut prices＝削價競爭",
+      "outcompete rivals＝勝過競爭者"
+    ],
+    "example": {
+      "en": "By undercutting the prices, Bessie Cinema is finally able to outcompete other movie studios and gets the chance to work with several celebrities.",
+      "zh": "Bessie Cinema 透過削價，終於能勝過其他影業公司，並獲得與名人合作的機會。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "308": {
+    "translation": "貨架雜亂可能對走進來的任何人或參觀倉庫的客戶造成負面影響。",
+    "skeleton": [
+      "Disorganization｜主句",
+      "on the shelves can be a downside for anyone walking in or clients visiting the warehouse.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "disorganization 為不可數名詞，可作主詞；downside＝缺點。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "Disorganization",
+        "pos": "依句意",
+        "meaning": "雜亂無章",
+        "usage": "disorganization on shelves＝貨架凌亂"
+      },
+      {
+        "term": "disorganization on shelves",
+        "pos": "片語",
+        "meaning": "貨架凌亂",
+        "usage": "disorganization on shelves＝貨架凌亂"
+      },
+      {
+        "term": "be a downside",
+        "pos": "片語",
+        "meaning": "成為缺點",
+        "usage": "be a downside＝成為缺點"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "Disorganization",
+        "meaning": "雜亂無章",
+        "usage": "disorganization on shelves＝貨架凌亂"
+      },
+      {
+        "label": "B",
+        "term": "Reason",
+        "meaning": "理由",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "Priority",
+        "meaning": "優先事項",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "Sustainability",
+        "meaning": "永續性",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "disorganization on shelves＝貨架凌亂",
+      "be a downside＝成為缺點"
+    ],
+    "example": {
+      "en": "Disorganization on the shelves can be a downside for anyone walking in or clients visiting the warehouse.",
+      "zh": "貨架雜亂可能對走進來的任何人或參觀倉庫的客戶造成負面影響。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "309": {
+    "translation": "USAA 銀行信用卡福利豐富、月費方案多，因此廣受學生和商務人士接受。",
+    "skeleton": [
+      "With various lucrative benefits and monthly fees,｜主要結構",
+      "credit cards of Usaa Bank are widely acceptable among students and businessmen.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "be acceptable among＝受到某群體接受；widely 為副詞。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "acceptable",
+        "pos": "依句意",
+        "meaning": "可接受的",
+        "usage": "widely acceptable＝廣受接受"
+      },
+      {
+        "term": "widely acceptable",
+        "pos": "片語",
+        "meaning": "廣受接受",
+        "usage": "widely acceptable＝廣受接受"
+      },
+      {
+        "term": "lucrative benefits",
+        "pos": "片語",
+        "meaning": "豐厚福利",
+        "usage": "lucrative benefits＝豐厚福利"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "extensive",
+        "meaning": "廣泛的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "acceptable",
+        "meaning": "可接受的",
+        "usage": "widely acceptable＝廣受接受"
+      },
+      {
+        "label": "C",
+        "term": "expensive",
+        "meaning": "昂貴的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "unfavorable",
+        "meaning": "不利的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "widely acceptable＝廣受接受",
+      "lucrative benefits＝豐厚福利"
+    ],
+    "example": {
+      "en": "With various lucrative benefits and monthly fees, credit cards of Usaa Bank are widely acceptable among students and businessmen.",
+      "zh": "USAA 銀行信用卡福利豐富、月費方案多，因此廣受學生和商務人士接受。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "310": {
+    "translation": "該地區土地閒置顯示獲利潛力不高，因此買家通常心存疑慮並另尋地點。",
+    "skeleton": [
+      "The dormancy in the area is a sign｜主要結構",
+      "that the land cannot be too profitable,｜子句／修飾或轉折",
+      "so buyers usually have doubts and look other places.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "dormancy 是名詞，作主詞；a sign that 引導同位語內容。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "dormancy",
+        "pos": "依句意",
+        "meaning": "休眠；閒置",
+        "usage": "land dormancy＝土地閒置"
+      },
+      {
+        "term": "land dormancy",
+        "pos": "片語",
+        "meaning": "土地閒置",
+        "usage": "land dormancy＝土地閒置"
+      },
+      {
+        "term": "look elsewhere",
+        "pos": "片語",
+        "meaning": "另尋他處",
+        "usage": "look elsewhere＝另尋他處"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "slimness",
+        "meaning": "苗條",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "dormancy",
+        "meaning": "休眠；閒置",
+        "usage": "land dormancy＝土地閒置"
+      },
+      {
+        "label": "C",
+        "term": "productivity",
+        "meaning": "生產力",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "appropriation",
+        "meaning": "撥款",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "land dormancy＝土地閒置",
+      "look elsewhere＝另尋他處"
+    ],
+    "example": {
+      "en": "The dormancy in the area is a sign that the land cannot be too profitable, so buyers usually have doubts and look other places.",
+      "zh": "該地區土地閒置顯示獲利潛力不高，因此買家通常心存疑慮並另尋地點。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "311": {
+    "translation": "求職者在會議室外等待時，能感受到相同的競爭氛圍。",
+    "skeleton": [
+      "Job seekers can feel the same sense of rivalry｜主要結構",
+      "when they are waiting outside the conference room.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "the same + 名詞＝相同的；答案雖為 same，但 the same sense 表述稍顯累贅。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "same",
+        "pos": "依句意",
+        "meaning": "相同的",
+        "usage": "sense of rivalry＝競爭感"
+      },
+      {
+        "term": "sense of rivalry",
+        "pos": "片語",
+        "meaning": "競爭感",
+        "usage": "sense of rivalry＝競爭感"
+      },
+      {
+        "term": "wait outside",
+        "pos": "片語",
+        "meaning": "在外等待",
+        "usage": "wait outside＝在外等待"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "similarity",
+        "meaning": "相似性",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "difference",
+        "meaning": "差異",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "same",
+        "meaning": "相同的",
+        "usage": "sense of rivalry＝競爭感"
+      },
+      {
+        "label": "D",
+        "term": "various",
+        "meaning": "各式各樣的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "sense of rivalry＝競爭感",
+      "wait outside＝在外等待"
+    ],
+    "example": {
+      "en": "Job seekers can feel the same sense of rivalry when they are waiting outside the conference room.",
+      "zh": "求職者在會議室外等待時，能感受到相同的競爭氛圍。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "312": {
+    "translation": "安全降落國際航班並不像表面那麼容易，因為降落過程還有其他不可控因素。",
+    "skeleton": [
+      "Landing an international flight safely is not as easy as it seems｜主要結構",
+      "because there are other uncontrollable factors during the landing.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "uncontrollable 修飾 factors；not as ... as＝不如……。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "uncontrollable",
+        "pos": "依句意",
+        "meaning": "無法控制的",
+        "usage": "uncontrollable factors＝不可控因素"
+      },
+      {
+        "term": "uncontrollable factors",
+        "pos": "片語",
+        "meaning": "不可控因素",
+        "usage": "uncontrollable factors＝不可控因素"
+      },
+      {
+        "term": "not as easy as",
+        "pos": "片語",
+        "meaning": "不如……容易",
+        "usage": "not as easy as＝不如……容易"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "operative",
+        "meaning": "運作的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "manipulative",
+        "meaning": "操控性的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "uncontrollable",
+        "meaning": "無法控制的",
+        "usage": "uncontrollable factors＝不可控因素"
+      },
+      {
+        "label": "D",
+        "term": "manageable",
+        "meaning": "可管理的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "uncontrollable factors＝不可控因素",
+      "not as easy as＝不如……容易"
+    ],
+    "example": {
+      "en": "Landing an international flight safely is not as easy as it seems because there are other uncontrollable factors during the landing.",
+      "zh": "安全降落國際航班並不像表面那麼容易，因為降落過程還有其他不可控因素。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "313": {
+    "translation": "要在酷熱沙漠中輕鬆駕駛，需要多年練習與耐心。",
+    "skeleton": [
+      "To drive effortlessly in the sweltering hot desert,｜主要結構",
+      "one needs to take years of practice and patience to eventually do｜子句／修飾或轉折",
+      "that.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "drive 為動詞，要用副詞 effortlessly 修飾；to drive... 作主詞目的片語。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "effortlessly",
+        "pos": "依句意",
+        "meaning": "毫不費力地",
+        "usage": "drive effortlessly＝輕鬆駕駛"
+      },
+      {
+        "term": "drive effortlessly",
+        "pos": "片語",
+        "meaning": "輕鬆駕駛",
+        "usage": "drive effortlessly＝輕鬆駕駛"
+      },
+      {
+        "term": "sweltering hot",
+        "pos": "片語",
+        "meaning": "酷熱的",
+        "usage": "sweltering hot＝酷熱的"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "effortlessly",
+        "meaning": "毫不費力地",
+        "usage": "drive effortlessly＝輕鬆駕駛"
+      },
+      {
+        "label": "B",
+        "term": "remarkably",
+        "meaning": "顯著地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "difficulty",
+        "meaning": "困難；名詞",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "emotionally",
+        "meaning": "情緒上地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "drive effortlessly＝輕鬆駕駛",
+      "sweltering hot＝酷熱的"
+    ],
+    "example": {
+      "en": "To drive effortlessly in the sweltering hot desert, one needs to take years of practice and patience to eventually do that.",
+      "zh": "要在酷熱沙漠中輕鬆駕駛，需要多年練習與耐心。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "314": {
+    "translation": "執行長很想知道這名候選人能否在壓力下做好工作，尤其面對艱難挑戰時。",
+    "skeleton": [
+      "The CEO really wants to know whether the candidate is able to do the work well under pressure,｜主要結構",
+      "especially in the face of tough challenges.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "tough 修飾 challenges；under pressure＝在壓力下。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "tough",
+        "pos": "依句意",
+        "meaning": "艱難的",
+        "usage": "tough challenges＝艱難挑戰"
+      },
+      {
+        "term": "tough challenges",
+        "pos": "片語",
+        "meaning": "艱難挑戰",
+        "usage": "tough challenges＝艱難挑戰"
+      },
+      {
+        "term": "work under pressure",
+        "pos": "片語",
+        "meaning": "在壓力下工作",
+        "usage": "work under pressure＝在壓力下工作"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "uncorrelated",
+        "meaning": "無關的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "laudable",
+        "meaning": "值得稱讚的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "tough",
+        "meaning": "艱難的",
+        "usage": "tough challenges＝艱難挑戰"
+      },
+      {
+        "label": "D",
+        "term": "credulous",
+        "meaning": "輕信的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "tough challenges＝艱難挑戰",
+      "work under pressure＝在壓力下工作"
+    ],
+    "example": {
+      "en": "The CEO really wants to know whether the candidate is able to do the work well under pressure, especially in the face of tough challenges.",
+      "zh": "執行長很想知道這名候選人能否在壓力下做好工作，尤其面對艱難挑戰時。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "315": {
+    "translation": "令人驚訝的是，曾經獲利的軟體公司今年取消了整個業務部的獎金。",
+    "skeleton": [
+      "To our amazement,｜主要結構",
+      "the once profitable software company is foregoing bonuses for the entire sales department this year.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "forgo bonuses＝放棄／不發獎金；is foregoing 為現在進行式。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "foregoing",
+        "pos": "依句意",
+        "meaning": "放棄；不給",
+        "usage": "forgo bonuses＝取消獎金"
+      },
+      {
+        "term": "forgo bonuses",
+        "pos": "片語",
+        "meaning": "取消獎金",
+        "usage": "forgo bonuses＝取消獎金"
+      },
+      {
+        "term": "to our amazement",
+        "pos": "片語",
+        "meaning": "令我們驚訝",
+        "usage": "to our amazement＝令我們驚訝"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "showcasing",
+        "meaning": "展示",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "sustaining",
+        "meaning": "維持",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "foregoing",
+        "meaning": "放棄；不給",
+        "usage": "forgo bonuses＝取消獎金"
+      },
+      {
+        "label": "D",
+        "term": "integrating",
+        "meaning": "整合",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "forgo bonuses＝取消獎金",
+      "to our amazement＝令我們驚訝"
+    ],
+    "example": {
+      "en": "To our amazement, the once profitable software company is foregoing bonuses for the entire sales department this year.",
+      "zh": "令人驚訝的是，曾經獲利的軟體公司今年取消了整個業務部的獎金。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "316": {
+    "translation": "弱連結可能替求職者帶來好運，因為這讓你認識共同朋友圈之外的人。",
+    "skeleton": [
+      "Weak ties can be the luck for someone who is looking for the job｜主要結構",
+      "because they kn ow someone outside your mutual friend circles.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "mutual friend circles＝共同朋友圈；outside 為介系詞。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "mutual",
+        "pos": "依句意",
+        "meaning": "共同的",
+        "usage": "mutual friends＝共同朋友"
+      },
+      {
+        "term": "mutual friends",
+        "pos": "片語",
+        "meaning": "共同朋友",
+        "usage": "mutual friends＝共同朋友"
+      },
+      {
+        "term": "weak ties",
+        "pos": "片語",
+        "meaning": "弱連結",
+        "usage": "weak ties＝弱連結"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "meticulous",
+        "meaning": "一絲不苟的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "knowledgeable",
+        "meaning": "知識豐富的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "unilateral",
+        "meaning": "單方面的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "mutual",
+        "meaning": "共同的",
+        "usage": "mutual friends＝共同朋友"
+      }
+    ],
+    "collocations": [
+      "mutual friends＝共同朋友",
+      "weak ties＝弱連結"
+    ],
+    "example": {
+      "en": "Weak ties can be the luck for someone who is looking for the job because they kn ow someone outside your mutual friend circles.",
+      "zh": "弱連結可能替求職者帶來好運，因為這讓你認識共同朋友圈之外的人。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "317": {
+    "translation": "F-East 手機公司正考慮推出幾款大學生和中低收入族群買得起、容易取得的產品。",
+    "skeleton": [
+      "F-East Cellphone is now considering to launch several products｜主要結構",
+      "that are accessible to college students and the lower middle class.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "accessible to + 人＝讓某人容易取得；consider + V-ing，原題 considering to launch 不自然。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "accessible",
+        "pos": "依句意",
+        "meaning": "可負擔；可取得的",
+        "usage": "accessible to＝可取得"
+      },
+      {
+        "term": "accessible to",
+        "pos": "片語",
+        "meaning": "可取得",
+        "usage": "accessible to＝可取得"
+      },
+      {
+        "term": "launch products",
+        "pos": "片語",
+        "meaning": "推出產品",
+        "usage": "launch products＝推出產品"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "accessible",
+        "meaning": "可負擔；可取得的",
+        "usage": "accessible to＝可取得"
+      },
+      {
+        "label": "B",
+        "term": "competitive",
+        "meaning": "有競爭力的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "eligible",
+        "meaning": "有資格的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "loopholes",
+        "meaning": "漏洞",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "accessible to＝可取得",
+      "launch products＝推出產品"
+    ],
+    "example": {
+      "en": "F-East Cellphone is now considering to launch several products that are accessible to college students and the lower middle class.",
+      "zh": "F-East 手機公司正考慮推出幾款大學生和中低收入族群買得起、容易取得的產品。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "318": {
+    "translation": "因競爭對手連串訴訟，公司士氣受損，員工不得不心不甘情不願出庭作證。",
+    "skeleton": [
+      "The company's morale has suffered due to a series of lawsuits by the rival,｜主要結構",
+      "and employees have to attend the court unwillingly to be the witnesses.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "attend ... unwillingly＝不情願出席；have to + V 表不得不。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "unwillingly",
+        "pos": "依句意",
+        "meaning": "不情願地",
+        "usage": "unwillingly attend＝不情願出席"
+      },
+      {
+        "term": "unwillingly attend",
+        "pos": "片語",
+        "meaning": "不情願出席",
+        "usage": "unwillingly attend＝不情願出席"
+      },
+      {
+        "term": "act as witnesses",
+        "pos": "片語",
+        "meaning": "作證",
+        "usage": "act as witnesses＝作證"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "effectively",
+        "meaning": "有效地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "individually",
+        "meaning": "個別地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "voluntarily",
+        "meaning": "自願地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "unwillingly",
+        "meaning": "不情願地",
+        "usage": "unwillingly attend＝不情願出席"
+      }
+    ],
+    "collocations": [
+      "unwillingly attend＝不情願出席",
+      "act as witnesses＝作證"
+    ],
+    "example": {
+      "en": "The company's morale has suffered due to a series of lawsuits by the rival, and employees have to attend the court unwillingly to be the witnesses.",
+      "zh": "因競爭對手連串訴訟，公司士氣受損，員工不得不心不甘情不願出庭作證。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "319": {
+    "translation": "這部電影的拍攝地點難以找到，因此導演和投資人同意延後開拍日期。",
+    "skeleton": [
+      "The locale for the film is harder to find,｜主要結構",
+      "so the director and investors have agreed to postpone the day of shooting.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "locale＝（特定事件）地點；agree to + V＝同意做。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "locale",
+        "pos": "依句意",
+        "meaning": "地點；場景",
+        "usage": "filming locale＝拍攝場地"
+      },
+      {
+        "term": "filming locale",
+        "pos": "片語",
+        "meaning": "拍攝場地",
+        "usage": "filming locale＝拍攝場地"
+      },
+      {
+        "term": "postpone shooting",
+        "pos": "片語",
+        "meaning": "延後拍攝",
+        "usage": "postpone shooting＝延後拍攝"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "investment",
+        "meaning": "投資",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "expenditure",
+        "meaning": "支出",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "landscape",
+        "meaning": "景觀",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "locale",
+        "meaning": "地點；場景",
+        "usage": "filming locale＝拍攝場地"
+      }
+    ],
+    "collocations": [
+      "filming locale＝拍攝場地",
+      "postpone shooting＝延後拍攝"
+    ],
+    "example": {
+      "en": "The locale for the film is harder to find, so the director and investors have agreed to postpone the day of shooting.",
+      "zh": "這部電影的拍攝地點難以找到，因此導演和投資人同意延後開拍日期。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "320": {
+    "translation": "受剛簽約演員醜聞影響，ABEX Music 的倉庫如今堆滿賣不掉的專輯。",
+    "skeleton": [
+      "Exacerbated｜主句",
+      "by the scandal of the actor (just signed a month ago) the warehouse of ABEX Music is now full of unsold music albums.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "exacerbated by 表使狀況惡化，但原題句首用法不完整／因果略不自然，宜改寫 The scandal exacerbated...。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "Exacerbated",
+        "pos": "依句意",
+        "meaning": "使惡化",
+        "usage": "exacerbate a problem＝使問題惡化"
+      },
+      {
+        "term": "exacerbate a problem",
+        "pos": "片語",
+        "meaning": "使問題惡化",
+        "usage": "exacerbate a problem＝使問題惡化"
+      },
+      {
+        "term": "unsold albums",
+        "pos": "片語",
+        "meaning": "滯銷專輯",
+        "usage": "unsold albums＝滯銷專輯"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "Accompanied",
+        "meaning": "陪同",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "Considered",
+        "meaning": "被視為",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "Distinguished",
+        "meaning": "被區分",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "Exacerbated",
+        "meaning": "使惡化",
+        "usage": "exacerbate a problem＝使問題惡化"
+      }
+    ],
+    "collocations": [
+      "exacerbate a problem＝使問題惡化",
+      "unsold albums＝滯銷專輯"
+    ],
+    "example": {
+      "en": "Exacerbated by the scandal of the actor (just signed a month ago) the warehouse of ABEX Music is now full of unsold music albums.",
+      "zh": "受剛簽約演員醜聞影響，ABEX Music 的倉庫如今堆滿賣不掉的專輯。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "321": {    "translation": "每售出一件遊戲商品，業務人員就可從老闆那獲得豐厚獎金，在當前經濟下相當難得。",
+    "skeleton": [
+      "For each unit marketed,｜主要結構",
+      "game salespeople will get a fantastic bonus from the boss,｜子句／修飾或轉折",
+      "a quite rare opportunity in this economy.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "a fantastic bonus＝豐厚獎金；for each + 單數名詞。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "bonus",
+        "pos": "依句意",
+        "meaning": "獎金",
+        "usage": "get a bonus＝拿獎金"
+      },
+      {
+        "term": "get a bonus",
+        "pos": "片語",
+        "meaning": "拿獎金",
+        "usage": "get a bonus＝拿獎金"
+      },
+      {
+        "term": "for each unit",
+        "pos": "片語",
+        "meaning": "每單位",
+        "usage": "for each unit＝每單位"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "resiliency",
+        "meaning": "韌性",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "bonus",
+        "meaning": "獎金",
+        "usage": "get a bonus＝拿獎金"
+      },
+      {
+        "label": "C",
+        "term": "profitability",
+        "meaning": "獲利能力",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "congratulation",
+        "meaning": "祝賀",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "get a bonus＝拿獎金",
+      "for each unit＝每單位"
+    ],
+    "example": {
+      "en": "For each unit marketed, game salespeople will get a fantastic bonus from the boss, a quite rare opportunity in this economy.",
+      "zh": "每售出一件遊戲商品，業務人員就可從老闆那獲得豐厚獎金，在當前經濟下相當難得。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "322": {
+    "translation": "新進員工應培養與同事及主管之間的良好關係。",
+    "skeleton": [
+      "It is advisable｜主句",
+      "for newly recruits to nurture the good relationships with their coworkers and superiors.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "nurture relationships＝培養關係；it is advisable for A to V 為形式主詞句。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "nurture",
+        "pos": "依句意",
+        "meaning": "培養",
+        "usage": "nurture relationships＝培養關係"
+      },
+      {
+        "term": "nurture relationships",
+        "pos": "片語",
+        "meaning": "培養關係",
+        "usage": "nurture relationships＝培養關係"
+      },
+      {
+        "term": "new recruits",
+        "pos": "片語",
+        "meaning": "新進員工",
+        "usage": "new recruits＝新進員工"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "allocate",
+        "meaning": "分配",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "defray",
+        "meaning": "支付；支應",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "nurture",
+        "meaning": "培養",
+        "usage": "nurture relationships＝培養關係"
+      },
+      {
+        "label": "D",
+        "term": "diffuse",
+        "meaning": "擴散",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "nurture relationships＝培養關係",
+      "new recruits＝新進員工"
+    ],
+    "example": {
+      "en": "It is advisable for newly recruits to nurture the good relationships with their coworkers and superiors.",
+      "zh": "新進員工應培養與同事及主管之間的良好關係。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "323": {
+    "translation": "財務長上週五突然辭職，讓老闆十分震驚；但這項辭呈隨後以公開信遭駁回。",
+    "skeleton": [
+      "The unexpected resignation of the CFO shocked the boss and his parrot last Friday,｜主要結構",
+      "and it was turned down in an open letter.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "resignation 是名詞；turn down＝拒絕；原題 it was turned down 指辭呈。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "resignation",
+        "pos": "依句意",
+        "meaning": "辭職",
+        "usage": "unexpected resignation＝突然請辭"
+      },
+      {
+        "term": "unexpected resignation",
+        "pos": "片語",
+        "meaning": "突然請辭",
+        "usage": "unexpected resignation＝突然請辭"
+      },
+      {
+        "term": "turn down",
+        "pos": "片語",
+        "meaning": "拒絕",
+        "usage": "turn down＝拒絕"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "investigation",
+        "meaning": "調查",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "confirmation",
+        "meaning": "確認",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "resignation",
+        "meaning": "辭職",
+        "usage": "unexpected resignation＝突然請辭"
+      },
+      {
+        "label": "D",
+        "term": "registration",
+        "meaning": "註冊",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "unexpected resignation＝突然請辭",
+      "turn down＝拒絕"
+    ],
+    "example": {
+      "en": "The unexpected resignation of the CFO shocked the boss and his parrot last Friday, and it was turned down in an open letter.",
+      "zh": "財務長上週五突然辭職，讓老闆十分震驚；但這項辭呈隨後以公開信遭駁回。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "324": {
+    "translation": "因標準化考試成績不佳，學生昨天威脅考務人員，要求偽造一份報告。",
+    "skeleton": [
+      "Unable to get a decent grade on the standardized test,｜主要結構",
+      "the student threatened the examiner of test reports to make a forgery yesterday.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "make a forgery＝製作偽造文件；threaten + 人 + to V 才是較自然結構，原題 threatened ... to make 有歧義。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "forgery",
+        "pos": "依句意",
+        "meaning": "偽造品；偽造",
+        "usage": "make a forgery＝偽造"
+      },
+      {
+        "term": "make a forgery",
+        "pos": "片語",
+        "meaning": "偽造",
+        "usage": "make a forgery＝偽造"
+      },
+      {
+        "term": "standardized test",
+        "pos": "片語",
+        "meaning": "標準化考試",
+        "usage": "standardized test＝標準化考試"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "note",
+        "meaning": "便條",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "signature",
+        "meaning": "簽名",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "forgery",
+        "meaning": "偽造品；偽造",
+        "usage": "make a forgery＝偽造"
+      },
+      {
+        "label": "D",
+        "term": "transaction",
+        "meaning": "交易",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "make a forgery＝偽造",
+      "standardized test＝標準化考試"
+    ],
+    "example": {
+      "en": "Unable to get a decent grade on the standardized test, the student threatened the examiner of test reports to make a forgery yesterday.",
+      "zh": "因標準化考試成績不佳，學生昨天威脅考務人員，要求偽造一份報告。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "325": {
+    "translation": "購物者對部落客的嘲諷評論耿耿於懷，因此決定取消訂閱某個頻道。",
+    "skeleton": [
+      "Shoppers cannot let go of the snide comments made by bloggers,｜主要結構",
+      "so they have made up their minds to unsubscribe a certain channel.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "unsubscribe from a channel＝取消訂閱；原題 unsubscribe a channel 少介系詞 from。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "unsubscribe",
+        "pos": "依句意",
+        "meaning": "取消訂閱",
+        "usage": "unsubscribe from＝取消訂閱"
+      },
+      {
+        "term": "unsubscribe from",
+        "pos": "片語",
+        "meaning": "取消訂閱",
+        "usage": "unsubscribe from＝取消訂閱"
+      },
+      {
+        "term": "make up one's mind",
+        "pos": "片語",
+        "meaning": "下定決心",
+        "usage": "make up one's mind＝下定決心"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "unauthorize",
+        "meaning": "未授權；不標準動詞",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "unsubscribe",
+        "meaning": "取消訂閱",
+        "usage": "unsubscribe from＝取消訂閱"
+      },
+      {
+        "label": "C",
+        "term": "describe",
+        "meaning": "描述",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "prescribe",
+        "meaning": "開處方",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "unsubscribe from＝取消訂閱",
+      "make up one's mind＝下定決心"
+    ],
+    "example": {
+      "en": "Shoppers cannot let go of the snide comments made by bloggers, so they have made up their minds to unsubscribe a certain channel.",
+      "zh": "購物者對部落客的嘲諷評論耿耿於懷，因此決定取消訂閱某個頻道。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "326": {
+    "translation": "電子設備使用不當所造成的維修費用非常高，有時幾乎等於購買新機的費用。",
+    "skeleton": [
+      "Repair costs resulting from improper use of the electronic equipment are tremendous,｜主要結構",
+      "and sometimes they can be close to buying a new one.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "repair costs＝維修成本；resulting from 為分詞修飾。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "Repair",
+        "pos": "依句意",
+        "meaning": "修理；維修",
+        "usage": "repair costs＝維修費"
+      },
+      {
+        "term": "repair costs",
+        "pos": "片語",
+        "meaning": "維修費",
+        "usage": "repair costs＝維修費"
+      },
+      {
+        "term": "improper use",
+        "pos": "片語",
+        "meaning": "不當使用",
+        "usage": "improper use＝不當使用"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "Permission",
+        "meaning": "許可",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "Delegation",
+        "meaning": "委派",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "Procedure",
+        "meaning": "程序",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "Repair",
+        "meaning": "修理；維修",
+        "usage": "repair costs＝維修費"
+      }
+    ],
+    "collocations": [
+      "repair costs＝維修費",
+      "improper use＝不當使用"
+    ],
+    "example": {
+      "en": "Repair costs resulting from improper use of the electronic equipment are tremendous, and sometimes they can be close to buying a new one.",
+      "zh": "電子設備使用不當所造成的維修費用非常高，有時幾乎等於購買新機的費用。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "327": {
+    "translation": "根據新的財產稅規定，多項費用如今可列為可扣抵支出，納稅人樂見此現象。",
+    "skeleton": [
+      "According to the new property tax,｜主要結構",
+      "multiple items are now considered deductible expenses,｜子句／修飾或轉折",
+      "a phenomenon｜子句／修飾或轉折",
+      "that taxpayers are willing to see.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "deductible expenses＝可扣抵支出；are considered... 被視為。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "deductible",
+        "pos": "依句意",
+        "meaning": "可扣除的",
+        "usage": "tax-deductible expenses＝可扣稅費用"
+      },
+      {
+        "term": "tax-deductible expenses",
+        "pos": "片語",
+        "meaning": "可扣稅費用",
+        "usage": "tax-deductible expenses＝可扣稅費用"
+      },
+      {
+        "term": "property tax",
+        "pos": "片語",
+        "meaning": "財產稅",
+        "usage": "property tax＝財產稅"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "important",
+        "meaning": "重要的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "deductible",
+        "meaning": "可扣除的",
+        "usage": "tax-deductible expenses＝可扣稅費用"
+      },
+      {
+        "label": "C",
+        "term": "expensive",
+        "meaning": "昂貴的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "luxurious",
+        "meaning": "奢侈的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "tax-deductible expenses＝可扣稅費用",
+      "property tax＝財產稅"
+    ],
+    "example": {
+      "en": "According to the new property tax, multiple items are now considered deductible expenses, a phenomenon that taxpayers are willing to see.",
+      "zh": "根據新的財產稅規定，多項費用如今可列為可扣抵支出，納稅人樂見此現象。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "328": {
+    "translation": "在豪華飯店的表演後，Gorgerous Cinema 在記者會宣布決定不續簽多名演員的合約。",
+    "skeleton": [
+      "After the performance at the luxurious hotel,｜主要結構",
+      "G orgerous Cinema made the decision of not renewing the contract of multiple actors in the press conference.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "renew a contract＝續約；decision of not V-ing 原題不自然，通常說 decision not to renew。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "renewing",
+        "pos": "依句意",
+        "meaning": "續約",
+        "usage": "renew contracts＝續約"
+      },
+      {
+        "term": "renew contracts",
+        "pos": "片語",
+        "meaning": "續約",
+        "usage": "renew contracts＝續約"
+      },
+      {
+        "term": "press conference",
+        "pos": "片語",
+        "meaning": "記者會",
+        "usage": "press conference＝記者會"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "proposing",
+        "meaning": "提議",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "renewing",
+        "meaning": "續約",
+        "usage": "renew contracts＝續約"
+      },
+      {
+        "label": "C",
+        "term": "retaining",
+        "meaning": "保留；留任",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "reproducing",
+        "meaning": "複製；繁殖",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "renew contracts＝續約",
+      "press conference＝記者會"
+    ],
+    "example": {
+      "en": "After the performance at the luxurious hotel, G orgerous Cinema made the decision of not renewing the contract of multiple actors in the press conference.",
+      "zh": "在豪華飯店的表演後，Gorgerous Cinema 在記者會宣布決定不續簽多名演員的合約。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "329": {
+    "translation": "據一位暢銷作家所說，履歷不過是清單，而清單缺乏吸引力，所以仍須培養人格特質等其他面向。",
+    "skeleton": [
+      "According to an author of the bestsellers,｜主要結構",
+      "\" resumes are just lists and lists are not compelling\",｜子句／修飾或轉折",
+      "so you still need to work on your personality and others.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "résumés 作可數名詞複數；lists are not compelling＝清單不吸引人。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "resumes",
+        "pos": "依句意",
+        "meaning": "履歷",
+        "usage": "write a résumé＝寫履歷"
+      },
+      {
+        "term": "write a résumé",
+        "pos": "片語",
+        "meaning": "寫履歷",
+        "usage": "write a résumé＝寫履歷"
+      },
+      {
+        "term": "compelling",
+        "pos": "片語",
+        "meaning": "引人入勝的",
+        "usage": "compelling＝引人入勝的"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "superstars",
+        "meaning": "超級巨星",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "resumes",
+        "meaning": "履歷",
+        "usage": "write a résumé＝寫履歷"
+      },
+      {
+        "label": "C",
+        "term": "economies",
+        "meaning": "經濟體",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "valuations",
+        "meaning": "估值",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "write a résumé＝寫履歷",
+      "compelling＝引人入勝的"
+    ],
+    "example": {
+      "en": "According to an author of the bestsellers, \" resumes are just lists and lists are not compelling\", so you still need to work on your personality and others.",
+      "zh": "據一位暢銷作家所說，履歷不過是清單，而清單缺乏吸引力，所以仍須培養人格特質等其他面向。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "330": {
+    "translation": "這位富有且知名的執行長保持謙虛，每年捐出數百萬美元，積極投入慈善活動。",
+    "skeleton": [
+      "The rich and renowned CEO remained modest and was e nthusiastic about charitable affairs｜主句",
+      "by donating millions of dollars each year.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "be enthusiastic about + N／V-ing＝熱衷於……。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "e nthusiastic",
+        "pos": "依句意",
+        "meaning": "熱衷的",
+        "usage": "enthusiastic about＝熱心於"
+      },
+      {
+        "term": "enthusiastic about",
+        "pos": "片語",
+        "meaning": "熱心於",
+        "usage": "enthusiastic about＝熱心於"
+      },
+      {
+        "term": "charitable affairs",
+        "pos": "片語",
+        "meaning": "慈善事務",
+        "usage": "charitable affairs＝慈善事務"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "v iolent",
+        "meaning": "暴力的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "i ndifferent",
+        "meaning": "漠不關心的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "p opular",
+        "meaning": "受歡迎的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "e nthusiastic",
+        "meaning": "熱衷的",
+        "usage": "enthusiastic about＝熱心於"
+      }
+    ],
+    "collocations": [
+      "enthusiastic about＝熱心於",
+      "charitable affairs＝慈善事務"
+    ],
+    "example": {
+      "en": "The rich and renowned CEO remained modest and was e nthusiastic about charitable affairs by donating millions of dollars each year.",
+      "zh": "這位富有且知名的執行長保持謙虛，每年捐出數百萬美元，積極投入慈善活動。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "331": {
+    "translation": "魔術師精彩絕倫的表演吸引觀眾目光，並贏得熱烈持久的掌聲。",
+    "skeleton": [
+      "31. The magician's marvelous performances attracted full attention｜主句",
+      "of the audience and won him long and loud applause.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "marvelous 修飾 performances；win applause＝贏得掌聲。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "marvelous",
+        "pos": "依句意",
+        "meaning": "精彩的",
+        "usage": "marvelous performance＝精彩演出"
+      },
+      {
+        "term": "marvelous performance",
+        "pos": "片語",
+        "meaning": "精彩演出",
+        "usage": "marvelous performance＝精彩演出"
+      },
+      {
+        "term": "win applause",
+        "pos": "片語",
+        "meaning": "贏得掌聲",
+        "usage": "win applause＝贏得掌聲"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "marvelous",
+        "meaning": "精彩的",
+        "usage": "marvelous performance＝精彩演出"
+      },
+      {
+        "label": "B",
+        "term": "exclusive",
+        "meaning": "專屬的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "reckless",
+        "meaning": "魯莽的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "feasible",
+        "meaning": "可行的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "marvelous performance＝精彩演出",
+      "win applause＝贏得掌聲"
+    ],
+    "example": {
+      "en": "31. The magician's marvelous performances attracted full attention of the audience and won him long and loud applause.",
+      "zh": "魔術師精彩絕倫的表演吸引觀眾目光，並贏得熱烈持久的掌聲。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "332": {
+    "translation": "隨著 3D 列印機成本下降，近年來三維列印技術已在多種產業領域普及。",
+    "skeleton": [
+      "32. Thanks to the decreased costs of 3D printers,｜主要結構",
+      "the technology of the three-dimensional printing has recently gained popularity among different fields of industry.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "gain popularity＝受到歡迎；has gained 是現在完成式。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "popularity",
+        "pos": "依句意",
+        "meaning": "普及度",
+        "usage": "gain popularity＝漸受歡迎"
+      },
+      {
+        "term": "gain popularity",
+        "pos": "片語",
+        "meaning": "漸受歡迎",
+        "usage": "gain popularity＝漸受歡迎"
+      },
+      {
+        "term": "three-dimensional printing",
+        "pos": "片語",
+        "meaning": "3D列印",
+        "usage": "three-dimensional printing＝3D列印"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "richness",
+        "meaning": "豐富",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "popularity",
+        "meaning": "普及度",
+        "usage": "gain popularity＝漸受歡迎"
+      },
+      {
+        "label": "C",
+        "term": "manipulation",
+        "meaning": "操弄",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "capability",
+        "meaning": "能力",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "gain popularity＝漸受歡迎",
+      "three-dimensional printing＝3D列印"
+    ],
+    "example": {
+      "en": "32. Thanks to the decreased costs of 3D printers, the technology of the three-dimensional printing has recently gained popularity among different fields of industry.",
+      "zh": "隨著 3D 列印機成本下降，近年來三維列印技術已在多種產業領域普及。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "333": {
+    "translation": "患有偏頭痛的人可以透過各種放鬆方式有效減輕疼痛。",
+    "skeleton": [
+      "33. People who suffer｜主句",
+      "from a migraine headache can relieve the pain effectively by all forms of relaxation.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "suffer from + 疾病＝患有；who 引導關係子句。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "suffer",
+        "pos": "依句意",
+        "meaning": "患有；遭受",
+        "usage": "suffer from＝患有"
+      },
+      {
+        "term": "suffer from",
+        "pos": "片語",
+        "meaning": "患有",
+        "usage": "suffer from＝患有"
+      },
+      {
+        "term": "migraine headache",
+        "pos": "片語",
+        "meaning": "偏頭痛",
+        "usage": "migraine headache＝偏頭痛"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "guarantee",
+        "meaning": "保證",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "suffer",
+        "meaning": "患有；遭受",
+        "usage": "suffer from＝患有"
+      },
+      {
+        "label": "C",
+        "term": "proceed",
+        "meaning": "繼續",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "investigate",
+        "meaning": "調查",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "suffer from＝患有",
+      "migraine headache＝偏頭痛"
+    ],
+    "example": {
+      "en": "33. People who suffer from a migraine headache can relieve the pain effectively by all forms of relaxation.",
+      "zh": "患有偏頭痛的人可以透過各種放鬆方式有效減輕疼痛。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "334": {
+    "translation": "為了維持收支平衡，Roy 別無選擇，只能做幾份兼職來賺取額外收入。",
+    "skeleton": [
+      "34. To make both ends meet,｜主要結構",
+      "Roy had no choice｜子句／修飾或轉折",
+      "but to take several part-time jobs to generate additional income.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "generate income＝創造收入；have no choice but to + V。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "generate",
+        "pos": "依句意",
+        "meaning": "產生；創造",
+        "usage": "generate additional income＝增加收入"
+      },
+      {
+        "term": "generate additional income",
+        "pos": "片語",
+        "meaning": "增加收入",
+        "usage": "generate additional income＝增加收入"
+      },
+      {
+        "term": "make ends meet",
+        "pos": "片語",
+        "meaning": "收支平衡",
+        "usage": "make ends meet＝收支平衡"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "despise",
+        "meaning": "鄙視",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "supervise",
+        "meaning": "監督",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "generate",
+        "meaning": "產生；創造",
+        "usage": "generate additional income＝增加收入"
+      },
+      {
+        "label": "D",
+        "term": "overlook",
+        "meaning": "忽略",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "generate additional income＝增加收入",
+      "make ends meet＝收支平衡"
+    ],
+    "example": {
+      "en": "34. To make both ends meet, Roy had no choice but to take several part-time jobs to generate additional income.",
+      "zh": "為了維持收支平衡，Roy 別無選擇，只能做幾份兼職來賺取額外收入。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "335": {
+    "translation": "由小說改編的電影讓影迷失望，因為他們幾乎找不到電影與小說的一致性。",
+    "skeleton": [
+      "The film adapted from a novel was disappointing to the moviegoers｜主要結構",
+      "because they could hardly find any consistency between the two.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "consistency between A and B＝A與B之間的一致；adapted from 為分詞修飾。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "consistency",
+        "pos": "依句意",
+        "meaning": "一致性",
+        "usage": "consistency between＝兩者一致"
+      },
+      {
+        "term": "consistency between",
+        "pos": "片語",
+        "meaning": "兩者一致",
+        "usage": "consistency between＝兩者一致"
+      },
+      {
+        "term": "adapted from a novel",
+        "pos": "片語",
+        "meaning": "改編自小說",
+        "usage": "adapted from a novel＝改編自小說"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "existence",
+        "meaning": "存在",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "metabolism",
+        "meaning": "新陳代謝",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "integrity",
+        "meaning": "完整性",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "consistency",
+        "meaning": "一致性",
+        "usage": "consistency between＝兩者一致"
+      }
+    ],
+    "collocations": [
+      "consistency between＝兩者一致",
+      "adapted from a novel＝改編自小說"
+    ],
+    "example": {
+      "en": "The film adapted from a novel was disappointing to the moviegoers because they could hardly find any consistency between the two.",
+      "zh": "由小說改編的電影讓影迷失望，因為他們幾乎找不到電影與小說的一致性。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "336": {
+    "translation": "據估計，製作實體書可能向大氣排放數百萬噸有害二氧化碳，因此電子書將持續流行。",
+    "skeleton": [
+      "It is estimated｜主要結構",
+      "that producing books in hard copy format may bring several million tons of harmful CO2 into the atmosphere,｜子句／修飾或轉折",
+      "so E-books are definitely here to stay.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "it is estimated that＝據估計；may + 原形動詞。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "estimated",
+        "pos": "依句意",
+        "meaning": "估計",
+        "usage": "it is estimated that＝據估計"
+      },
+      {
+        "term": "it is estimated that",
+        "pos": "片語",
+        "meaning": "據估計",
+        "usage": "it is estimated that＝據估計"
+      },
+      {
+        "term": "hard-copy books",
+        "pos": "片語",
+        "meaning": "紙本書",
+        "usage": "hard-copy books＝紙本書"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "rebelled",
+        "meaning": "反叛",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "estimated",
+        "meaning": "估計",
+        "usage": "it is estimated that＝據估計"
+      },
+      {
+        "label": "C",
+        "term": "undertaken",
+        "meaning": "承擔；從事",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "humiliated",
+        "meaning": "羞辱",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "it is estimated that＝據估計",
+      "hard-copy books＝紙本書"
+    ],
+    "example": {
+      "en": "It is estimated that producing books in hard copy format may bring several million tons of harmful CO2 into the atmosphere, so E-books are definitely here to stay.",
+      "zh": "據估計，製作實體書可能向大氣排放數百萬噸有害二氧化碳，因此電子書將持續流行。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "337": {
+    "translation": "由於輿論變化很大，這名陷入兩難的政治人物難以擺脫醜聞。",
+    "skeleton": [
+      "Due to wide variations of public opinion,｜主要結構",
+      "the political figure caught in a dilemma had a hard time getting away from the scandal.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "variations of / in public opinion＝輿論差異；due to + N。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "variations",
+        "pos": "依句意",
+        "meaning": "變動；差異",
+        "usage": "variations in opinion＝意見差異"
+      },
+      {
+        "term": "variations in opinion",
+        "pos": "片語",
+        "meaning": "意見差異",
+        "usage": "variations in opinion＝意見差異"
+      },
+      {
+        "term": "get away from a scandal",
+        "pos": "片語",
+        "meaning": "擺脫醜聞",
+        "usage": "get away from a scandal＝擺脫醜聞"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "variations",
+        "meaning": "變動；差異",
+        "usage": "variations in opinion＝意見差異"
+      },
+      {
+        "label": "B",
+        "term": "solitude",
+        "meaning": "孤獨",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "approaches",
+        "meaning": "方法",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "isolation",
+        "meaning": "隔離",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "variations in opinion＝意見差異",
+      "get away from a scandal＝擺脫醜聞"
+    ],
+    "example": {
+      "en": "Due to wide variations of public opinion, the political figure caught in a dilemma had a hard time getting away from the scandal.",
+      "zh": "由於輿論變化很大，這名陷入兩難的政治人物難以擺脫醜聞。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "338": {
+    "translation": "目前科學家不遺餘力尋找替代能源，以取代工業消耗的化石燃料。",
+    "skeleton": [
+      "At the present time,｜主要結構",
+      "scientists spare no efforts to find resources of the alternative energy to substitute for the fossil fuels consumed by industry.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "fuels consumed by industry 過去分詞修飾名詞；substitute A for B＝以A替代B。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "consumed",
+        "pos": "依句意",
+        "meaning": "消耗",
+        "usage": "consume fossil fuels＝消耗化石燃料"
+      },
+      {
+        "term": "consume fossil fuels",
+        "pos": "片語",
+        "meaning": "消耗化石燃料",
+        "usage": "consume fossil fuels＝消耗化石燃料"
+      },
+      {
+        "term": "alternative energy",
+        "pos": "片語",
+        "meaning": "替代能源",
+        "usage": "alternative energy＝替代能源"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "occurred",
+        "meaning": "發生",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "consumed",
+        "meaning": "消耗",
+        "usage": "consume fossil fuels＝消耗化石燃料"
+      },
+      {
+        "label": "C",
+        "term": "represented",
+        "meaning": "代表",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "prospered",
+        "meaning": "繁榮",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "consume fossil fuels＝消耗化石燃料",
+      "alternative energy＝替代能源"
+    ],
+    "example": {
+      "en": "At the present time, scientists spare no efforts to find resources of the alternative energy to substitute for the fossil fuels consumed by industry.",
+      "zh": "目前科學家不遺餘力尋找替代能源，以取代工業消耗的化石燃料。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "339": {
+    "translation": "Martin 自從投資金融商品成功、累積可觀財富後，就一直過著舒適奢華的生活。",
+    "skeleton": [
+      "Martin has lived｜主句",
+      "in comfort and luxury ever since he made successful financial investments and piled up a considerable fortune.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "financial investments＝金融投資；ever since 常與現在完成式連用。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "financial",
+        "pos": "依句意",
+        "meaning": "金融的",
+        "usage": "financial investments＝金融投資"
+      },
+      {
+        "term": "financial investments",
+        "pos": "片語",
+        "meaning": "金融投資",
+        "usage": "financial investments＝金融投資"
+      },
+      {
+        "term": "pile up a fortune",
+        "pos": "片語",
+        "meaning": "累積財富",
+        "usage": "pile up a fortune＝累積財富"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "financial",
+        "meaning": "金融的",
+        "usage": "financial investments＝金融投資"
+      },
+      {
+        "label": "B",
+        "term": "profound",
+        "meaning": "深刻的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "superstition",
+        "meaning": "迷信",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "awkward",
+        "meaning": "尷尬的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "financial investments＝金融投資",
+      "pile up a fortune＝累積財富"
+    ],
+    "example": {
+      "en": "Martin has lived in comfort and luxury ever since he made successful financial investments and piled up a considerable fortune.",
+      "zh": "Martin 自從投資金融商品成功、累積可觀財富後，就一直過著舒適奢華的生活。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "340": {
+    "translation": "醫生認為，你攝取的熱量可能影響健康的許多層面。",
+    "skeleton": [
+      "Doctors believe｜主要結構",
+      "that the calories you consume could affect many aspects of your health.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "consume calories＝攝取熱量；you consume 為省略關係代名詞的子句。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "consume",
+        "pos": "依句意",
+        "meaning": "攝取；消耗",
+        "usage": "consume calories＝攝取熱量"
+      },
+      {
+        "term": "consume calories",
+        "pos": "片語",
+        "meaning": "攝取熱量",
+        "usage": "consume calories＝攝取熱量"
+      },
+      {
+        "term": "affect health",
+        "pos": "片語",
+        "meaning": "影響健康",
+        "usage": "affect health＝影響健康"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "consume",
+        "meaning": "攝取；消耗",
+        "usage": "consume calories＝攝取熱量"
+      },
+      {
+        "label": "B",
+        "term": "assume",
+        "meaning": "假設",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "resume",
+        "meaning": "恢復",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "contract",
+        "meaning": "收縮；合約",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "consume calories＝攝取熱量",
+      "affect health＝影響健康"
+    ],
+    "example": {
+      "en": "Doctors believe that the calories you consume could affect many aspects of your health.",
+      "zh": "醫生認為，你攝取的熱量可能影響健康的許多層面。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "341": {
+    "translation": "Irene 最好提防那些偶爾會散播她謠言的八卦朋友。",
+    "skeleton": [
+      "Irene had better watch out for those of her gossip friends who may once in a｜主要結構",
+      "while spread rumors abouther.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "spread rumors＝散播謠言；had better + 原形動詞。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "關係代名詞／關係副詞引導的修飾子句，須判斷其先行詞。",      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "spread",
+        "pos": "依句意",
+        "meaning": "傳播",
+        "usage": "spread rumors＝散播謠言"
+      },
+      {
+        "term": "spread rumors",
+        "pos": "片語",
+        "meaning": "散播謠言",
+        "usage": "spread rumors＝散播謠言"
+      },
+      {
+        "term": "watch out for",
+        "pos": "片語",
+        "meaning": "提防",
+        "usage": "watch out for＝提防"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "decorate",
+        "meaning": "裝飾",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "spread",
+        "meaning": "傳播",
+        "usage": "spread rumors＝散播謠言"
+      },
+      {
+        "label": "C",
+        "term": "pacify",
+        "meaning": "安撫",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "experience",
+        "meaning": "經歷",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "spread rumors＝散播謠言",
+      "watch out for＝提防"
+    ],
+    "example": {
+      "en": "Irene had better watch out for those of her gossip friends who may once in a while spread rumors abouther.",
+      "zh": "Irene 最好提防那些偶爾會散播她謠言的八卦朋友。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "342": {
+    "translation": "購物中心多數安全檢查不符合標準，因此遭到重罰，並須立即改善。",
+    "skeleton": [
+      "After most of its safety inspections failed to meet the standards,｜主要結構",
+      "the mall was seriously penalized,｜子句／修飾或轉折",
+      "and had to make immediate improvement.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "safety inspections＝安全檢查；fail to meet standards＝未達標。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "注意比較級／最高級與 than 等比較結構的搭配。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "inspections",
+        "pos": "依句意",
+        "meaning": "檢查",
+        "usage": "safety inspections＝安全檢查"
+      },
+      {
+        "term": "safety inspections",
+        "pos": "片語",
+        "meaning": "安全檢查",
+        "usage": "safety inspections＝安全檢查"
+      },
+      {
+        "term": "meet standards",
+        "pos": "片語",
+        "meaning": "符合標準",
+        "usage": "meet standards＝符合標準"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "motivation",
+        "meaning": "動機",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "inspections",
+        "meaning": "檢查",
+        "usage": "safety inspections＝安全檢查"
+      },
+      {
+        "label": "C",
+        "term": "purification",
+        "meaning": "淨化",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "concessions",
+        "meaning": "讓步",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "safety inspections＝安全檢查",
+      "meet standards＝符合標準"
+    ],
+    "example": {
+      "en": "After most of its safety inspections failed to meet the standards, the mall was seriously penalized, and had to make immediate improvement.",
+      "zh": "購物中心多數安全檢查不符合標準，因此遭到重罰，並須立即改善。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "343": {
+    "translation": "經理告知工廠，如果到貨品質持續不佳，可能暫停甚至取消原訂單。",
+    "skeleton": [
+      "The manager informed the factory｜主要結構",
+      "that they might withhold or even cancel the original orders｜子句／修飾或轉折",
+      "if the goods shipped in continued to be in poor quality.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "withhold orders＝暫停訂單；might + 原形動詞；if 子句條件。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "withhold",
+        "pos": "依句意",
+        "meaning": "扣住；暫停交付",
+        "usage": "withhold orders＝暫緩訂單"
+      },
+      {
+        "term": "withhold orders",
+        "pos": "片語",
+        "meaning": "暫緩訂單",
+        "usage": "withhold orders＝暫緩訂單"
+      },
+      {
+        "term": "poor quality",
+        "pos": "片語",
+        "meaning": "品質不佳",
+        "usage": "poor quality＝品質不佳"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "resolve",
+        "meaning": "解決",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "approve",
+        "meaning": "批准",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "withhold",
+        "meaning": "扣住；暫停交付",
+        "usage": "withhold orders＝暫緩訂單"
+      },
+      {
+        "label": "D",
+        "term": "decrease",
+        "meaning": "減少",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "withhold orders＝暫緩訂單",
+      "poor quality＝品質不佳"
+    ],
+    "example": {
+      "en": "The manager informed the factory that they might withhold or even cancel the original orders if the goods shipped in continued to be in poor quality.",
+      "zh": "經理告知工廠，如果到貨品質持續不佳，可能暫停甚至取消原訂單。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "344": {
+    "translation": "絢麗的北極光是自然界最壯觀的景象之一，且只見於加拿大、蘇格蘭、挪威與瑞典等部分地區。",
+    "skeleton": [
+      "The dazzling northern lights,｜主要結構",
+      "also called \"the aurora borealis,\" display one of nature's greatest spectacles,｜子句／修飾或轉折",
+      "and are unique to only certain regions in Canada,｜子句／修飾或轉折",
+      "Scotland,｜子句／修飾或轉折",
+      "Norway,｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "be unique to＝為……所獨有；原句地理陳述僅屬題幹，非完整分布資料。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "unique",
+        "pos": "依句意",
+        "meaning": "獨有的",
+        "usage": "unique to＝某地獨有"
+      },
+      {
+        "term": "unique to",
+        "pos": "片語",
+        "meaning": "某地獨有",
+        "usage": "unique to＝某地獨有"
+      },
+      {
+        "term": "northern lights",
+        "pos": "片語",
+        "meaning": "北極光",
+        "usage": "northern lights＝北極光"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "unique",
+        "meaning": "獨有的",
+        "usage": "unique to＝某地獨有"
+      },
+      {
+        "label": "B",
+        "term": "conceptual",
+        "meaning": "概念性的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "practical",
+        "meaning": "實用的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "invisible",
+        "meaning": "看不見的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "unique to＝某地獨有",
+      "northern lights＝北極光"
+    ],
+    "example": {
+      "en": "The dazzling northern lights, also called \"the aurora borealis,\" display one of nature's greatest spectacles, and are unique to only certain regions in Canada, Scotland, Norway, and Sweden.",
+      "zh": "絢麗的北極光是自然界最壯觀的景象之一，且只見於加拿大、蘇格蘭、挪威與瑞典等部分地區。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "345": {
+    "translation": "與主要供應商協商後，即時供應鏈的問題獲得解決。",
+    "skeleton": [
+      "The problems｜主句",
+      "with the just-in-time supply chain were solved following negotiation with the lead suppliers.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "following negotiation＝協商後；be solved 為被動。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "negotiation",
+        "pos": "依句意",
+        "meaning": "協商",
+        "usage": "negotiation with suppliers＝與供應商協商"
+      },
+      {
+        "term": "negotiation with suppliers",
+        "pos": "片語",
+        "meaning": "與供應商協商",
+        "usage": "negotiation with suppliers＝與供應商協商"
+      },
+      {
+        "term": "just-in-time supply chain",
+        "pos": "片語",
+        "meaning": "即時供應鏈",
+        "usage": "just-in-time supply chain＝即時供應鏈"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "demands",
+        "meaning": "要求",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "arguments",
+        "meaning": "爭論",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "negotiation",
+        "meaning": "協商",
+        "usage": "negotiation with suppliers＝與供應商協商"
+      },
+      {
+        "label": "D",
+        "term": "confectionary",
+        "meaning": "糖果製造的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "negotiation with suppliers＝與供應商協商",
+      "just-in-time supply chain＝即時供應鏈"
+    ],
+    "example": {
+      "en": "The problems with the just-in-time supply chain were solved following negotiation with the lead suppliers.",
+      "zh": "與主要供應商協商後，即時供應鏈的問題獲得解決。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "346": {
+    "translation": "一些極限運動愛好者能以驚人的完美程度完成艱難任務。",
+    "skeleton": [
+      "Some extreme-sports enthusiasts are capable｜主句",
+      "of achieving difficult and challenging extreme tasks with incredible perfection.｜補充片語／句子成分"
+    ],
+    "grammar": [
+      "incredible 修飾 perfection；be capable of + V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "incredible",
+        "pos": "依句意",
+        "meaning": "不可思議的",
+        "usage": "incredible perfection＝驚人的完美"
+      },
+      {
+        "term": "incredible perfection",
+        "pos": "片語",
+        "meaning": "驚人的完美",
+        "usage": "incredible perfection＝驚人的完美"
+      },
+      {
+        "term": "be capable of",
+        "pos": "片語",
+        "meaning": "有能力",
+        "usage": "be capable of＝有能力"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "synthetic",
+        "meaning": "合成的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "luxurious",
+        "meaning": "豪華的",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "incredible",
+        "meaning": "不可思議的",
+        "usage": "incredible perfection＝驚人的完美"
+      },
+      {
+        "label": "D",
+        "term": "theory",
+        "meaning": "理論",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "incredible perfection＝驚人的完美",
+      "be capable of＝有能力"
+    ],
+    "example": {
+      "en": "Some extreme-sports enthusiasts are capable of achieving difficult and challenging extreme tasks with incredible perfection.",
+      "zh": "一些極限運動愛好者能以驚人的完美程度完成艱難任務。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "347": {
+    "translation": "Gatsby 先生重感冒又不停咳嗽，喉嚨痛得幾乎吞不下任何東西。",
+    "skeleton": [
+      "Mr. Gatsby had a serious cold and coughed a lot;｜主要結構",
+      "thus,｜子句／修飾或轉折",
+      "he could hardly swallow anything｜子句／修飾或轉折",
+      "because of the painful throat.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "swallow 為及物動詞，可接 anything；could hardly＝幾乎不能。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "swallow",
+        "pos": "依句意",
+        "meaning": "吞嚥",
+        "usage": "swallow food＝吞食"
+      },
+      {
+        "term": "swallow food",
+        "pos": "片語",
+        "meaning": "吞食",
+        "usage": "swallow food＝吞食"
+      },
+      {
+        "term": "have a serious cold",
+        "pos": "片語",
+        "meaning": "重感冒",
+        "usage": "have a serious cold＝重感冒"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "fumble",
+        "meaning": "摸索",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "console",
+        "meaning": "安慰",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "swallow",
+        "meaning": "吞嚥",
+        "usage": "swallow food＝吞食"
+      },
+      {
+        "label": "D",
+        "term": "nominate",
+        "meaning": "提名",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "swallow food＝吞食",
+      "have a serious cold＝重感冒"
+    ],
+    "example": {
+      "en": "Mr. Gatsby had a serious cold and coughed a lot; thus, he could hardly swallow anything because of the painful throat.",
+      "zh": "Gatsby 先生重感冒又不停咳嗽，喉嚨痛得幾乎吞不下任何東西。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "348": {
+    "translation": "根據神經科學家的說法，經常運動可能改善約百分之二十的短期記憶能力，尤其對長者而言。",
+    "skeleton": [
+      "According to neuroscientists,｜主要結構",
+      "approximately 20 percent of short-term memory can be improved by regular physical exercise,｜子句／修飾或轉折",
+      "especially to the elderly.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "approximately + 數字＝大約；can be improved 為被動；原句科學數值未核實。",
+      "be + 過去分詞（p.p.）＝被動語態，主詞是動作承受者。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "approximately",
+        "pos": "依句意",
+        "meaning": "大約",
+        "usage": "approximately 20 percent＝約20%"
+      },
+      {
+        "term": "approximately 20 percent",
+        "pos": "片語",
+        "meaning": "約20%",
+        "usage": "approximately 20 percent＝約20%"
+      },
+      {
+        "term": "short-term memory",
+        "pos": "片語",
+        "meaning": "短期記憶",
+        "usage": "short-term memory＝短期記憶"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "recently",
+        "meaning": "最近",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "approximately",
+        "meaning": "大約",
+        "usage": "approximately 20 percent＝約20%"
+      },
+      {
+        "label": "C",
+        "term": "perpetually",
+        "meaning": "永遠地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "ironically",
+        "meaning": "諷刺地",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "approximately 20 percent＝約20%",
+      "short-term memory＝短期記憶"
+    ],
+    "example": {
+      "en": "According to neuroscientists, approximately 20 percent of short-term memory can be improved by regular physical exercise, especially to the elderly.",
+      "zh": "根據神經科學家的說法，經常運動可能改善約百分之二十的短期記憶能力，尤其對長者而言。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "349": {
+    "translation": "青少年網路成癮帶來嚴重學業與人格問題，並逐漸引起社會關注。",
+    "skeleton": [
+      "The Internet addiction among adolescents brought about serious academic and personality problems and has gradually aroused social attention.｜主句"
+    ],
+    "grammar": [
+      "Internet addiction＝網路成癮；brought about＝導致；has aroused 現在完成式。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "addiction",
+        "pos": "依句意",
+        "meaning": "成癮",
+        "usage": "Internet addiction＝網路成癮"
+      },
+      {
+        "term": "Internet addiction",
+        "pos": "片語",
+        "meaning": "網路成癮",
+        "usage": "Internet addiction＝網路成癮"
+      },
+      {
+        "term": "arouse attention",
+        "pos": "片語",
+        "meaning": "引起關注",
+        "usage": "arouse attention＝引起關注"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "governance",
+        "meaning": "治理",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "B",
+        "term": "addiction",
+        "meaning": "成癮",
+        "usage": "Internet addiction＝網路成癮"
+      },
+      {
+        "label": "C",
+        "term": "retreat",
+        "meaning": "撤退",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "provocation",
+        "meaning": "挑釁",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "Internet addiction＝網路成癮",
+      "arouse attention＝引起關注"
+    ],
+    "example": {
+      "en": "The Internet addiction among adolescents brought about serious academic and personality problems and has gradually aroused social attention.",
+      "zh": "青少年網路成癮帶來嚴重學業與人格問題，並逐漸引起社會關注。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  },
+  "350": {
+    "translation": "動物權利團體聲稱，若化妝品製造商不停止不人道動物實驗，就會採取更強烈的措施。",
+    "skeleton": [
+      "Animal rights groups claimed to take more drastic measures｜主要結構",
+      "unless the cosmetic manufactures stopped inhumane animal tests.｜子句／修飾或轉折"
+    ],
+    "grammar": [
+      "claim to + V＝聲稱要做；unless 引導除非的條件句。",
+      "留意 because／although／while／if 等連接詞所引導的原因、讓步、對比或條件子句。",
+      "辨識 to + 原形動詞的目的／補語功能；若 to 是介系詞，後面則須用名詞或 V-ing。",
+      "注意比較級／最高級與 than 等比較結構的搭配。",
+      "⚠ 原答案資料缺漏或無效；此選項是推定答案，應與原題語境對照判斷，非官方核定答案。",
+      "⚠ 原題紀錄問題：原答案檔未提供此題答案"
+    ],
+    "vocab": [
+      {
+        "term": "claimed",
+        "pos": "依句意",
+        "meaning": "宣稱",
+        "usage": "claim to take action＝聲稱採取行動"
+      },
+      {
+        "term": "claim to take action",
+        "pos": "片語",
+        "meaning": "聲稱採取行動",
+        "usage": "claim to take action＝聲稱採取行動"
+      },
+      {
+        "term": "drastic measures",
+        "pos": "片語",
+        "meaning": "強烈手段",
+        "usage": "drastic measures＝強烈手段"
+      }
+    ],
+    "options": [
+      {
+        "label": "A",
+        "term": "claimed",
+        "meaning": "宣稱",
+        "usage": "claim to take action＝聲稱採取行動"
+      },
+      {
+        "label": "B",
+        "term": "unraveled",
+        "meaning": "拆解；揭開",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "C",
+        "term": "surrendered",
+        "meaning": "投降",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      },
+      {
+        "label": "D",
+        "term": "liberated",
+        "meaning": "解放",
+        "usage": "注意此選項的詞義、詞性與句意，不能僅因字形相近就選用。"
+      }
+    ],
+    "collocations": [
+      "claim to take action＝聲稱採取行動",
+      "drastic measures＝強烈手段"
+    ],
+    "example": {
+      "en": "Animal rights groups claimed to take more drastic measures unless the cosmetic manufactures stopped inhumane animal tests.",
+      "zh": "動物權利團體聲稱，若化妝品製造商不停止不人道動物實驗，就會採取更強烈的措施。"
+    },
+    "sourceNote": "本題答案／選項含原始資料疑義，解析保留警示供人工查核。"
+  }
+}
